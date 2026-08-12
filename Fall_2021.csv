@@ -1,0 +1,627 @@
+Tournament,Season,Year,Round,G/O,W/L,Speaker One Name,Speaker One Status,Speaker Two Name,Speaker Two Status,Opponent One Name,Opponent One Status,Opponent Two Name,Opponent Two Status,Judge,Speaker One Speaks,Speaker One Rank,Speaker Two Speaks,Speaker Two Rank,Opponent One Speaks,Opponent One Rank,Opponent Two Speaks,Opponent Two Rank
+Temple + Wesleyan,Fall,2021,1,G,L,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Patrick Elter,27.0,2,27.0,3,27.0,4,29.0,1
+Temple + Wesleyan,Fall,2021,2,O,W,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Blake James,Varsity,Erica Harper,Varsity,Jon Nase,27.0,2,29.0,1,26.0,4,27.0,3
+Temple + Wesleyan,Fall,2021,3,O,L,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Tyler Hugo,26.0,3,25.0,4,28.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,4,G,L,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Elisa Nisly,Varsity,Lavina Ngo,Novice,Melia Marguleas,28.0,3,27.0,4,29.0,1,29.0,2
+Temple + Wesleyan,Fall,2021,5,G,W,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Katherine Lareau,Novice,Nick Hughes,Novice,Ari Randall,30.0,1,27.0,3,24.0,4,29.0,2
+Temple + Wesleyan,Fall,2021,1,G,W,Mac Hays,Varsity,Sai Karnati,Varsity,Allison Li,Varsity,Uma Menon,Varsity,Jennifer Tran,28.0,2,29.0,1,27.0,3,26.0,4
+Temple + Wesleyan,Fall,2021,2,G,W,Mac Hays,Varsity,Sai Karnati,Varsity,Maggie Mooney,Novice,Richard Hoang,Novice,Sam Bailey,28.0,2,29.0,1,28.0,3,27.0,4
+Temple + Wesleyan,Fall,2021,3,O,W,Mac Hays,Varsity,Sai Karnati,Varsity,Devesh Kodnani,Varsity,Robert Brown,Varsity,Tim Goggin,30.0,1,28.0,3,29.0,2,27.0,4
+Temple + Wesleyan,Fall,2021,4,O,W,Mac Hays,Varsity,Sai Karnati,Varsity,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Lilah Steinberg,31.0,1,31.0,2,28.0,4,29.0,3
+Temple + Wesleyan,Fall,2021,5,O,W,Mac Hays,Varsity,Sai Karnati,Varsity,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Beatrix Briggs,31.0,1,30.0,2,27.0,4,29.0,3
+Temple + Wesleyan,Fall,2021,2,O,W,Jackson Segal,Varsity,Mia Stone-Molloy,Varsity,Hadley Kim,Varsity,Luke Chan,Varsity,Audrey Shing,31.0,1,31.0,2,26.0,4,26.0,3
+Temple + Wesleyan,Fall,2021,3,G,W,Jackson Segal,Varsity,Mia Stone-Molloy,Varsity,Abraham Paik,Novice,Rodda John,Varsity,Emmanuel Murphy,34.0,1,34.0,3,32.0,4,34.0,2
+Temple + Wesleyan,Fall,2021,4,O,W,Jackson Segal,Varsity,Mia Stone-Molloy,Varsity,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Beatrix Briggs,26.0,2,27.0,1,25.0,4,25.0,3
+Temple + Wesleyan,Fall,2021,5,G,W,Jackson Segal,Varsity,Mia Stone-Molloy,Varsity,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Jennifer Tran,33.0,1,31.0,2,30.0,4,30.0,3
+Temple + Wesleyan,Fall,2021,1,O,W,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Elisa Nisly,Varsity,Lavina Ngo,Novice,Dhruv Vajipayajula,28.0,1,26.0,3,27.0,2,24.0,4
+Temple + Wesleyan,Fall,2021,2,G,L,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Samuel Johnson,28.0,3,26.0,4,30.0,2,31.0,1
+Temple + Wesleyan,Fall,2021,3,G,W,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Tyler Hugo,28.0,1,27.0,2,26.0,3,25.0,4
+Temple + Wesleyan,Fall,2021,4,G,W,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Abraham Paik,Novice,Rodda John,Varsity,Audrey Shing,31.0,1,30.0,3,29.0,4,31.0,2
+Temple + Wesleyan,Fall,2021,5,O,L,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Jackson Segal,Varsity,Mia Stone-Molloy,Varsity,Jennifer Tran,30.0,4,30.0,3,33.0,1,31.0,2
+Temple + Wesleyan,Fall,2021,1,G,L,Ethan Ross,Novice,Shivam Mundhra,Novice,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Marcus Khoo,27.0,3,26.0,4,28.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,2,O,W,Ethan Ross,Novice,Shivam Mundhra,Novice,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Ari Randall,30.0,1,28.0,3,30.0,2,26.0,4
+Temple + Wesleyan,Fall,2021,3,O,W,Ethan Ross,Novice,Shivam Mundhra,Novice,Ansh Thanki,Novice,Rohit Datta,Novice,Melia Marguleas,30.0,1,28.0,2,26.0,4,26.0,3
+Temple + Wesleyan,Fall,2021,4,G,L,Ethan Ross,Novice,Shivam Mundhra,Novice,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Ethan Quinn,26.0,3,25.0,4,28.0,2,29.0,1
+Temple + Wesleyan,Fall,2021,5,G,L,Ethan Ross,Novice,Shivam Mundhra,Novice,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Jiali Mann,25.0,4,26.0,3,28.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,2,G,W,Devesh Kodnani,Varsity,Robert Brown,Varsity,Rachel Pepper,Varsity,Rachel Robin,Varsity,Luke Stoner,31.0,2,32.0,1,30.0,3,29.0,4
+Temple + Wesleyan,Fall,2021,3,G,L,Devesh Kodnani,Varsity,Robert Brown,Varsity,Mac Hays,Varsity,Sai Karnati,Varsity,Tim Goggin,29.0,2,27.0,4,30.0,1,28.0,3
+Temple + Wesleyan,Fall,2021,4,O,W,Devesh Kodnani,Varsity,Robert Brown,Varsity,Hisham Shami,Novice,Sarah Cobau,Novice,Marcus Khoo,28.0,1,27.0,2,27.0,3,26.0,4
+Temple + Wesleyan,Fall,2021,5,G,L,Devesh Kodnani,Varsity,Robert Brown,Varsity,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Audrey Shing,33.0,2,31.0,4,32.0,3,33.0,1
+Temple + Wesleyan,Fall,2021,1,G,L,Lizzie Waters,Novice,Trevor Haefner,Varsity,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Tim Goggin,28.0,3,26.0,4,29.0,2,30.0,1
+Temple + Wesleyan,Fall,2021,2,G,L,Lizzie Waters,Novice,Trevor Haefner,Varsity,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Melia Marguleas,27.0,4,27.0,3,29.0,1,28.0,2
+Temple + Wesleyan,Fall,2021,3,O,L,Lizzie Waters,Novice,Trevor Haefner,Varsity,Elisa Nisly,Varsity,Lavina Ngo,Novice,Jennifer Tran,26.0,4,28.0,2,29.0,1,27.0,3
+Temple + Wesleyan,Fall,2021,4,O,W,Lizzie Waters,Novice,Trevor Haefner,Varsity,Katherine Mcgivney,Novice,Knox Watson,Novice,Ari Randall,28.0,1,26.0,3,25.0,4,27.0,2
+Temple + Wesleyan,Fall,2021,5,G,W,Lizzie Waters,Novice,Trevor Haefner,Varsity,Blake James,Varsity,Erica Harper,Varsity,Daniel Chung,27.0,1,26.0,2,23.0,4,23.0,3
+Temple + Wesleyan,Fall,2021,1,O,W,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Ethan Ross,Novice,Shivam Mundhra,Novice,Marcus Khoo,28.0,1,27.0,2,27.0,3,26.0,4
+Temple + Wesleyan,Fall,2021,2,O,L,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Lilah Steinberg,30.0,2,28.0,4,32.0,1,29.0,3
+Temple + Wesleyan,Fall,2021,3,G,W,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Audrey Shing,31.0,1,31.0,2,28.0,3,27.0,4
+Temple + Wesleyan,Fall,2021,4,G,L,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Allison Li,Varsity,Uma Menon,Varsity,Patrick Elter,29.0,3,28.0,4,29.0,1,29.0,2
+Temple + Wesleyan,Fall,2021,1,O,L,Donnell Weldon,Novice,Stanley Sun,Varsity,Rachel Pepper,Varsity,Rachel Robin,Varsity,Jon Nase,25.0,3,22.0,4,29.0,1,28.0,2
+Temple + Wesleyan,Fall,2021,2,O,W,Donnell Weldon,Novice,Stanley Sun,Varsity,Katherine Lareau,Novice,Nick Hughes,Novice,Jennifer Tran,26.0,1,25.0,2,24.0,3,23.0,4
+Temple + Wesleyan,Fall,2021,3,G,L,Donnell Weldon,Novice,Stanley Sun,Varsity,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Chris Morillo,27.0,3,26.0,4,30.0,1,29.0,2
+Temple + Wesleyan,Fall,2021,4,G,L,Donnell Weldon,Novice,Stanley Sun,Varsity,Maggie Mooney,Novice,Richard Hoang,Novice,Bianca Rosen,26.0,4,27.0,3,30.0,1,29.0,2
+Temple + Wesleyan,Fall,2021,5,G,L,Donnell Weldon,Novice,Stanley Sun,Varsity,Hadley Kim,Varsity,Luke Chan,Varsity,Patrick Elter,27.0,3,26.0,4,30.0,1,28.0,2
+Temple + Wesleyan,Fall,2021,1,O,W,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Ethan Reiter,Varsity,Joe Cox,Varsity,Lilah Steinberg,31.0,1,30.0,2,28.0,4,29.0,3
+Temple + Wesleyan,Fall,2021,2,O,W,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Samuel Johnson,30.0,2,31.0,1,28.0,3,26.0,4
+Temple + Wesleyan,Fall,2021,3,G,W,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Ethan Quinn,32.0,2,32.0,1,31.0,3,30.0,4
+Temple + Wesleyan,Fall,2021,4,G,L,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Jackson Segal,Varsity,Mia Stone-Molloy,Varsity,Beatrix Briggs,25.0,4,25.0,3,26.0,2,27.0,1
+Temple + Wesleyan,Fall,2021,5,O,W,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Devesh Kodnani,Varsity,Robert Brown,Varsity,Audrey Shing,32.0,3,33.0,1,33.0,2,31.0,4
+Temple + Wesleyan,Fall,2021,1,G,W,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Aaron Rajput,Novice,Weslan Hansen,Varsity,Sophie Fetter,28.0,1,26.0,3,27.0,2,25.0,4
+Temple + Wesleyan,Fall,2021,2,O,L,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Abraham Paik,Novice,Rodda John,Varsity,Tim Goggin,25.0,4,26.0,3,28.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,3,G,W,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Ethan Reiter,Varsity,Joe Cox,Varsity,Dhruv Vajipayajula,29.0,1,27.0,3,28.0,2,26.0,4
+Temple + Wesleyan,Fall,2021,4,O,L,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Luke Stoner,29.0,4,30.0,3,31.0,1,31.0,2
+Temple + Wesleyan,Fall,2021,5,O,W,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Ethan Ross,Novice,Shivam Mundhra,Novice,Jiali Mann,28.0,1,27.0,2,25.0,4,26.0,3
+Temple + Wesleyan,Fall,2021,2,G,L,Hadley Kim,Varsity,Luke Chan,Varsity,Jackson Segal,Varsity,Mia Stone-Molloy,Varsity,Audrey Shing,26.0,4,26.0,3,31.0,1,31.0,2
+Temple + Wesleyan,Fall,2021,3,G,L,Hadley Kim,Varsity,Luke Chan,Varsity,Allison Li,Varsity,Uma Menon,Varsity,Sophie Fetter,27.0,3,25.0,4,28.0,2,30.0,1
+Temple + Wesleyan,Fall,2021,4,G,L,Hadley Kim,Varsity,Luke Chan,Varsity,Aaron Rajput,Novice,Weslan Hansen,Varsity,Elena Sole Rodriguez,25.0,3,22.0,4,28.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,5,O,W,Hadley Kim,Varsity,Luke Chan,Varsity,Donnell Weldon,Novice,Stanley Sun,Varsity,Patrick Elter,30.0,1,28.0,2,27.0,3,26.0,4
+Temple + Wesleyan,Fall,2021,1,O,L,Hisham Shami,Novice,Sarah Cobau,Novice,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Samuel Johnson,27.0,3,24.0,4,32.0,2,32.0,1
+Temple + Wesleyan,Fall,2021,2,G,W,Hisham Shami,Novice,Sarah Cobau,Novice,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Bianca Rosen,30.0,1,28.0,2,25.0,4,27.0,3
+Temple + Wesleyan,Fall,2021,3,O,W,Hisham Shami,Novice,Sarah Cobau,Novice,Aaron Rajput,Novice,Weslan Hansen,Varsity,Ari Randall,30.0,1,29.0,2,26.0,4,27.0,3
+Temple + Wesleyan,Fall,2021,4,G,L,Hisham Shami,Novice,Sarah Cobau,Novice,Devesh Kodnani,Varsity,Robert Brown,Varsity,Marcus Khoo,27.0,3,26.0,4,28.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,5,G,W,Hisham Shami,Novice,Sarah Cobau,Novice,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Drew Harrington,27.0,3,30.0,1,28.0,2,24.0,4
+Temple + Wesleyan,Fall,2021,1,G,W,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Hisham Shami,Novice,Sarah Cobau,Novice,Samuel Johnson,32.0,2,32.0,1,27.0,3,24.0,4
+Temple + Wesleyan,Fall,2021,2,O,W,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Jared Lenn,Varsity,Laura Giugno,Varsity,Ethan Quinn,32.0,2,32.0,1,27.0,4,29.0,3
+Temple + Wesleyan,Fall,2021,3,O,W,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Donnell Weldon,Novice,Stanley Sun,Varsity,Chris Morillo,30.0,1,29.0,2,27.0,3,26.0,4
+Temple + Wesleyan,Fall,2021,4,G,L,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Mac Hays,Varsity,Sai Karnati,Varsity,Lilah Steinberg,28.0,4,29.0,3,31.0,1,31.0,2
+Temple + Wesleyan,Fall,2021,5,O,W,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Allison Li,Varsity,Uma Menon,Varsity,Tim Goggin,30.0,1,28.0,3,29.0,2,27.0,4
+Temple + Wesleyan,Fall,2021,1,O,W,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Patrick Elter,27.0,4,29.0,1,27.0,2,27.0,3
+Temple + Wesleyan,Fall,2021,2,G,L,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Kathy Piperno,32.0,3,31.0,4,33.0,2,34.0,1
+Temple + Wesleyan,Fall,2021,3,G,W,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Saad Haroon,Novice,Thomas Yepes,Novice,Sam Bailey,27.0,2,28.0,1,23.0,3,22.0,4
+Temple + Wesleyan,Fall,2021,4,O,W,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Ethan Ross,Novice,Shivam Mundhra,Novice,Ethan Quinn,28.0,2,29.0,1,26.0,3,25.0,4
+Temple + Wesleyan,Fall,2021,5,O,W,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Rachel Pepper,Varsity,Rachel Robin,Varsity,Sophie Fetter,31.0,1,27.0,3,30.0,2,27.0,4
+Temple + Wesleyan,Fall,2021,1,G,L,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Tyler Hugo,26.0,3,25.0,4,28.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,2,G,L,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Ethan Ross,Novice,Shivam Mundhra,Novice,Ari Randall,30.0,2,26.0,4,30.0,1,28.0,3
+Temple + Wesleyan,Fall,2021,3,O,W,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Ben White,27.0,1,26.0,2,22.0,4,23.0,3
+Temple + Wesleyan,Fall,2021,4,O,L,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Peter Capote,30.0,2,29.0,4,30.0,3,30.0,1
+Temple + Wesleyan,Fall,2021,5,G,W,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Katherine Mcgivney,Novice,Knox Watson,Novice,Jon Nase,27.0,2,27.0,1,23.0,4,24.0,3
+Temple + Wesleyan,Fall,2021,1,O,L,Allison Li,Varsity,Uma Menon,Varsity,Mac Hays,Varsity,Sai Karnati,Varsity,Jennifer Tran,27.0,3,26.0,4,28.0,2,29.0,1
+Temple + Wesleyan,Fall,2021,2,G,W,Allison Li,Varsity,Uma Menon,Varsity,Ruiqi Chen,Novice,Stan Shih,Novice,Peter Capote,31.0,1,29.0,2,24.0,4,29.0,3
+Temple + Wesleyan,Fall,2021,3,O,W,Allison Li,Varsity,Uma Menon,Varsity,Hadley Kim,Varsity,Luke Chan,Varsity,Sophie Fetter,28.0,2,30.0,1,27.0,3,25.0,4
+Temple + Wesleyan,Fall,2021,4,O,W,Allison Li,Varsity,Uma Menon,Varsity,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Patrick Elter,29.0,1,29.0,2,29.0,3,28.0,4
+Temple + Wesleyan,Fall,2021,5,G,L,Allison Li,Varsity,Uma Menon,Varsity,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Tim Goggin,29.0,2,27.0,4,30.0,1,28.0,3
+Temple + Wesleyan,Fall,2021,1,O,W,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Lizzie Waters,Novice,Trevor Haefner,Varsity,Tim Goggin,29.0,2,30.0,1,28.0,3,26.0,4
+Temple + Wesleyan,Fall,2021,2,O,W,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Kathy Piperno,33.0,2,34.0,1,32.0,3,31.0,4
+Temple + Wesleyan,Fall,2021,3,G,W,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Aidan Ng,Novice,Ishan Patel,Novice,Samuel Johnson,31.0,2,32.0,1,24.0,4,24.0,3
+Temple + Wesleyan,Fall,2021,4,G,W,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Jared Lenn,Varsity,Laura Giugno,Varsity,Sophie Fetter,28.0,4,31.0,1,28.0,3,30.0,2
+Temple + Wesleyan,Fall,2021,5,G,L,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Mac Hays,Varsity,Sai Karnati,Varsity,Beatrix Briggs,27.0,4,29.0,3,31.0,1,30.0,2
+Temple + Wesleyan,Fall,2021,1,O,L,Aaron Rajput,Novice,Weslan Hansen,Varsity,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Sophie Fetter,27.0,2,25.0,4,28.0,1,26.0,3
+Temple + Wesleyan,Fall,2021,2,G,W,Aaron Rajput,Novice,Weslan Hansen,Varsity,Elisa Nisly,Varsity,Lavina Ngo,Novice,Tyler Hugo,28.0,2,29.0,1,25.0,4,26.0,3
+Temple + Wesleyan,Fall,2021,3,G,L,Aaron Rajput,Novice,Weslan Hansen,Varsity,Hisham Shami,Novice,Sarah Cobau,Novice,Ari Randall,26.0,4,27.0,3,30.0,1,29.0,2
+Temple + Wesleyan,Fall,2021,4,O,W,Aaron Rajput,Novice,Weslan Hansen,Varsity,Hadley Kim,Varsity,Luke Chan,Varsity,Elena Sole Rodriguez,28.0,1,27.0,2,25.0,3,22.0,4
+Temple + Wesleyan,Fall,2021,5,G,W,Aaron Rajput,Novice,Weslan Hansen,Varsity,Maggie Mooney,Novice,Richard Hoang,Novice,Marcus Khoo,26.0,2,27.0,1,24.0,4,25.0,3
+Temple + Wesleyan,Fall,2021,1,O,W,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Tyler Hugo,28.0,1,27.0,2,26.0,3,25.0,4
+Temple + Wesleyan,Fall,2021,2,G,L,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Aidan Ng,Novice,Ishan Patel,Novice,Marcus Khoo,24.0,3,24.0,4,28.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,3,O,L,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Audrey Shing,28.0,3,27.0,4,31.0,1,31.0,2
+Temple + Wesleyan,Fall,2021,4,G,W,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Ansh Thanki,Novice,Rohit Datta,Novice,Jiali Mann,28.0,1,26.0,3,27.0,2,25.0,4
+Temple + Wesleyan,Fall,2021,5,O,L,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Abraham Paik,Novice,Rodda John,Varsity,Lilah Steinberg,29.0,2,27.0,4,28.0,3,31.0,1
+Temple + Wesleyan,Fall,2021,1,G,W,Aidan Ng,Novice,Ishan Patel,Novice,Katherine Lareau,Novice,Nick Hughes,Novice,Sean Oddoye,31.0,1,29.0,2,27.0,3,26.0,4
+Temple + Wesleyan,Fall,2021,2,O,W,Aidan Ng,Novice,Ishan Patel,Novice,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Marcus Khoo,28.0,1,27.0,2,24.0,3,24.0,4
+Temple + Wesleyan,Fall,2021,3,O,L,Aidan Ng,Novice,Ishan Patel,Novice,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Samuel Johnson,24.0,4,24.0,3,31.0,2,32.0,1
+Temple + Wesleyan,Fall,2021,4,G,L,Aidan Ng,Novice,Ishan Patel,Novice,Rachel Pepper,Varsity,Rachel Robin,Varsity,Tim Do,20.0,4,21.0,3,28.0,1,28.0,2
+Temple + Wesleyan,Fall,2021,5,G,L,Aidan Ng,Novice,Ishan Patel,Novice,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Emmanuel Murphy,30.0,3,26.0,4,34.0,2,34.0,1
+Temple + Wesleyan,Fall,2021,1,O,L,Ruiqi Chen,Novice,Stan Shih,Novice,Maggie Mooney,Novice,Richard Hoang,Novice,Ari Randall,24.0,4,25.0,3,29.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,2,O,L,Ruiqi Chen,Novice,Stan Shih,Novice,Allison Li,Varsity,Uma Menon,Varsity,Peter Capote,24.0,4,29.0,3,31.0,1,29.0,2
+Temple + Wesleyan,Fall,2021,4,G,L,Ruiqi Chen,Novice,Stan Shih,Novice,Ethan Reiter,Varsity,Joe Cox,Varsity,Jon Nase,22.0,3,20.0,4,28.0,2,29.0,1
+Temple + Wesleyan,Fall,2021,5,G,L,Ruiqi Chen,Novice,Stan Shih,Novice,Ansh Thanki,Novice,Rohit Datta,Novice,Juliya Medyukh,24.0,4,26.0,2,27.0,1,25.0,3
+Temple + Wesleyan,Fall,2021,1,G,L,Ethan Reiter,Varsity,Joe Cox,Varsity,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Lilah Steinberg,28.0,4,29.0,3,31.0,1,30.0,2
+Temple + Wesleyan,Fall,2021,2,O,W,Ethan Reiter,Varsity,Joe Cox,Varsity,Saad Haroon,Novice,Thomas Yepes,Novice,Patrick Elter,28.0,1,27.0,2,26.0,3,25.0,4
+Temple + Wesleyan,Fall,2021,3,O,L,Ethan Reiter,Varsity,Joe Cox,Varsity,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Dhruv Vajipayajula,28.0,2,26.0,4,29.0,1,27.0,3
+Temple + Wesleyan,Fall,2021,4,O,W,Ethan Reiter,Varsity,Joe Cox,Varsity,Ruiqi Chen,Novice,Stan Shih,Novice,Jon Nase,28.0,2,29.0,1,22.0,3,20.0,4
+Temple + Wesleyan,Fall,2021,5,O,L,Ethan Reiter,Varsity,Joe Cox,Varsity,Jared Lenn,Varsity,Laura Giugno,Varsity,Melia Marguleas,31.0,2,29.0,4,29.0,3,31.0,1
+Temple + Wesleyan,Fall,2021,1,G,W,Rachel Pepper,Varsity,Rachel Robin,Varsity,Donnell Weldon,Novice,Stanley Sun,Varsity,Jon Nase,29.0,1,28.0,2,25.0,3,22.0,4
+Temple + Wesleyan,Fall,2021,2,O,L,Rachel Pepper,Varsity,Rachel Robin,Varsity,Devesh Kodnani,Varsity,Robert Brown,Varsity,Luke Stoner,30.0,3,29.0,4,31.0,2,32.0,1
+Temple + Wesleyan,Fall,2021,3,O,W,Rachel Pepper,Varsity,Rachel Robin,Varsity,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Lilah Steinberg,32.0,2,32.0,1,29.0,4,30.0,3
+Temple + Wesleyan,Fall,2021,4,O,W,Rachel Pepper,Varsity,Rachel Robin,Varsity,Aidan Ng,Novice,Ishan Patel,Novice,Tim Do,28.0,1,28.0,2,20.0,4,21.0,3
+Temple + Wesleyan,Fall,2021,5,G,L,Rachel Pepper,Varsity,Rachel Robin,Varsity,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Sophie Fetter,30.0,2,27.0,4,31.0,1,27.0,3
+Temple + Wesleyan,Fall,2021,1,G,L,Elisa Nisly,Varsity,Lavina Ngo,Novice,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Dhruv Vajipayajula,27.0,2,24.0,4,28.0,1,26.0,3
+Temple + Wesleyan,Fall,2021,2,O,L,Elisa Nisly,Varsity,Lavina Ngo,Novice,Aaron Rajput,Novice,Weslan Hansen,Varsity,Tyler Hugo,25.0,4,26.0,3,28.0,2,29.0,1
+Temple + Wesleyan,Fall,2021,3,G,W,Elisa Nisly,Varsity,Lavina Ngo,Novice,Lizzie Waters,Novice,Trevor Haefner,Varsity,Jennifer Tran,29.0,1,27.0,3,26.0,4,28.0,2
+Temple + Wesleyan,Fall,2021,4,O,W,Elisa Nisly,Varsity,Lavina Ngo,Novice,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Melia Marguleas,29.0,1,29.0,2,28.0,3,27.0,4
+Temple + Wesleyan,Fall,2021,1,O,L,Ansh Thanki,Novice,Rohit Datta,Novice,Abraham Paik,Novice,Rodda John,Varsity,Luke Stoner,27.0,4,28.0,3,31.0,2,32.0,1
+Temple + Wesleyan,Fall,2021,2,G,W,Ansh Thanki,Novice,Rohit Datta,Novice,Katherine Mcgivney,Novice,Knox Watson,Novice,Sean Oddoye,25.0,3,27.0,1,26.0,2,25.0,4
+Temple + Wesleyan,Fall,2021,3,G,L,Ansh Thanki,Novice,Rohit Datta,Novice,Ethan Ross,Novice,Shivam Mundhra,Novice,Melia Marguleas,26.0,4,26.0,3,30.0,1,28.0,2
+Temple + Wesleyan,Fall,2021,4,O,L,Ansh Thanki,Novice,Rohit Datta,Novice,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Jiali Mann,27.0,2,25.0,4,28.0,1,26.0,3
+Temple + Wesleyan,Fall,2021,5,O,W,Ansh Thanki,Novice,Rohit Datta,Novice,Ruiqi Chen,Novice,Stan Shih,Novice,Juliya Medyukh,27.0,1,25.0,3,24.0,4,26.0,2
+Temple + Wesleyan,Fall,2021,2,G,L,Saad Haroon,Novice,Thomas Yepes,Novice,Ethan Reiter,Varsity,Joe Cox,Varsity,Patrick Elter,26.0,3,25.0,4,28.0,1,27.0,2
+Temple + Wesleyan,Fall,2021,3,O,L,Saad Haroon,Novice,Thomas Yepes,Novice,Cayden Monteiro,Novice,Jonas Poggi,Varsity,Sam Bailey,23.0,3,22.0,4,27.0,2,28.0,1
+Temple + Wesleyan,Fall,2021,4,O,L,Saad Haroon,Novice,Thomas Yepes,Novice,Katherine Lareau,Novice,Nick Hughes,Novice,Juliya Medyukh,25.0,3,24.0,4,26.0,2,27.0,1
+Temple + Wesleyan,Fall,2021,5,G,L,Saad Haroon,Novice,Thomas Yepes,Novice,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Elena Sole Rodriguez,24.0,4,24.0,3,25.0,1,25.0,2
+Temple + Wesleyan,Fall,2021,1,G,L,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Kathy Piperno,26.0,4,27.0,3,30.0,1,29.0,2
+Temple + Wesleyan,Fall,2021,2,O,L,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Hisham Shami,Novice,Sarah Cobau,Novice,Bianca Rosen,25.0,4,27.0,3,30.0,1,28.0,2
+Temple + Wesleyan,Fall,2021,3,G,L,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Ben White,22.0,4,23.0,3,27.0,1,26.0,2
+Temple + Wesleyan,Fall,2021,4,G,L,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Blake James,Varsity,Erica Harper,Varsity,Jennifer Tran,27.0,2,25.0,4,26.0,3,28.0,1
+Temple + Wesleyan,Fall,2021,5,O,W,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Saad Haroon,Novice,Thomas Yepes,Novice,Elena Sole Rodriguez,25.0,1,25.0,2,24.0,4,24.0,3
+Temple + Wesleyan,Fall,2021,1,G,W,Abraham Paik,Novice,Rodda John,Varsity,Ansh Thanki,Novice,Rohit Datta,Novice,Luke Stoner,31.0,2,32.0,1,27.0,4,28.0,3
+Temple + Wesleyan,Fall,2021,2,G,W,Abraham Paik,Novice,Rodda John,Varsity,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Tim Goggin,28.0,1,27.0,2,25.0,4,26.0,3
+Temple + Wesleyan,Fall,2021,3,O,L,Abraham Paik,Novice,Rodda John,Varsity,Jackson Segal,Varsity,Mia Stone-Molloy,Varsity,Emmanuel Murphy,32.0,4,34.0,2,34.0,1,34.0,3
+Temple + Wesleyan,Fall,2021,4,O,L,Abraham Paik,Novice,Rodda John,Varsity,Leo Fleissig,Novice,Prottoya Chowdhury,Novice,Audrey Shing,29.0,4,31.0,2,31.0,1,30.0,3
+Temple + Wesleyan,Fall,2021,5,G,W,Abraham Paik,Novice,Rodda John,Varsity,Emily Chow,Varsity,Stav Kanza-Levi,Novice,Lilah Steinberg,28.0,3,31.0,1,29.0,2,27.0,4
+Temple + Wesleyan,Fall,2021,1,G,L,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Jared Lenn,Varsity,Laura Giugno,Varsity,Anisah Colon,21.0,3,21.0,4,24.0,2,25.0,1
+Temple + Wesleyan,Fall,2021,2,O,W,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Lizzie Waters,Novice,Trevor Haefner,Varsity,Melia Marguleas,29.0,1,28.0,2,27.0,4,27.0,3
+Temple + Wesleyan,Fall,2021,3,G,L,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Rachel Pepper,Varsity,Rachel Robin,Varsity,Lilah Steinberg,29.0,4,30.0,3,32.0,2,32.0,1
+Temple + Wesleyan,Fall,2021,4,G,W,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Peter Capote,30.0,3,30.0,1,30.0,2,29.0,4
+Temple + Wesleyan,Fall,2021,5,O,L,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Hisham Shami,Novice,Sarah Cobau,Novice,Drew Harrington,28.0,2,24.0,4,27.0,3,30.0,1
+Temple + Wesleyan,Fall,2021,1,G,W,Maggie Mooney,Novice,Richard Hoang,Novice,Ruiqi Chen,Novice,Stan Shih,Novice,Ari Randall,29.0,1,27.0,2,24.0,4,25.0,3
+Temple + Wesleyan,Fall,2021,2,O,L,Maggie Mooney,Novice,Richard Hoang,Novice,Mac Hays,Varsity,Sai Karnati,Varsity,Sam Bailey,28.0,3,27.0,4,28.0,2,29.0,1
+Temple + Wesleyan,Fall,2021,3,G,L,Maggie Mooney,Novice,Richard Hoang,Novice,Jared Lenn,Varsity,Laura Giugno,Varsity,Jon Nase,27.0,3,27.0,4,27.0,2,27.0,1
+Temple + Wesleyan,Fall,2021,4,O,W,Maggie Mooney,Novice,Richard Hoang,Novice,Donnell Weldon,Novice,Stanley Sun,Varsity,Bianca Rosen,30.0,1,29.0,2,26.0,4,27.0,3
+Temple + Wesleyan,Fall,2021,5,O,L,Maggie Mooney,Novice,Richard Hoang,Novice,Aaron Rajput,Novice,Weslan Hansen,Varsity,Marcus Khoo,24.0,4,25.0,3,26.0,2,27.0,1
+Temple + Wesleyan,Fall,2021,1,O,W,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Kathy Piperno,30.0,1,29.0,2,26.0,4,27.0,3
+Temple + Wesleyan,Fall,2021,2,G,W,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Lilah Steinberg,32.0,1,29.0,3,30.0,2,28.0,4
+Temple + Wesleyan,Fall,2021,3,O,L,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Ethan Quinn,31.0,3,30.0,4,32.0,2,32.0,1
+Temple + Wesleyan,Fall,2021,4,G,W,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Brandon Burton,Varsity,Vihini Gunasekera,Novice,Luke Stoner,31.0,1,31.0,2,29.0,4,30.0,3
+Temple + Wesleyan,Fall,2021,5,O,W,Benny Nicholson,Varsity,Muzamil Godil,Varsity,Aidan Ng,Novice,Ishan Patel,Novice,Emmanuel Murphy,34.0,2,34.0,1,30.0,3,26.0,4
+Temple + Wesleyan,Fall,2021,1,O,W,Jared Lenn,Varsity,Laura Giugno,Varsity,Jaiden Hasan,Novice,Jehan Chanmugam,Novice,Anisah Colon,24.0,2,25.0,1,21.0,3,21.0,4
+Temple + Wesleyan,Fall,2021,2,G,L,Jared Lenn,Varsity,Laura Giugno,Varsity,Ananya Kalahasti,Varsity,Nick Devito,Varsity,Ethan Quinn,27.0,4,29.0,3,32.0,2,32.0,1
+Temple + Wesleyan,Fall,2021,3,O,W,Jared Lenn,Varsity,Laura Giugno,Varsity,Maggie Mooney,Novice,Richard Hoang,Novice,Jon Nase,27.0,2,27.0,1,27.0,3,27.0,4
+Temple + Wesleyan,Fall,2021,4,O,L,Jared Lenn,Varsity,Laura Giugno,Varsity,Gabbi Shilcusky,Varsity,John Youssef,Varsity,Sophie Fetter,28.0,3,30.0,2,28.0,4,31.0,1
+Temple + Wesleyan,Fall,2021,5,G,W,Jared Lenn,Varsity,Laura Giugno,Varsity,Ethan Reiter,Varsity,Joe Cox,Varsity,Melia Marguleas,29.0,3,31.0,1,31.0,2,29.0,4
+Temple + Wesleyan,Fall,2021,2,G,L,Blake James,Varsity,Erica Harper,Varsity,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Jon Nase,26.0,4,27.0,3,27.0,2,29.0,1
+Temple + Wesleyan,Fall,2021,4,O,W,Blake James,Varsity,Erica Harper,Varsity,Muriel Oppong,Novice,Tanmay Bhasin,Novice,Jennifer Tran,26.0,3,28.0,1,27.0,2,25.0,4
+Temple + Wesleyan,Fall,2021,5,O,L,Blake James,Varsity,Erica Harper,Varsity,Lizzie Waters,Novice,Trevor Haefner,Varsity,Daniel Chung,23.0,4,23.0,3,27.0,1,26.0,2
+Temple + Wesleyan,Fall,2021,2,O,L,Katherine Mcgivney,Novice,Knox Watson,Novice,Ansh Thanki,Novice,Rohit Datta,Novice,Sean Oddoye,26.0,2,25.0,4,25.0,3,27.0,1
+Temple + Wesleyan,Fall,2021,4,G,L,Katherine Mcgivney,Novice,Knox Watson,Novice,Lizzie Waters,Novice,Trevor Haefner,Varsity,Ari Randall,25.0,4,27.0,2,28.0,1,26.0,3
+Temple + Wesleyan,Fall,2021,5,O,L,Katherine Mcgivney,Novice,Knox Watson,Novice,Nathaniel Yoon,Varsity,Rachel Fei,Varsity,Jon Nase,23.0,4,24.0,3,27.0,2,27.0,1
+Temple + Wesleyan,Fall,2021,1,O,L,Katherine Lareau,Novice,Nick Hughes,Novice,Aidan Ng,Novice,Ishan Patel,Novice,Sean Oddoye,27.0,3,26.0,4,31.0,1,29.0,2
+Temple + Wesleyan,Fall,2021,2,G,L,Katherine Lareau,Novice,Nick Hughes,Novice,Donnell Weldon,Novice,Stanley Sun,Varsity,Jennifer Tran,24.0,3,23.0,4,26.0,1,25.0,2
+Temple + Wesleyan,Fall,2021,4,G,W,Katherine Lareau,Novice,Nick Hughes,Novice,Saad Haroon,Novice,Thomas Yepes,Novice,Juliya Medyukh,26.0,2,27.0,1,25.0,3,24.0,4
+Temple + Wesleyan,Fall,2021,5,O,L,Katherine Lareau,Novice,Nick Hughes,Novice,Eugenie Park,Varsity,Frank Rodriguez,Varsity,Ari Randall,24.0,4,29.0,2,30.0,1,27.0,3
+Northeastern + Boston College,Fall,2021,1,O,L,Tim Carroll,Novice,Tristan Moore,Novice,Arnav Paliwal,Novice,Arth Gupta,Novice,Ethan Reiter,24.0,2,23.0,3,26.0,1,22.0,4
+Northeastern + Boston College,Fall,2021,2,O,W,Tim Carroll,Novice,Tristan Moore,Novice,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,Andrew Avalos,29.0,1,28.0,2,25.0,4,27.0,3
+Northeastern + Boston College,Fall,2021,3,G,L,Tim Carroll,Novice,Tristan Moore,Novice,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,Frank Rodriguez,27.0,3,27.0,4,29.0,1,28.0,2
+Northeastern + Boston College,Fall,2021,4,G,W,Tim Carroll,Novice,Tristan Moore,Novice,Anisah Colón,Novice,Qing Hu,Varsity,Audrey Shing,27.0,2,27.0,1,26.0,3,26.0,4
+Northeastern + Boston College,Fall,2021,5,O,L,Tim Carroll,Novice,Tristan Moore,Novice,Amina Taslim,Novice,Paola Apolinario,Varsity,Mars He,26.0,4,27.0,2,26.0,3,32.0,1
+Northeastern + Boston College,Fall,2021,1,G,L,Minji Kim,Novice,Scott Wang,Novice,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Hannah Platter,27.0,3,25.0,4,30.0,2,30.0,1
+Northeastern + Boston College,Fall,2021,2,O,L,Minji Kim,Novice,Scott Wang,Novice,Amina Taslim,Novice,Paola Apolinario,Varsity,Ally Boehning,24.0,4,26.0,2,25.0,3,27.0,1
+Northeastern + Boston College,Fall,2021,3,G,W,Minji Kim,Novice,Scott Wang,Novice,Kiran Das Goel,Novice,Lavina Ngo,Novice,Stanley Sun,26.0,3,30.0,1,25.0,4,27.0,2
+Northeastern + Boston College,Fall,2021,4,O,W,Minji Kim,Novice,Scott Wang,Novice,Grishma Baruah,Novice,Stella Shen,Novice,Gabbi Shilcusky,27.0,1,26.0,3,26.0,2,24.0,4
+Northeastern + Boston College,Fall,2021,5,O,L,Minji Kim,Novice,Scott Wang,Novice,Shyla Summers,Varsity,Ynes Traore,Novice,Frank Rodriguez,28.0,3,27.0,4,30.0,1,29.0,2
+Northeastern + Boston College,Fall,2021,1,O,W,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Sean Oddoye,Varsity,Tim Do,Varsity,Jay Gibbs,33.0,1,32.0,2,31.0,4,31.0,3
+Northeastern + Boston College,Fall,2021,2,G,W,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Arnav Paliwal,Novice,Arth Gupta,Novice,Drew Harrington,33.0,1,30.0,2,24.0,3,23.0,4
+Northeastern + Boston College,Fall,2021,3,G,W,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Andrew Robinson,Novice,Andy Wang,Varsity,Eva-Marie Quinones,32.0,2,34.0,1,28.0,4,30.0,3
+Northeastern + Boston College,Fall,2021,4,O,W,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Amina Taslim,Novice,Paola Apolinario,Varsity,Amna Amin,28.0,2,29.0,1,24.0,4,25.0,3
+Northeastern + Boston College,Fall,2021,5,G,W,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Aba Tieku,32.0,1,31.0,2,30.0,4,31.0,3
+Northeastern + Boston College,Fall,2021,1,G,W,Grishma Baruah,Novice,Stella Shen,Novice,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,John Youssef,31.0,1,30.0,2,30.0,4,30.0,3
+Northeastern + Boston College,Fall,2021,2,O,L,Grishma Baruah,Novice,Stella Shen,Novice,Andrew Robinson,Novice,Andy Wang,Varsity,Audrey Shing,28.0,3,26.0,4,29.0,2,31.0,1
+Northeastern + Boston College,Fall,2021,3,O,L,Grishma Baruah,Novice,Stella Shen,Novice,Shyla Summers,Varsity,Ynes Traore,Novice,Joe Cox,26.0,2,26.0,3,29.0,1,26.0,4
+Northeastern + Boston College,Fall,2021,4,G,L,Grishma Baruah,Novice,Stella Shen,Novice,Minji Kim,Novice,Scott Wang,Novice,Gabbi Shilcusky,26.0,2,24.0,4,27.0,1,26.0,3
+Northeastern + Boston College,Fall,2021,5,G,L,Grishma Baruah,Novice,Stella Shen,Novice,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Maddie Edwards,29.0,2,27.0,4,28.0,3,30.0,1
+Northeastern + Boston College,Fall,2021,1,O,L,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,Grishma Baruah,Novice,Stella Shen,Novice,John Youssef,30.0,4,30.0,3,31.0,1,30.0,2
+Northeastern + Boston College,Fall,2021,2,G,L,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,Tim Carroll,Novice,Tristan Moore,Novice,Andrew Avalos,25.0,4,27.0,3,29.0,1,28.0,2
+Northeastern + Boston College,Fall,2021,3,G,W,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Karen Li,25.0,3,26.0,1,25.0,2,22.0,4
+Northeastern + Boston College,Fall,2021,4,O,L,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,Arnav Paliwal,Novice,Arth Gupta,Novice,Frank Rodriguez,23.0,3,23.0,4,27.0,2,28.0,1
+Northeastern + Boston College,Fall,2021,5,G,W,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,Donnell Weldon,Novice,Kaydra Hopkins,Novice,Ally Boehning,24.0,3,26.0,1,25.0,2,24.0,4
+Northeastern + Boston College,Fall,2021,1,O,L,Shyla Summers,Varsity,Ynes Traore,Novice,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,Audrey Shing,28.0,3,27.0,4,29.0,1,28.0,2
+Northeastern + Boston College,Fall,2021,2,O,W,Shyla Summers,Varsity,Ynes Traore,Novice,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Jaime Colon,30.0,1,28.0,2,24.0,4,26.0,3
+Northeastern + Boston College,Fall,2021,3,G,W,Shyla Summers,Varsity,Ynes Traore,Novice,Grishma Baruah,Novice,Stella Shen,Novice,Joe Cox,29.0,1,26.0,4,26.0,2,26.0,3
+Northeastern + Boston College,Fall,2021,4,G,L,Shyla Summers,Varsity,Ynes Traore,Novice,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Drew Harrington,32.0,2,30.0,4,34.0,1,30.0,3
+Northeastern + Boston College,Fall,2021,5,G,W,Shyla Summers,Varsity,Ynes Traore,Novice,Minji Kim,Novice,Scott Wang,Novice,Frank Rodriguez,30.0,1,29.0,2,28.0,3,27.0,4
+Northeastern + Boston College,Fall,2021,1,G,W,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,Shyla Summers,Varsity,Ynes Traore,Novice,Audrey Shing,29.0,1,28.0,2,28.0,3,27.0,4
+Northeastern + Boston College,Fall,2021,2,G,L,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Gabbi Shilcusky,29.0,4,30.0,3,32.0,1,32.0,2
+Northeastern + Boston College,Fall,2021,3,O,W,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,Tim Carroll,Novice,Tristan Moore,Novice,Frank Rodriguez,29.0,1,28.0,2,27.0,3,27.0,4
+Northeastern + Boston College,Fall,2021,4,G,L,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,Sean Oddoye,Varsity,Tim Do,Varsity,John Youssef,31.0,4,33.0,2,32.0,3,34.0,1
+Northeastern + Boston College,Fall,2021,5,O,W,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,Anisah Colón,Novice,Qing Hu,Varsity,Joe Cox,29.0,2,29.0,1,27.0,3,27.0,4
+Northeastern + Boston College,Fall,2021,1,G,W,Allison Li,Varsity,Eugenie Park,Varsity,Amina Taslim,Novice,Paola Apolinario,Varsity,Gabbi Shilcusky,28.0,2,29.0,1,27.0,4,27.0,3
+Northeastern + Boston College,Fall,2021,2,O,W,Allison Li,Varsity,Eugenie Park,Varsity,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Joe Cox,29.0,3,31.0,1,30.0,2,29.0,4
+Northeastern + Boston College,Fall,2021,3,G,W,Allison Li,Varsity,Eugenie Park,Varsity,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Ethan Reiter,32.0,1,31.0,3,32.0,2,31.0,4
+Northeastern + Boston College,Fall,2021,4,O,L,Allison Li,Varsity,Eugenie Park,Varsity,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Ravi Simon,27.0,3,31.0,2,27.0,4,32.0,1
+Northeastern + Boston College,Fall,2021,5,G,L,Allison Li,Varsity,Eugenie Park,Varsity,Andrew Robinson,Novice,Andy Wang,Varsity,Drew Harrington,32.0,4,32.0,3,34.0,1,33.0,2
+Northeastern + Boston College,Fall,2021,1,O,L,Amina Taslim,Novice,Paola Apolinario,Varsity,Allison Li,Varsity,Eugenie Park,Varsity,Gabbi Shilcusky,27.0,4,27.0,3,28.0,2,29.0,1
+Northeastern + Boston College,Fall,2021,2,G,W,Amina Taslim,Novice,Paola Apolinario,Varsity,Minji Kim,Novice,Scott Wang,Novice,Ally Boehning,25.0,3,27.0,1,24.0,4,26.0,2
+Northeastern + Boston College,Fall,2021,3,O,W,Amina Taslim,Novice,Paola Apolinario,Varsity,Nicole Salinas Reyes,Novice,Salmah Elmasry,Novice,Audrey Shing,26.0,4,30.0,1,28.0,3,28.0,2
+Northeastern + Boston College,Fall,2021,4,G,L,Amina Taslim,Novice,Paola Apolinario,Varsity,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Amna Amin,24.0,4,25.0,3,28.0,2,29.0,1
+Northeastern + Boston College,Fall,2021,5,G,W,Amina Taslim,Novice,Paola Apolinario,Varsity,Tim Carroll,Novice,Tristan Moore,Novice,Mars He,26.0,3,32.0,1,26.0,4,27.0,2
+Northeastern + Boston College,Fall,2021,1,O,L,Donnell Weldon,Novice,Kaydra Hopkins,Novice,Anisah Colón,Novice,Qing Hu,Varsity,Rodda John,22.0,3,21.0,4,23.0,1,22.0,2
+Northeastern + Boston College,Fall,2021,2,G,L,Donnell Weldon,Novice,Kaydra Hopkins,Novice,Sean Oddoye,Varsity,Tim Do,Varsity,Mars He,26.0,4,26.0,3,28.0,1,27.0,2
+Northeastern + Boston College,Fall,2021,3,G,L,Donnell Weldon,Novice,Kaydra Hopkins,Novice,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Jaime Colon,24.0,3,23.0,4,33.0,1,32.0,2
+Northeastern + Boston College,Fall,2021,5,O,L,Donnell Weldon,Novice,Kaydra Hopkins,Novice,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,Ally Boehning,25.0,2,24.0,4,24.0,3,26.0,1
+Northeastern + Boston College,Fall,2021,1,G,W,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Ally Boehning,30.0,1,28.0,2,25.0,4,27.0,3
+Northeastern + Boston College,Fall,2021,2,O,W,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,Gabbi Shilcusky,32.0,1,32.0,2,29.0,4,30.0,3
+Northeastern + Boston College,Fall,2021,3,O,L,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Allison Li,Varsity,Eugenie Park,Varsity,Ethan Reiter,32.0,2,31.0,4,32.0,1,31.0,3
+Northeastern + Boston College,Fall,2021,4,O,W,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Shyla Summers,Varsity,Ynes Traore,Novice,Drew Harrington,34.0,1,30.0,3,32.0,2,30.0,4
+Northeastern + Boston College,Fall,2021,5,G,W,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Sean Oddoye,Varsity,Tim Do,Varsity,Ravi Simon,33.0,2,33.0,1,29.0,3,28.0,4
+Northeastern + Boston College,Fall,2021,1,G,W,Arnav Paliwal,Novice,Arth Gupta,Novice,Tim Carroll,Novice,Tristan Moore,Novice,Ethan Reiter,26.0,1,22.0,4,24.0,2,23.0,3
+Northeastern + Boston College,Fall,2021,2,O,L,Arnav Paliwal,Novice,Arth Gupta,Novice,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Drew Harrington,24.0,3,23.0,4,33.0,1,30.0,2
+Northeastern + Boston College,Fall,2021,3,O,L,Arnav Paliwal,Novice,Arth Gupta,Novice,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Andrew Avalos,30.0,3,28.0,4,30.0,2,31.0,1
+Northeastern + Boston College,Fall,2021,4,G,W,Arnav Paliwal,Novice,Arth Gupta,Novice,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,Frank Rodriguez,27.0,2,28.0,1,23.0,3,23.0,4
+Northeastern + Boston College,Fall,2021,5,O,L,Arnav Paliwal,Novice,Arth Gupta,Novice,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Audrey Shing,31.0,2,29.0,4,30.0,3,31.0,1
+Northeastern + Boston College,Fall,2021,1,O,L,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Ally Boehning,25.0,4,27.0,3,30.0,1,28.0,2
+Northeastern + Boston College,Fall,2021,2,G,L,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Shyla Summers,Varsity,Ynes Traore,Novice,Jaime Colon,24.0,4,26.0,3,30.0,1,28.0,2
+Northeastern + Boston College,Fall,2021,3,O,L,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Kyra Haddad,Novice,Prottoya Chowdhury,Novice,Karen Li,25.0,2,22.0,4,25.0,3,26.0,1
+Northeastern + Boston College,Fall,2021,4,G,W,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Kiran Das Goel,Novice,Lavina Ngo,Novice,Eric Trinh,25.0,1,25.0,2,24.0,3,24.0,4
+Northeastern + Boston College,Fall,2021,5,O,W,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Grishma Baruah,Novice,Stella Shen,Novice,Maddie Edwards,28.0,3,30.0,1,29.0,2,27.0,4
+Northeastern + Boston College,Fall,2021,1,G,W,Andrew Robinson,Novice,Andy Wang,Varsity,Kiran Das Goel,Novice,Lavina Ngo,Novice,Frank Rodriguez,25.0,3,27.0,1,25.0,2,25.0,4
+Northeastern + Boston College,Fall,2021,2,G,W,Andrew Robinson,Novice,Andy Wang,Varsity,Grishma Baruah,Novice,Stella Shen,Novice,Audrey Shing,29.0,2,31.0,1,28.0,3,26.0,4
+Northeastern + Boston College,Fall,2021,3,O,L,Andrew Robinson,Novice,Andy Wang,Varsity,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Eva-Marie Quinones,28.0,4,30.0,3,32.0,2,34.0,1
+Northeastern + Boston College,Fall,2021,4,O,W,Andrew Robinson,Novice,Andy Wang,Varsity,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Aba Tieku,29.0,2,29.0,1,28.0,4,28.0,3
+Northeastern + Boston College,Fall,2021,5,O,W,Andrew Robinson,Novice,Andy Wang,Varsity,Allison Li,Varsity,Eugenie Park,Varsity,Drew Harrington,34.0,1,33.0,2,32.0,4,32.0,3
+Northeastern + Boston College,Fall,2021,1,O,W,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Minji Kim,Novice,Scott Wang,Novice,Hannah Platter,30.0,2,30.0,1,27.0,3,25.0,4
+Northeastern + Boston College,Fall,2021,2,G,L,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Allison Li,Varsity,Eugenie Park,Varsity,Joe Cox,30.0,2,29.0,4,29.0,3,31.0,1
+Northeastern + Boston College,Fall,2021,3,O,W,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Donnell Weldon,Novice,Kaydra Hopkins,Novice,Jaime Colon,33.0,1,32.0,2,24.0,3,23.0,4
+Northeastern + Boston College,Fall,2021,4,G,L,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Andrew Robinson,Novice,Andy Wang,Varsity,Aba Tieku,28.0,4,28.0,3,29.0,2,29.0,1
+Northeastern + Boston College,Fall,2021,5,G,W,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Arnav Paliwal,Novice,Arth Gupta,Novice,Audrey Shing,30.0,3,31.0,1,31.0,2,29.0,4
+Northeastern + Boston College,Fall,2021,1,G,W,Anisah Colón,Novice,Qing Hu,Varsity,Donnell Weldon,Novice,Kaydra Hopkins,Novice,Rodda John,23.0,1,22.0,2,22.0,3,21.0,4
+Northeastern + Boston College,Fall,2021,2,G,L,Anisah Colón,Novice,Qing Hu,Varsity,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Frank Rodriguez,26.0,4,27.0,3,33.0,1,30.0,2
+Northeastern + Boston College,Fall,2021,3,O,L,Anisah Colón,Novice,Qing Hu,Varsity,Sean Oddoye,Varsity,Tim Do,Varsity,Gabbi Shilcusky,22.0,3,22.0,4,27.0,1,26.0,2
+Northeastern + Boston College,Fall,2021,4,O,L,Anisah Colón,Novice,Qing Hu,Varsity,Tim Carroll,Novice,Tristan Moore,Novice,Audrey Shing,26.0,3,26.0,4,27.0,2,27.0,1
+Northeastern + Boston College,Fall,2021,5,G,L,Anisah Colón,Novice,Qing Hu,Varsity,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,Joe Cox,27.0,3,27.0,4,29.0,2,29.0,1
+Northeastern + Boston College,Fall,2021,1,O,L,Kiran Das Goel,Novice,Lavina Ngo,Novice,Andrew Robinson,Novice,Andy Wang,Varsity,Frank Rodriguez,25.0,2,25.0,4,25.0,3,27.0,1
+Northeastern + Boston College,Fall,2021,2,G,L,Kiran Das Goel,Novice,Lavina Ngo,Novice,Nicole Salinas Reyes,Novice,Salmah Elmasry,Novice,Ethan Reiter,28.0,3,28.0,4,29.0,1,28.0,2
+Northeastern + Boston College,Fall,2021,3,O,L,Kiran Das Goel,Novice,Lavina Ngo,Novice,Minji Kim,Novice,Scott Wang,Novice,Stanley Sun,25.0,4,27.0,2,26.0,3,30.0,1
+Northeastern + Boston College,Fall,2021,4,O,L,Kiran Das Goel,Novice,Lavina Ngo,Novice,Kiran Subramanian,Novice,Victoria Ajayi,Novice,Eric Trinh,24.0,3,24.0,4,25.0,1,25.0,2
+Northeastern + Boston College,Fall,2021,1,G,L,Sean Oddoye,Varsity,Tim Do,Varsity,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Jay Gibbs,31.0,4,31.0,3,33.0,1,32.0,2
+Northeastern + Boston College,Fall,2021,2,O,W,Sean Oddoye,Varsity,Tim Do,Varsity,Donnell Weldon,Novice,Kaydra Hopkins,Novice,Mars He,28.0,1,27.0,2,26.0,4,26.0,3
+Northeastern + Boston College,Fall,2021,3,G,W,Sean Oddoye,Varsity,Tim Do,Varsity,Anisah Colón,Novice,Qing Hu,Varsity,Gabbi Shilcusky,27.0,1,26.0,2,22.0,3,22.0,4
+Northeastern + Boston College,Fall,2021,4,O,W,Sean Oddoye,Varsity,Tim Do,Varsity,Ahmad Howard,Varsity,Rohan Kapoor,Varsity,John Youssef,32.0,3,34.0,1,31.0,4,33.0,2
+Northeastern + Boston College,Fall,2021,5,O,L,Sean Oddoye,Varsity,Tim Do,Varsity,Emmanuel Murphy,Varsity,Muzamil Godil,Varsity,Ravi Simon,29.0,3,28.0,4,33.0,2,33.0,1
+Northeastern + Boston College,Fall,2021,1,G,W,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Nicole Salinas Reyes,Novice,Salmah Elmasry,Novice,Robin Gloss,32.0,2,33.0,1,29.0,4,30.0,3
+Northeastern + Boston College,Fall,2021,2,O,W,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Anisah Colón,Novice,Qing Hu,Varsity,Frank Rodriguez,33.0,1,30.0,2,26.0,4,27.0,3
+Northeastern + Boston College,Fall,2021,3,G,W,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Arnav Paliwal,Novice,Arth Gupta,Novice,Andrew Avalos,30.0,2,31.0,1,30.0,3,28.0,4
+Northeastern + Boston College,Fall,2021,4,G,W,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Allison Li,Varsity,Eugenie Park,Varsity,Ravi Simon,27.0,4,32.0,1,27.0,3,31.0,2
+Northeastern + Boston College,Fall,2021,5,O,L,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Ananya Kalahasti,Varsity,Dennis Su,Varsity,Aba Tieku,30.0,4,31.0,3,32.0,1,31.0,2
+Northeastern + Boston College,Fall,2021,1,O,L,Nicole Salinas Reyes,Novice,Salmah Elmasry,Novice,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Robin Gloss,29.0,4,30.0,3,32.0,2,33.0,1
+Northeastern + Boston College,Fall,2021,2,O,W,Nicole Salinas Reyes,Novice,Salmah Elmasry,Novice,Kiran Das Goel,Novice,Lavina Ngo,Novice,Ethan Reiter,29.0,1,28.0,2,28.0,3,28.0,4
+Northeastern + Boston College,Fall,2021,3,G,L,Nicole Salinas Reyes,Novice,Salmah Elmasry,Novice,Amina Taslim,Novice,Paola Apolinario,Varsity,Audrey Shing,28.0,3,28.0,2,26.0,4,30.0,1
+Binghamton University,Fall,2021,1,G,L,Greg Weaving,Varsity,Jane Metzinger,Varsity,Allison Li,Varsity,Nathaniel Yoon,Varsity,Ryan Geary,27.0,4,29.0,2,28.0,3,30.0,1
+Binghamton University,Fall,2021,2,O,L,Greg Weaving,Varsity,Jane Metzinger,Varsity,Dominic Deramo,Varsity,Dominic Deramo,Varsity,Charvi Bhayana,26.0,4,28.0,2,30.0,1,27.0,3
+Binghamton University,Fall,2021,3,O,L,Greg Weaving,Varsity,Jane Metzinger,Varsity,Jonah Goldman,Varsity,Sasha Chuprakova,Varsity,Gena Rising,25.0,4,26.0,3,29.0,2,29.0,1
+Binghamton University,Fall,2021,5,G,W,Greg Weaving,Varsity,Jane Metzinger,Varsity,Hannah Platter,Varsity,Peter Kladais,Novice,Ananya Kalahasti,31.0,1,31.0,2,30.0,3,28.0,4
+Binghamton University,Fall,2021,1,O,L,Dominic Deramo,Varsity,Dominic Deramo,Varsity,Nick Devito,Varsity,Robin Gloss,Varsity,Samantha Wing,29.0,3,29.0,4,31.0,1,30.0,2
+Binghamton University,Fall,2021,2,G,W,Dominic Deramo,Varsity,Dominic Deramo,Varsity,Greg Weaving,Varsity,Jane Metzinger,Varsity,Charvi Bhayana,30.0,1,27.0,3,26.0,4,28.0,2
+Binghamton University,Fall,2021,3,O,L,Dominic Deramo,Varsity,Dominic Deramo,Varsity,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Ry-Ry Geary,27.0,2,26.0,4,26.0,3,28.0,1
+Binghamton University,Fall,2021,1,G,W,Emmanuel Murphy,Varsity,John Youssef,Varsity,Jonah Goldman,Varsity,Sasha Chuprakova,Varsity,Noah Lennon,27.0,3,29.0,1,28.0,2,27.0,4
+Binghamton University,Fall,2021,2,O,W,Emmanuel Murphy,Varsity,John Youssef,Varsity,Hannah Platter,Varsity,Peter Kladais,Novice,Andrew Harrington,30.0,3,33.0,1,31.0,2,23.0,4
+Binghamton University,Fall,2021,3,O,L,Emmanuel Murphy,Varsity,John Youssef,Varsity,Nick Devito,Varsity,Robin Gloss,Varsity,Charvi Bhayana,30.0,3,30.0,4,30.0,2,30.0,1
+Binghamton University,Fall,2021,4,G,W,Emmanuel Murphy,Varsity,John Youssef,Varsity,Hannah Platter,Varsity,Peter Kladais,Novice,Andrew Harrington .,34.0,1,31.0,2,30.0,3,24.0,4
+Binghamton University,Fall,2021,5,G,W,Emmanuel Murphy,Varsity,John Youssef,Varsity,Nick Devito,Varsity,Robin Gloss,Varsity,Drew Harrington,31.0,2,32.0,1,31.0,3,31.0,4
+Binghamton University,Fall,2021,1,O,W,Allison Li,Varsity,Nathaniel Yoon,Varsity,Greg Weaving,Varsity,Jane Metzinger,Varsity,Ryan Geary,28.0,3,30.0,1,27.0,4,29.0,2
+Binghamton University,Fall,2021,2,G,L,Allison Li,Varsity,Nathaniel Yoon,Varsity,Nick Devito,Varsity,Robin Gloss,Varsity,Noah Lennon,28.0,4,30.0,2,31.0,1,30.0,3
+Binghamton University,Fall,2021,3,G,L,Allison Li,Varsity,Nathaniel Yoon,Varsity,Hannah Platter,Varsity,Peter Kladais,Novice,Drew Harrington,27.0,3,23.0,4,29.0,2,33.0,1
+Binghamton University,Fall,2021,4,O,W,Allison Li,Varsity,Nathaniel Yoon,Varsity,Jonah Goldman,Varsity,Sasha Chuprakova,Varsity,Charvi Bhayana .,31.0,1,30.0,2,28.0,4,29.0,3
+Binghamton University,Fall,2021,5,G,L,Allison Li,Varsity,Nathaniel Yoon,Varsity,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Charvi .,26.0,4,26.0,3,30.0,2,30.0,1
+Binghamton University,Fall,2021,1,G,W,Nick Devito,Varsity,Robin Gloss,Varsity,Dominic Deramo,Varsity,Dominic Deramo,Varsity,Samantha Wing,31.0,1,30.0,2,29.0,3,29.0,4
+Binghamton University,Fall,2021,2,O,W,Nick Devito,Varsity,Robin Gloss,Varsity,Allison Li,Varsity,Nathaniel Yoon,Varsity,Noah Lennon,31.0,1,30.0,3,28.0,4,30.0,2
+Binghamton University,Fall,2021,3,G,W,Nick Devito,Varsity,Robin Gloss,Varsity,Emmanuel Murphy,Varsity,John Youssef,Varsity,Charvi Bhayana,30.0,2,30.0,1,30.0,3,30.0,4
+Binghamton University,Fall,2021,4,O,W,Nick Devito,Varsity,Robin Gloss,Varsity,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Ryan Geary .,30.0,1,29.0,2,26.0,4,26.0,3
+Binghamton University,Fall,2021,5,O,L,Nick Devito,Varsity,Robin Gloss,Varsity,Emmanuel Murphy,Varsity,John Youssef,Varsity,Drew Harrington,31.0,3,31.0,4,31.0,2,32.0,1
+Binghamton University,Fall,2021,1,O,L,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Hannah Platter,Varsity,Peter Kladais,Novice,Charvi Bhayana,30.0,2,28.0,4,32.0,1,28.0,3
+Binghamton University,Fall,2021,2,G,W,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Jonah Goldman,Varsity,Sasha Chuprakova,Varsity,Ryan Geary,29.0,3,30.0,1,29.0,2,28.0,4
+Binghamton University,Fall,2021,3,G,W,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Dominic Deramo,Varsity,Dominic Deramo,Varsity,Ry-Ry Geary,26.0,3,28.0,1,27.0,2,26.0,4
+Binghamton University,Fall,2021,4,G,L,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Nick Devito,Varsity,Robin Gloss,Varsity,Ryan Geary .,26.0,4,26.0,3,30.0,1,29.0,2
+Binghamton University,Fall,2021,5,O,W,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Allison Li,Varsity,Nathaniel Yoon,Varsity,Charvi .,30.0,2,30.0,1,26.0,4,26.0,3
+Binghamton University,Fall,2021,1,O,L,Jonah Goldman,Varsity,Sasha Chuprakova,Varsity,Emmanuel Murphy,Varsity,John Youssef,Varsity,Noah Lennon,28.0,2,27.0,4,27.0,3,29.0,1
+Binghamton University,Fall,2021,2,O,L,Jonah Goldman,Varsity,Sasha Chuprakova,Varsity,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Ryan Geary,29.0,2,28.0,4,29.0,3,30.0,1
+Binghamton University,Fall,2021,3,G,W,Jonah Goldman,Varsity,Sasha Chuprakova,Varsity,Greg Weaving,Varsity,Jane Metzinger,Varsity,Gena Rising,29.0,2,29.0,1,25.0,4,26.0,3
+Binghamton University,Fall,2021,4,G,L,Jonah Goldman,Varsity,Sasha Chuprakova,Varsity,Allison Li,Varsity,Nathaniel Yoon,Varsity,Charvi Bhayana .,28.0,4,29.0,3,31.0,1,30.0,2
+Binghamton University,Fall,2021,1,G,W,Hannah Platter,Varsity,Peter Kladais,Novice,Benny Nicholson,Varsity,Samuel Johnson,Varsity,Charvi Bhayana,32.0,1,28.0,3,30.0,2,28.0,4
+Binghamton University,Fall,2021,2,G,L,Hannah Platter,Varsity,Peter Kladais,Novice,Emmanuel Murphy,Varsity,John Youssef,Varsity,Andrew Harrington,31.0,2,23.0,4,30.0,3,33.0,1
+Binghamton University,Fall,2021,3,O,W,Hannah Platter,Varsity,Peter Kladais,Novice,Allison Li,Varsity,Nathaniel Yoon,Varsity,Drew Harrington,29.0,2,33.0,1,27.0,3,23.0,4
+Binghamton University,Fall,2021,4,O,L,Hannah Platter,Varsity,Peter Kladais,Novice,Emmanuel Murphy,Varsity,John Youssef,Varsity,Andrew Harrington .,30.0,3,24.0,4,34.0,1,31.0,2
+Binghamton University,Fall,2021,5,O,L,Hannah Platter,Varsity,Peter Kladais,Novice,Greg Weaving,Varsity,Jane Metzinger,Varsity,Ananya Kalahasti,30.0,3,28.0,4,31.0,1,31.0,2
+Johns Hopkins + American,Fall,2021,1,O,W,Andrew Monteith,Varsity,Perry Beckett,Varsity,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Allison Su,29.0,2,30.0,1,25.0,4,26.0,3
+Johns Hopkins + American,Fall,2021,2,G,L,Andrew Monteith,Varsity,Perry Beckett,Varsity,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Alain Phung,32.0,4,33.0,3,34.0,1,34.0,2
+Johns Hopkins + American,Fall,2021,3,G,W,Andrew Monteith,Varsity,Perry Beckett,Varsity,Ailin Jia,Novice,Reed Easterling,Novice,Nathaniel Yoon,29.0,1,28.0,2,27.0,4,27.0,3
+Johns Hopkins + American,Fall,2021,4,O,L,Andrew Monteith,Varsity,Perry Beckett,Varsity,John Youssef,Varsity,Mac Hays,Varsity,Emily Mashqbeh,28.0,4,29.0,3,30.0,2,31.0,1
+Johns Hopkins + American,Fall,2021,5,G,W,Andrew Monteith,Varsity,Perry Beckett,Varsity,Andrew Sun,Novice,Roy Tiefer,Novice,Michael Yoo,32.0,1,32.0,2,29.0,4,30.0,3
+Johns Hopkins + American,Fall,2021,1,G,L,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Andrew Monteith,Varsity,Perry Beckett,Varsity,Allison Su,25.0,4,26.0,3,29.0,2,30.0,1
+Johns Hopkins + American,Fall,2021,2,O,L,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Ailin Jia,Novice,Reed Easterling,Novice,Michael Yoo,28.0,4,28.0,3,29.0,2,31.0,1
+Johns Hopkins + American,Fall,2021,3,O,W,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Rishven Pravin,Novice,Thibaut Stussi,Novice,Fox Wang,26.0,2,27.0,1,25.0,3,25.0,4
+Johns Hopkins + American,Fall,2021,4,G,L,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Andrew Sun,Novice,Roy Tiefer,Novice,Steven Chen,22.0,4,23.0,3,27.0,2,30.0,1
+Johns Hopkins + American,Fall,2021,5,G,L,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,Emily Mashqbeh,26.0,4,26.0,3,32.0,1,31.0,2
+Johns Hopkins + American,Fall,2021,1,G,W,Andrew Sun,Novice,Roy Tiefer,Novice,Hannah Platter,Varsity,Rodda John,Varsity,Emily Mashqbeh,31.0,1,30.0,3,30.0,4,31.0,2
+Johns Hopkins + American,Fall,2021,2,O,L,Andrew Sun,Novice,Roy Tiefer,Novice,John Youssef,Varsity,Mac Hays,Varsity,Muzzi,28.0,4,30.0,2,31.0,1,28.0,3
+Johns Hopkins + American,Fall,2021,3,G,L,Andrew Sun,Novice,Roy Tiefer,Novice,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Emily Mashqbeh,28.0,4,31.0,3,31.0,2,32.0,1
+Johns Hopkins + American,Fall,2021,4,O,W,Andrew Sun,Novice,Roy Tiefer,Novice,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Steven Chen,27.0,2,30.0,1,22.0,4,23.0,3
+Johns Hopkins + American,Fall,2021,5,O,L,Andrew Sun,Novice,Roy Tiefer,Novice,Andrew Monteith,Varsity,Perry Beckett,Varsity,Michael Yoo,29.0,4,30.0,3,32.0,1,32.0,2
+Johns Hopkins + American,Fall,2021,1,G,W,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Rishven Pravin,Novice,Thibaut Stussi,Novice,Jill Ji,32.0,2,33.0,1,25.0,4,26.0,3
+Johns Hopkins + American,Fall,2021,2,O,W,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Andrew Monteith,Varsity,Perry Beckett,Varsity,Alain Phung,34.0,1,34.0,2,32.0,4,33.0,3
+Johns Hopkins + American,Fall,2021,3,G,W,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Amelia Peck,Varsity,Brandon Burton,Varsity,Michael Yoo,30.0,3,32.0,1,30.0,2,28.0,4
+Johns Hopkins + American,Fall,2021,4,O,L,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Eugenie Park,28.0,4,30.0,3,31.0,1,30.0,2
+Johns Hopkins + American,Fall,2021,5,G,W,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Ailin Jia,Novice,Reed Easterling,Novice,Madeline Cheshire,29.0,3,31.0,1,30.0,2,29.0,4
+Johns Hopkins + American,Fall,2021,1,G,W,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Katrina Hotaling,31.0,2,31.0,1,25.0,3,24.0,4
+Johns Hopkins + American,Fall,2021,2,O,W,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,Ally Ross,31.0,3,32.0,1,31.0,4,32.0,2
+Johns Hopkins + American,Fall,2021,3,O,W,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,John Youssef,Varsity,Mac Hays,Varsity,Alex Hanna,31.0,3,32.0,1,31.0,2,30.0,4
+Johns Hopkins + American,Fall,2021,4,G,W,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Eugenie Park,31.0,1,30.0,2,28.0,4,30.0,3
+Johns Hopkins + American,Fall,2021,5,O,W,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Amelia Peck,Varsity,Brandon Burton,Varsity,Cindy Zhao,32.0,2,33.0,1,32.0,3,32.0,4
+Johns Hopkins + American,Fall,2021,1,O,W,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,Abraham Paik,Novice,Harris Agha,Novice,Alex Hanna,31.0,2,32.0,1,29.0,3,27.0,4
+Johns Hopkins + American,Fall,2021,2,G,L,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Ally Ross,31.0,4,32.0,2,31.0,3,32.0,1
+Johns Hopkins + American,Fall,2021,3,G,W,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,Aaron Mesa,Novice,Ynes Traore,Novice,Aaron Rajput,31.0,2,32.0,1,28.0,4,29.0,3
+Johns Hopkins + American,Fall,2021,4,O,L,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Allison Su,31.0,4,33.0,2,32.0,3,33.0,1
+Johns Hopkins + American,Fall,2021,5,O,W,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Emily Mashqbeh,32.0,1,31.0,2,26.0,4,26.0,3
+Johns Hopkins + American,Fall,2021,1,O,L,Rishven Pravin,Novice,Thibaut Stussi,Novice,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Jill Ji,25.0,4,26.0,3,32.0,2,33.0,1
+Johns Hopkins + American,Fall,2021,2,O,L,Rishven Pravin,Novice,Thibaut Stussi,Novice,Aaron Mesa,Novice,Ynes Traore,Novice,Alex Hanna,26.0,3,27.0,2,24.0,4,29.0,1
+Johns Hopkins + American,Fall,2021,3,G,L,Rishven Pravin,Novice,Thibaut Stussi,Novice,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Fox Wang,25.0,3,25.0,4,26.0,2,27.0,1
+Johns Hopkins + American,Fall,2021,4,O,L,Rishven Pravin,Novice,Thibaut Stussi,Novice,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Jonah Goldman,27.0,2,27.0,3,26.0,4,29.0,1
+Johns Hopkins + American,Fall,2021,5,G,L,Rishven Pravin,Novice,Thibaut Stussi,Novice,Daniel Page,Novice,Robert Nielsen,Novice,Aaron Rajput,27.0,4,29.0,2,30.0,1,28.0,3
+Johns Hopkins + American,Fall,2021,1,G,W,Daniel Page,Novice,Robert Nielsen,Novice,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Michael Yoo,30.0,2,30.0,1,28.0,3,27.0,4
+Johns Hopkins + American,Fall,2021,2,O,L,Daniel Page,Novice,Robert Nielsen,Novice,Amelia Peck,Varsity,Brandon Burton,Varsity,Emily Mashqbeh,26.0,4,26.0,3,30.0,1,28.0,2
+Johns Hopkins + American,Fall,2021,3,G,L,Daniel Page,Novice,Robert Nielsen,Novice,Hannah Platter,Varsity,Rodda John,Varsity,Alain Phung,25.0,4,27.0,3,31.0,1,30.0,2
+Johns Hopkins + American,Fall,2021,4,G,L,Daniel Page,Novice,Robert Nielsen,Novice,Ailin Jia,Novice,Reed Easterling,Novice,Allison Li,29.0,4,29.0,3,31.0,1,30.0,2
+Johns Hopkins + American,Fall,2021,5,O,W,Daniel Page,Novice,Robert Nielsen,Novice,Rishven Pravin,Novice,Thibaut Stussi,Novice,Aaron Rajput,30.0,1,28.0,3,27.0,4,29.0,2
+Johns Hopkins + American,Fall,2021,1,O,L,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Daniel Page,Novice,Robert Nielsen,Novice,Michael Yoo,28.0,3,27.0,4,30.0,2,30.0,1
+Johns Hopkins + American,Fall,2021,2,G,W,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Abraham Paik,Novice,Harris Agha,Novice,Aaron Rajput,31.0,1,30.0,2,28.0,3,27.0,4
+Johns Hopkins + American,Fall,2021,3,O,W,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Andrew Sun,Novice,Roy Tiefer,Novice,Emily Mashqbeh,31.0,2,32.0,1,28.0,4,31.0,3
+Johns Hopkins + American,Fall,2021,4,G,W,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,Allison Su,32.0,3,33.0,1,31.0,4,33.0,2
+Johns Hopkins + American,Fall,2021,5,G,W,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,John Youssef,Varsity,Mac Hays,Varsity,Allison Li,28.0,4,32.0,1,31.0,2,29.0,3
+Johns Hopkins + American,Fall,2021,1,G,L,Ailin Jia,Novice,Reed Easterling,Novice,John Youssef,Varsity,Mac Hays,Varsity,Aaron Rajput,28.0,3,27.0,4,33.0,1,30.0,2
+Johns Hopkins + American,Fall,2021,2,G,W,Ailin Jia,Novice,Reed Easterling,Novice,E'Niah Preston,Novice,Stav Kanza-Levi,Novice,Michael Yoo,29.0,2,31.0,1,28.0,4,28.0,3
+Johns Hopkins + American,Fall,2021,3,O,L,Ailin Jia,Novice,Reed Easterling,Novice,Andrew Monteith,Varsity,Perry Beckett,Varsity,Nathaniel Yoon,27.0,4,27.0,3,29.0,1,28.0,2
+Johns Hopkins + American,Fall,2021,4,O,W,Ailin Jia,Novice,Reed Easterling,Novice,Daniel Page,Novice,Robert Nielsen,Novice,Allison Li,31.0,1,30.0,2,29.0,4,29.0,3
+Johns Hopkins + American,Fall,2021,5,O,L,Ailin Jia,Novice,Reed Easterling,Novice,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Madeline Cheshire,30.0,2,29.0,4,29.0,3,31.0,1
+Johns Hopkins + American,Fall,2021,1,O,W,John Youssef,Varsity,Mac Hays,Varsity,Ailin Jia,Novice,Reed Easterling,Novice,Aaron Rajput,33.0,1,30.0,2,28.0,3,27.0,4
+Johns Hopkins + American,Fall,2021,2,G,W,John Youssef,Varsity,Mac Hays,Varsity,Andrew Sun,Novice,Roy Tiefer,Novice,Muzzi,31.0,1,28.0,3,28.0,4,30.0,2
+Johns Hopkins + American,Fall,2021,3,G,L,John Youssef,Varsity,Mac Hays,Varsity,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Alex Hanna,31.0,2,30.0,4,31.0,3,32.0,1
+Johns Hopkins + American,Fall,2021,4,G,W,John Youssef,Varsity,Mac Hays,Varsity,Andrew Monteith,Varsity,Perry Beckett,Varsity,Emily Mashqbeh,30.0,2,31.0,1,28.0,4,29.0,3
+Johns Hopkins + American,Fall,2021,5,O,L,John Youssef,Varsity,Mac Hays,Varsity,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Allison Li,31.0,2,29.0,3,28.0,4,32.0,1
+Johns Hopkins + American,Fall,2021,1,G,W,Amelia Peck,Varsity,Brandon Burton,Varsity,Aaron Mesa,Novice,Ynes Traore,Novice,Alain Phung,32.0,1,31.0,2,29.0,3,28.0,4
+Johns Hopkins + American,Fall,2021,2,G,W,Amelia Peck,Varsity,Brandon Burton,Varsity,Daniel Page,Novice,Robert Nielsen,Novice,Emily Mashqbeh,30.0,1,28.0,2,26.0,4,26.0,3
+Johns Hopkins + American,Fall,2021,3,O,L,Amelia Peck,Varsity,Brandon Burton,Varsity,Bart Kaminski,Varsity,Emmanuel Murphy,Varsity,Michael Yoo,30.0,2,28.0,4,30.0,3,32.0,1
+Johns Hopkins + American,Fall,2021,4,O,W,Amelia Peck,Varsity,Brandon Burton,Varsity,Hannah Platter,Varsity,Rodda John,Varsity,Aaron Rajput,30.0,2,31.0,1,28.0,3,27.0,4
+Johns Hopkins + American,Fall,2021,5,G,L,Amelia Peck,Varsity,Brandon Burton,Varsity,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Cindy Zhao,32.0,3,32.0,4,32.0,2,33.0,1
+Johns Hopkins + American,Fall,2021,1,O,L,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Katrina Hotaling,25.0,3,24.0,4,31.0,2,31.0,1
+Johns Hopkins + American,Fall,2021,2,O,L,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Hannah Platter,Varsity,Rodda John,Varsity,Allison Li,27.0,4,27.0,3,32.0,1,31.0,2
+Johns Hopkins + American,Fall,2021,3,G,L,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Abraham Paik,Novice,Harris Agha,Novice,Thomas Kim,27.0,4,29.0,3,31.0,1,31.0,2
+Johns Hopkins + American,Fall,2021,4,G,W,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Rishven Pravin,Novice,Thibaut Stussi,Novice,Jonah Goldman,26.0,4,29.0,1,27.0,2,27.0,3
+Johns Hopkins + American,Fall,2021,5,O,L,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Aaron Mesa,Novice,Ynes Traore,Novice,Fox Wang,26.0,4,26.0,3,28.0,2,29.0,1
+Johns Hopkins + American,Fall,2021,1,O,L,Hannah Platter,Varsity,Rodda John,Varsity,Andrew Sun,Novice,Roy Tiefer,Novice,Emily Mashqbeh,30.0,4,31.0,2,31.0,1,30.0,3
+Johns Hopkins + American,Fall,2021,2,G,W,Hannah Platter,Varsity,Rodda John,Varsity,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Allison Li,32.0,1,31.0,2,27.0,4,27.0,3
+Johns Hopkins + American,Fall,2021,3,O,W,Hannah Platter,Varsity,Rodda John,Varsity,Daniel Page,Novice,Robert Nielsen,Novice,Alain Phung,31.0,1,30.0,2,25.0,4,27.0,3
+Johns Hopkins + American,Fall,2021,4,G,L,Hannah Platter,Varsity,Rodda John,Varsity,Amelia Peck,Varsity,Brandon Burton,Varsity,Aaron Rajput,28.0,3,27.0,4,30.0,2,31.0,1
+Johns Hopkins + American,Fall,2021,5,G,L,Hannah Platter,Varsity,Rodda John,Varsity,Abraham Paik,Novice,Harris Agha,Novice,Muzzi,29.0,2,27.0,4,30.0,1,28.0,3
+Johns Hopkins + American,Fall,2021,1,G,L,Abraham Paik,Novice,Harris Agha,Novice,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,Alex Hanna,29.0,3,27.0,4,31.0,2,32.0,1
+Johns Hopkins + American,Fall,2021,2,O,L,Abraham Paik,Novice,Harris Agha,Novice,Aadhav Raviarasan,Varsity,Udheesh Gaddipati,Varsity,Aaron Rajput,28.0,3,27.0,4,31.0,1,30.0,2
+Johns Hopkins + American,Fall,2021,3,O,W,Abraham Paik,Novice,Harris Agha,Novice,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Thomas Kim,31.0,1,31.0,2,27.0,4,29.0,3
+Johns Hopkins + American,Fall,2021,4,G,W,Abraham Paik,Novice,Harris Agha,Novice,Aaron Mesa,Novice,Ynes Traore,Novice,Michael Yoo,30.0,1,29.0,2,28.0,3,28.0,4
+Johns Hopkins + American,Fall,2021,5,O,W,Abraham Paik,Novice,Harris Agha,Novice,Hannah Platter,Varsity,Rodda John,Varsity,Muzzi,30.0,1,28.0,3,29.0,2,27.0,4
+Johns Hopkins + American,Fall,2021,1,O,L,Aaron Mesa,Novice,Ynes Traore,Novice,Amelia Peck,Varsity,Brandon Burton,Varsity,Alain Phung,29.0,3,28.0,4,32.0,1,31.0,2
+Johns Hopkins + American,Fall,2021,2,G,W,Aaron Mesa,Novice,Ynes Traore,Novice,Rishven Pravin,Novice,Thibaut Stussi,Novice,Alex Hanna,24.0,4,29.0,1,26.0,3,27.0,2
+Johns Hopkins + American,Fall,2021,3,O,L,Aaron Mesa,Novice,Ynes Traore,Novice,Gabbi Shilcusky,Varsity,Nick Devito,Varsity,Aaron Rajput,28.0,4,29.0,3,31.0,2,32.0,1
+Johns Hopkins + American,Fall,2021,4,O,L,Aaron Mesa,Novice,Ynes Traore,Novice,Abraham Paik,Novice,Harris Agha,Novice,Michael Yoo,28.0,3,28.0,4,30.0,1,29.0,2
+Johns Hopkins + American,Fall,2021,5,G,W,Aaron Mesa,Novice,Ynes Traore,Novice,Jimmy Goranov,Novice,Vihini Gunasekera,Novice,Fox Wang,28.0,2,29.0,1,26.0,4,26.0,3
+William and Mary,Fall,2021,1,O,W,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,Andrew Monteith,Varsity,Perry Beckett,Varsity,George Anderson,29.0,1,28.0,2,27.0,3,26.0,4
+William and Mary,Fall,2021,2,O,L,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Saxon Hart,28.0,4,29.0,3,32.0,2,32.0,1
+William and Mary,Fall,2021,3,G,W,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,Mac Hays,Novice,Sai Karnati,Novice,Matthew Wilson,30.0,1,30.0,2,30.0,4,30.0,3
+William and Mary,Fall,2021,4,G,W,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,John Youssef,Varsity,Samuel Johnson,Varsity,Lucas Otal,34.0,1,32.0,3,33.0,2,30.0,4
+William and Mary,Fall,2021,5,G,L,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,Maya Rubin,Varsity,Nick Devito,Varsity,Emmanuel Murphy,30.0,4,31.0,3,33.0,1,32.0,2
+William and Mary,Fall,2021,1,G,L,Hannah Platter,Varsity,Rodda John,Varsity,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Matthew Wilson,29.0,3,29.0,4,29.0,2,29.0,1
+William and Mary,Fall,2021,2,O,W,Hannah Platter,Varsity,Rodda John,Varsity,Daniel Page,Varsity,Liz Kim,Novice,Peter Heller,31.0,1,30.0,2,28.0,4,29.0,3
+William and Mary,Fall,2021,3,O,L,Hannah Platter,Varsity,Rodda John,Varsity,John Youssef,Varsity,Samuel Johnson,Varsity,Saxon Hart,30.0,3,29.0,4,33.0,1,33.0,2
+William and Mary,Fall,2021,4,G,W,Hannah Platter,Varsity,Rodda John,Varsity,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,George Anderson,31.0,1,29.0,3,30.0,2,28.0,4
+William and Mary,Fall,2021,5,G,L,Hannah Platter,Varsity,Rodda John,Varsity,Devesh Kodnani,Varsity,Robert Brown,Varsity,Chris Ahrens,35.0,3,35.0,4,35.0,1,35.0,2
+William and Mary,Fall,2021,1,G,L,Mac Hays,Novice,Sai Karnati,Novice,Devesh Kodnani,Varsity,Robert Brown,Varsity,Saxon Hart,28.0,4,31.0,2,33.0,1,30.0,3
+William and Mary,Fall,2021,2,O,W,Mac Hays,Novice,Sai Karnati,Novice,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Bartholomew Kaminski,30.0,1,30.0,2,27.0,4,27.0,3
+William and Mary,Fall,2021,3,O,L,Mac Hays,Novice,Sai Karnati,Novice,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,Matthew Wilson,30.0,4,30.0,3,30.0,1,30.0,2
+William and Mary,Fall,2021,4,G,W,Mac Hays,Novice,Sai Karnati,Novice,Andrew Monteith,Varsity,Perry Beckett,Varsity,Chris Ahrens,34.0,2,34.0,1,34.0,3,34.0,4
+William and Mary,Fall,2021,5,O,L,Mac Hays,Novice,Sai Karnati,Novice,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Lydia Vlasto,31.0,4,32.0,2,32.0,3,33.0,1
+William and Mary,Fall,2021,1,G,L,Andrew Monteith,Varsity,Perry Beckett,Varsity,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,George Anderson,27.0,3,26.0,4,29.0,1,28.0,2
+William and Mary,Fall,2021,2,O,L,Andrew Monteith,Varsity,Perry Beckett,Varsity,Maya Rubin,Varsity,Nick Devito,Varsity,Lydia Vlasto,30.0,4,31.0,3,32.0,1,32.0,2
+William and Mary,Fall,2021,3,G,W,Andrew Monteith,Varsity,Perry Beckett,Varsity,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Benny Nicholson,30.0,1,29.0,2,28.0,3,27.0,4
+William and Mary,Fall,2021,4,O,L,Andrew Monteith,Varsity,Perry Beckett,Varsity,Mac Hays,Novice,Sai Karnati,Novice,Chris Ahrens,34.0,3,34.0,4,34.0,2,34.0,1
+William and Mary,Fall,2021,5,O,L,Andrew Monteith,Varsity,Perry Beckett,Varsity,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Matthew Wilson,34.0,1,25.0,4,32.0,2,32.0,3
+William and Mary,Fall,2021,1,O,W,Devesh Kodnani,Varsity,Robert Brown,Varsity,Mac Hays,Novice,Sai Karnati,Novice,Saxon Hart,33.0,1,30.0,3,28.0,4,31.0,2
+William and Mary,Fall,2021,2,G,W,Devesh Kodnani,Varsity,Robert Brown,Varsity,Katrina Hotaling,Varsity,Kyle Cook,Varsity,George Anderson,32.0,1,29.0,4,30.0,3,31.0,2
+William and Mary,Fall,2021,3,G,L,Devesh Kodnani,Varsity,Robert Brown,Varsity,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Lydia Vlasto,33.0,2,29.0,4,32.0,3,33.0,1
+William and Mary,Fall,2021,4,O,W,Devesh Kodnani,Varsity,Robert Brown,Varsity,Maia Decker,Varsity,Shyla Summers,Varsity,Lucy Augustine,30.0,1,29.0,2,27.0,3,27.0,4
+William and Mary,Fall,2021,5,O,W,Devesh Kodnani,Varsity,Robert Brown,Varsity,Hannah Platter,Varsity,Rodda John,Varsity,Chris Ahrens,35.0,1,35.0,2,35.0,3,35.0,4
+William and Mary,Fall,2021,1,O,W,Maya Rubin,Varsity,Nick Devito,Varsity,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Lucas Otal,31.0,2,32.0,1,28.0,3,26.0,4
+William and Mary,Fall,2021,2,G,W,Maya Rubin,Varsity,Nick Devito,Varsity,Andrew Monteith,Varsity,Perry Beckett,Varsity,Lydia Vlasto,32.0,1,32.0,2,30.0,4,31.0,3
+William and Mary,Fall,2021,3,G,W,Maya Rubin,Varsity,Nick Devito,Varsity,Tai Henrichs,Varsity,Yannick Davidson,Varsity,George Anderson,31.0,3,32.0,1,29.0,4,31.0,2
+William and Mary,Fall,2021,4,O,W,Maya Rubin,Varsity,Nick Devito,Varsity,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Bartholomew Kaminski,31.0,2,32.0,1,30.0,4,30.0,3
+William and Mary,Fall,2021,5,O,W,Maya Rubin,Varsity,Nick Devito,Varsity,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,Emmanuel Murphy,33.0,1,32.0,2,30.0,4,31.0,3
+William and Mary,Fall,2021,1,G,L,John Youssef,Varsity,Samuel Johnson,Varsity,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Lydia Vlasto,28.0,4,29.0,3,30.0,2,32.0,1
+William and Mary,Fall,2021,2,O,W,John Youssef,Varsity,Samuel Johnson,Varsity,Maia Decker,Varsity,Shyla Summers,Varsity,Matthew Wilson,28.0,1,28.0,2,27.0,4,28.0,3
+William and Mary,Fall,2021,3,G,W,John Youssef,Varsity,Samuel Johnson,Varsity,Hannah Platter,Varsity,Rodda John,Varsity,Saxon Hart,33.0,1,33.0,2,30.0,3,29.0,4
+William and Mary,Fall,2021,4,O,L,John Youssef,Varsity,Samuel Johnson,Varsity,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,Lucas Otal,33.0,2,30.0,4,34.0,1,32.0,3
+William and Mary,Fall,2021,5,G,W,John Youssef,Varsity,Samuel Johnson,Varsity,Daniel Page,Varsity,Liz Kim,Novice,George Anderson,28.0,1,27.0,2,22.0,3,19.0,4
+William and Mary,Fall,2021,1,O,L,Maia Decker,Varsity,Shyla Summers,Varsity,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Peter Heller,29.0,2,27.0,4,30.0,1,28.0,3
+William and Mary,Fall,2021,2,G,L,Maia Decker,Varsity,Shyla Summers,Varsity,John Youssef,Varsity,Samuel Johnson,Varsity,Matthew Wilson,27.0,4,28.0,3,28.0,1,28.0,2
+William and Mary,Fall,2021,3,O,W,Maia Decker,Varsity,Shyla Summers,Varsity,Daniel Page,Varsity,Liz Kim,Novice,Rija Masroor,28.0,1,27.0,2,25.0,4,26.0,3
+William and Mary,Fall,2021,4,G,L,Maia Decker,Varsity,Shyla Summers,Varsity,Devesh Kodnani,Varsity,Robert Brown,Varsity,Lucy Augustine,27.0,3,27.0,4,30.0,1,29.0,2
+William and Mary,Fall,2021,5,G,W,Maia Decker,Varsity,Shyla Summers,Varsity,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Saxon Hart,30.0,2,31.0,1,27.0,4,28.0,3
+William and Mary,Fall,2021,1,O,W,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,John Youssef,Varsity,Samuel Johnson,Varsity,Lydia Vlasto,30.0,2,32.0,1,28.0,4,29.0,3
+William and Mary,Fall,2021,2,G,L,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Benny Nicholson,28.0,4,30.0,2,29.0,3,31.0,1
+William and Mary,Fall,2021,3,G,L,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Aba Tieku,29.0,4,30.0,3,30.0,2,31.0,1
+William and Mary,Fall,2021,4,O,L,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Hannah Platter,Varsity,Rodda John,Varsity,George Anderson,30.0,2,28.0,4,31.0,1,29.0,3
+William and Mary,Fall,2021,5,G,W,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Andrew Monteith,Varsity,Perry Beckett,Varsity,Matthew Wilson,32.0,2,32.0,3,34.0,1,25.0,4
+William and Mary,Fall,2021,1,G,W,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Daniel Page,Varsity,Liz Kim,Novice,Bartholomew Kaminski,29.0,1,27.0,3,27.0,4,28.0,2
+William and Mary,Fall,2021,2,O,L,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Devesh Kodnani,Varsity,Robert Brown,Varsity,George Anderson,30.0,3,31.0,2,32.0,1,29.0,4
+William and Mary,Fall,2021,3,O,W,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Aba Tieku,30.0,2,31.0,1,29.0,4,30.0,3
+William and Mary,Fall,2021,4,G,L,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Matthew Wilson,32.0,2,31.0,4,32.0,1,31.0,3
+William and Mary,Fall,2021,5,G,W,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Mac Hays,Novice,Sai Karnati,Novice,Lydia Vlasto,32.0,3,33.0,1,31.0,4,32.0,2
+William and Mary,Fall,2021,1,G,L,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Maya Rubin,Varsity,Nick Devito,Varsity,Lucas Otal,28.0,3,26.0,4,31.0,2,32.0,1
+William and Mary,Fall,2021,2,G,L,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Mac Hays,Novice,Sai Karnati,Novice,Bartholomew Kaminski,27.0,4,27.0,3,30.0,1,30.0,2
+William and Mary,Fall,2021,3,O,L,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Andrew Monteith,Varsity,Perry Beckett,Varsity,Benny Nicholson,28.0,3,27.0,4,30.0,1,29.0,2
+William and Mary,Fall,2021,4,G,L,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Daniel Page,Varsity,Liz Kim,Novice,Lydia Vlasto,27.0,2,26.0,3,26.0,4,29.0,1
+William and Mary,Fall,2021,5,O,L,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Maia Decker,Varsity,Shyla Summers,Varsity,Saxon Hart,27.0,4,28.0,3,30.0,2,31.0,1
+William and Mary,Fall,2021,1,G,W,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Maia Decker,Varsity,Shyla Summers,Varsity,Peter Heller,30.0,1,28.0,3,29.0,2,27.0,4
+William and Mary,Fall,2021,2,O,W,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Jonah Goldman,Varsity,Maxwell Sheremeta,Varsity,Benny Nicholson,29.0,3,31.0,1,28.0,4,30.0,2
+William and Mary,Fall,2021,3,O,L,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Maya Rubin,Varsity,Nick Devito,Varsity,George Anderson,29.0,4,31.0,2,31.0,3,32.0,1
+William and Mary,Fall,2021,4,O,W,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Matthew Wilson,32.0,1,31.0,3,32.0,2,31.0,4
+William and Mary,Fall,2021,5,G,W,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Lucy Augustine,32.0,1,32.0,2,31.0,3,31.0,4
+William and Mary,Fall,2021,1,O,L,Daniel Page,Varsity,Liz Kim,Novice,Katrina Hotaling,Varsity,Kyle Cook,Varsity,Bartholomew Kaminski,27.0,4,28.0,2,29.0,1,27.0,3
+William and Mary,Fall,2021,2,G,L,Daniel Page,Varsity,Liz Kim,Novice,Hannah Platter,Varsity,Rodda John,Varsity,Peter Heller,28.0,4,29.0,3,31.0,1,30.0,2
+William and Mary,Fall,2021,3,G,L,Daniel Page,Varsity,Liz Kim,Novice,Maia Decker,Varsity,Shyla Summers,Varsity,Rija Masroor,25.0,4,26.0,3,28.0,1,27.0,2
+William and Mary,Fall,2021,4,O,W,Daniel Page,Varsity,Liz Kim,Novice,Cameron Sagheb,Varsity,Marilyn Santo,Novice,Lydia Vlasto,26.0,4,29.0,1,27.0,2,26.0,3
+William and Mary,Fall,2021,5,O,L,Daniel Page,Varsity,Liz Kim,Novice,John Youssef,Varsity,Samuel Johnson,Varsity,George Anderson,22.0,3,19.0,4,28.0,1,27.0,2
+William and Mary,Fall,2021,1,O,W,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Hannah Platter,Varsity,Rodda John,Varsity,Matthew Wilson,29.0,2,29.0,1,29.0,3,29.0,4
+William and Mary,Fall,2021,2,G,W,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Dominic Deramo,Varsity,Nathaniel Yoon,Varsity,Saxon Hart,32.0,2,32.0,1,28.0,4,29.0,3
+William and Mary,Fall,2021,3,O,W,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Devesh Kodnani,Varsity,Robert Brown,Varsity,Lydia Vlasto,32.0,3,33.0,1,33.0,2,29.0,4
+William and Mary,Fall,2021,4,G,L,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Maya Rubin,Varsity,Nick Devito,Varsity,Bartholomew Kaminski,30.0,4,30.0,3,31.0,2,32.0,1
+William and Mary,Fall,2021,5,O,L,Alex Gordon,Varsity,Bradley Tidwell,Varsity,Tai Henrichs,Varsity,Yannick Davidson,Varsity,Lucy Augustine,31.0,3,31.0,4,32.0,1,32.0,2
+Smith + Columbia,Fall,2021,1,O,W,Kai Etheridge,Novice,Nat Keim,Novice,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Elise Greene She/Her,27.0,1,27.0,2,26.0,3,25.0,4
+Smith + Columbia,Fall,2021,2,G,L,Kai Etheridge,Novice,Nat Keim,Novice,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Albert Hao,24.0,3,21.0,4,30.0,1,28.0,2
+Smith + Columbia,Fall,2021,3,O,L,Kai Etheridge,Novice,Nat Keim,Novice,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Ella Saffran She/Her,26.0,3,23.0,4,27.0,2,31.0,1
+Smith + Columbia,Fall,2021,4,G,W,Kai Etheridge,Novice,Nat Keim,Novice,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,Ben Solomon,28.0,1,25.0,3,26.0,2,25.0,4
+Smith + Columbia,Fall,2021,5,G,W,Kai Etheridge,Novice,Nat Keim,Novice,Max O'Hare,Varsity,Mitchell Green,Varsity,Forrest Weintraub She/Her,29.0,2,30.0,1,28.0,4,28.0,3
+Smith + Columbia,Fall,2021,1,O,W,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Laura Howard She/Her,Novice,Vihini Gunasekera She/Her,Novice,Cara Liu,28.0,1,27.0,2,25.0,4,25.0,3
+Smith + Columbia,Fall,2021,2,G,L,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Forrest Weintraub She/Her,28.0,2,28.0,3,29.0,1,27.0,4
+Smith + Columbia,Fall,2021,3,G,W,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Kai Etheridge,Novice,Nat Keim,Novice,Ella Saffran She/Her,27.0,2,31.0,1,26.0,3,23.0,4
+Smith + Columbia,Fall,2021,4,O,W,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Max O'Hare,Varsity,Mitchell Green,Varsity,Animesh Joshi He/Him,25.0,4,28.0,1,26.0,3,27.0,2
+Smith + Columbia,Fall,2021,5,O,L,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Eugenie Park,Varsity,Maya Rubin,Varsity,Eva Bruce She/Her,25.0,4,27.0,2,26.0,3,28.0,1
+Smith + Columbia,Fall,2021,2,O,W,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Forrest Weintraub She/Her,29.0,1,27.0,4,28.0,2,28.0,3
+Smith + Columbia,Fall,2021,3,G,W,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Aadhav Raviarasan He/Him,Varsity,Udheesh Gaddipati He/Him,Varsity,Miranda Li,32.0,2,32.0,1,28.0,4,29.0,3
+Smith + Columbia,Fall,2021,4,G,W,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Eugenie Park,Varsity,Maya Rubin,Varsity,Eden Rowe She/Her,31.0,2,32.0,1,28.0,4,29.0,3
+Smith + Columbia,Fall,2021,5,O,W,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Ivy Mao,Novice,Rachel Fei,Novice,Eva Savin She/Her,27.0,2,28.0,1,23.0,4,24.0,3
+Smith + Columbia,Fall,2021,1,G,W,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,Anisah Colón,Novice,Sophie Rose Fetter,Novice,Jaiden Hasan,25.0,2,25.0,1,24.0,4,24.0,3
+Smith + Columbia,Fall,2021,2,O,L,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Elisa Nisly She/Her,20.0,4,25.0,3,30.0,1,30.0,2
+Smith + Columbia,Fall,2021,3,G,L,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Drew Harrington,30.0,3,27.0,4,30.0,2,30.0,1
+Smith + Columbia,Fall,2021,4,O,L,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,Kai Etheridge,Novice,Nat Keim,Novice,Ben Solomon,26.0,2,25.0,4,28.0,1,25.0,3
+Smith + Columbia,Fall,2021,5,G,W,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,Isaac Appelbaum,Novice,Jacoby Sypher,Novice,James Tsukada He/Him,25.0,3,29.0,1,25.0,2,24.0,4
+Smith + Columbia,Fall,2021,1,O,L,Allison Su,Novice,Jill Ji,Novice,Max O'Hare,Varsity,Mitchell Green,Varsity,Ethan Choi He/Him,26.0,3,25.0,4,28.0,1,27.0,2
+Smith + Columbia,Fall,2021,2,G,W,Allison Su,Novice,Jill Ji,Novice,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Daniel Caplan He/Him,26.0,2,27.0,1,25.0,4,26.0,3
+Smith + Columbia,Fall,2021,3,O,W,Allison Su,Novice,Jill Ji,Novice,Grace Mctigue,Novice,Rachel Bartz,Novice,Daniel Kang,21.0,1,17.0,4,18.0,3,19.0,2
+Smith + Columbia,Fall,2021,4,O,L,Allison Su,Novice,Jill Ji,Novice,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Ben Boven,27.0,3,27.0,4,30.0,1,30.0,2
+Smith + Columbia,Fall,2021,5,G,L,Allison Su,Novice,Jill Ji,Novice,Inko Bovenzi,Novice,Leo Fleissig,Novice,Lori Ann Christian,26.0,3,25.0,4,28.0,1,27.0,2
+Smith + Columbia,Fall,2021,1,O,L,Devesh Kodnani,Varsity,Nick Devito,Varsity,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Eden Rowe She/Her,28.0,4,29.0,2,28.0,3,30.0,1
+Smith + Columbia,Fall,2021,2,G,W,Devesh Kodnani,Varsity,Nick Devito,Varsity,Ayush Ajmani,Novice,Erik Chen,Novice,Ben Solomon,30.0,1,29.0,2,25.0,3,24.0,4
+Smith + Columbia,Fall,2021,3,O,W,Devesh Kodnani,Varsity,Nick Devito,Varsity,Anisah Colón,Novice,Sophie Rose Fetter,Novice,Dennis Su He/Him,32.0,1,32.0,2,25.0,3,25.0,4
+Smith + Columbia,Fall,2021,4,G,W,Devesh Kodnani,Varsity,Nick Devito,Varsity,Laura Howard She/Her,Novice,Vihini Gunasekera She/Her,Novice,Eva Bruce She/Her,29.0,1,28.0,2,25.0,3,25.0,4
+Smith + Columbia,Fall,2021,5,O,W,Devesh Kodnani,Varsity,Nick Devito,Varsity,Rebecca Ronai,Novice,Sam Bevins,Novice,Roopa Irakam,33.0,2,33.0,1,30.0,3,29.0,4
+Smith + Columbia,Fall,2021,1,O,L,Donnell Weldon,Novice,Emily Paulin,Novice,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Eva Bruce She/Her,25.0,4,26.0,3,28.0,1,27.0,2
+Smith + Columbia,Fall,2021,2,G,L,Donnell Weldon,Novice,Emily Paulin,Novice,Ivy Mao,Novice,Rachel Fei,Novice,Benjamin Scherzer He/Him,24.0,4,25.0,3,26.0,2,27.0,1
+Smith + Columbia,Fall,2021,3,O,W,Donnell Weldon,Novice,Emily Paulin,Novice,Isaac Appelbaum,Novice,Jacoby Sypher,Novice,Forrest Weintraub She/Her,24.0,4,27.0,1,27.0,2,24.0,3
+Smith + Columbia,Fall,2021,4,G,L,Donnell Weldon,Novice,Emily Paulin,Novice,Ayush Ajmani,Novice,Erik Chen,Novice,Ella Saffran She/Her,27.0,2,27.0,3,26.0,4,29.0,1
+Smith + Columbia,Fall,2021,1,O,W,Grace Mctigue,Novice,Rachel Bartz,Novice,Isaac Appelbaum,Novice,Jacoby Sypher,Novice,Akshay Manglik He/Him,28.0,1,26.0,3,25.0,4,27.0,2
+Smith + Columbia,Fall,2021,2,G,L,Grace Mctigue,Novice,Rachel Bartz,Novice,Rebecca Ronai,Novice,Sam Bevins,Novice,Dennis Su He/Him,27.0,4,28.0,3,30.0,1,29.0,2
+Smith + Columbia,Fall,2021,3,G,L,Grace Mctigue,Novice,Rachel Bartz,Novice,Allison Su,Novice,Jill Ji,Novice,Daniel Kang,18.0,3,19.0,2,21.0,1,17.0,4
+Smith + Columbia,Fall,2021,4,G,W,Grace Mctigue,Novice,Rachel Bartz,Novice,Sarah Miller,Novice,Sriya Prathuri,Novice,James Hu He/Him,28.0,3,29.0,1,29.0,2,28.0,4
+Smith + Columbia,Fall,2021,5,O,L,Grace Mctigue,Novice,Rachel Bartz,Novice,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Ben Bozza He/Him,25.0,4,25.0,3,27.0,1,26.0,2
+Smith + Columbia,Fall,2021,1,G,L,Aleeza Syed,Novice,Lindsey Greenberg,Novice,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Ben Bozza He/Him,22.0,4,25.0,2,27.0,1,25.0,3
+Smith + Columbia,Fall,2021,2,O,L,Aleeza Syed,Novice,Lindsey Greenberg,Novice,Eugenie Park,Varsity,Maya Rubin,Varsity,Aryana Mohammadi She/Her,22.0,4,25.0,3,28.0,1,27.0,2
+Smith + Columbia,Fall,2021,4,G,L,Aleeza Syed,Novice,Lindsey Greenberg,Novice,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Ananya Natchukuri,24.0,3,23.0,4,26.0,1,25.0,2
+Smith + Columbia,Fall,2021,5,O,L,Aleeza Syed,Novice,Lindsey Greenberg,Novice,Sarah Miller,Novice,Sriya Prathuri,Novice,Holly Dickinson She/Her,26.0,4,27.0,2,27.0,3,29.0,1
+Smith + Columbia,Fall,2021,1,O,L,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Eugenie Park,Varsity,Maya Rubin,Varsity,Joy Lundberg,31.0,3,31.0,4,31.0,2,32.0,1
+Smith + Columbia,Fall,2021,2,G,W,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Inko Bovenzi,Novice,Leo Fleissig,Novice,Max Wilson,27.0,2,28.0,1,27.0,3,26.0,4
+Smith + Columbia,Fall,2021,3,O,W,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,Drew Harrington,30.0,2,30.0,1,30.0,3,27.0,4
+Smith + Columbia,Fall,2021,4,G,W,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Hannah Platter They/Them,28.0,2,31.0,1,28.0,3,25.0,4
+Smith + Columbia,Fall,2021,5,O,W,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Elisa Nisly She/Her,26.0,3,28.0,1,25.0,4,27.0,2
+Smith + Columbia,Fall,2021,1,O,W,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Ivy Mao,Novice,Rachel Fei,Novice,Albert Hao,29.0,2,30.0,1,25.0,4,26.0,3
+Smith + Columbia,Fall,2021,2,O,W,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Stephanie Chen,29.0,1,27.0,3,26.0,4,27.0,2
+Smith + Columbia,Fall,2021,3,G,L,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Eugenie Park,Varsity,Maya Rubin,Varsity,Andy Tran He/They,28.0,4,28.0,2,28.0,3,30.0,1
+Smith + Columbia,Fall,2021,4,G,W,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Isabella Sorial,Varsity,Jonas Poggi,Varsity,Christine Song,25.0,2,27.0,1,22.0,4,25.0,3
+Smith + Columbia,Fall,2021,5,G,L,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Ann Garth She/Her,24.0,4,26.0,2,27.0,1,24.0,3
+Smith + Columbia,Fall,2021,1,O,W,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Sarah Miller,Novice,Sriya Prathuri,Novice,Ellie Rieger,26.0,3,28.0,1,25.0,4,27.0,2
+Smith + Columbia,Fall,2021,2,G,L,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Stephanie Chen,26.0,4,27.0,2,29.0,1,27.0,3
+Smith + Columbia,Fall,2021,3,G,L,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Isabella Sorial,Varsity,Jonas Poggi,Varsity,Max Wilson,27.0,2,27.0,4,27.0,3,29.0,1
+Smith + Columbia,Fall,2021,4,O,W,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Anisah Colón,Novice,Sophie Rose Fetter,Novice,Anna Reis She/Her,26.0,2,27.0,1,23.0,4,24.0,3
+Smith + Columbia,Fall,2021,5,G,W,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Grace Mctigue,Novice,Rachel Bartz,Novice,Ben Bozza He/Him,27.0,1,26.0,2,25.0,4,25.0,3
+Smith + Columbia,Fall,2021,1,G,W,Isabella Sorial,Varsity,Jonas Poggi,Varsity,Ayush Ajmani,Novice,Erik Chen,Novice,Andrew Fahey He/Him,27.0,2,28.0,1,25.0,3,24.0,4
+Smith + Columbia,Fall,2021,2,G,L,Isabella Sorial,Varsity,Jonas Poggi,Varsity,Max O'Hare,Varsity,Mitchell Green,Varsity,Gianna Bruno She/Her,24.0,4,25.0,3,28.0,1,27.0,2
+Smith + Columbia,Fall,2021,3,O,W,Isabella Sorial,Varsity,Jonas Poggi,Varsity,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Max Wilson,27.0,3,29.0,1,27.0,2,27.0,4
+Smith + Columbia,Fall,2021,4,O,L,Isabella Sorial,Varsity,Jonas Poggi,Varsity,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Christine Song,22.0,4,25.0,3,25.0,2,27.0,1
+Smith + Columbia,Fall,2021,5,O,W,Isabella Sorial,Varsity,Jonas Poggi,Varsity,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,James Hu He/Him,28.0,3,30.0,1,29.0,2,28.0,4
+Smith + Columbia,Fall,2021,1,G,L,Isaac Appelbaum,Novice,Jacoby Sypher,Novice,Grace Mctigue,Novice,Rachel Bartz,Novice,Akshay Manglik He/Him,25.0,4,27.0,2,28.0,1,26.0,3
+Smith + Columbia,Fall,2021,2,O,L,Isaac Appelbaum,Novice,Jacoby Sypher,Novice,Laura Howard She/Her,Novice,Vihini Gunasekera She/Her,Novice,Jeffrey Xiong,26.0,1,23.0,4,24.0,3,25.0,2
+Smith + Columbia,Fall,2021,3,G,L,Isaac Appelbaum,Novice,Jacoby Sypher,Novice,Donnell Weldon,Novice,Emily Paulin,Novice,Forrest Weintraub She/Her,27.0,2,24.0,3,24.0,4,27.0,1
+Smith + Columbia,Fall,2021,5,O,L,Isaac Appelbaum,Novice,Jacoby Sypher,Novice,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,James Tsukada He/Him,25.0,2,24.0,4,25.0,3,29.0,1
+Smith + Columbia,Fall,2021,1,G,L,Sarah Miller,Novice,Sriya Prathuri,Novice,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Ellie Rieger,25.0,4,27.0,2,26.0,3,28.0,1
+Smith + Columbia,Fall,2021,2,O,W,Sarah Miller,Novice,Sriya Prathuri,Novice,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Ethan Choi He/Him,28.0,2,30.0,1,25.0,3,24.0,4
+Smith + Columbia,Fall,2021,3,G,L,Sarah Miller,Novice,Sriya Prathuri,Novice,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Alan Ma He/Him,27.0,3,25.0,4,30.0,1,29.0,2
+Smith + Columbia,Fall,2021,4,O,L,Sarah Miller,Novice,Sriya Prathuri,Novice,Grace Mctigue,Novice,Rachel Bartz,Novice,James Hu He/Him,29.0,2,28.0,4,28.0,3,29.0,1
+Smith + Columbia,Fall,2021,5,G,W,Sarah Miller,Novice,Sriya Prathuri,Novice,Aleeza Syed,Novice,Lindsey Greenberg,Novice,Holly Dickinson She/Her,27.0,3,29.0,1,26.0,4,27.0,2
+Smith + Columbia,Fall,2021,1,G,L,Inko Bovenzi,Novice,Leo Fleissig,Novice,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Anna Reis She/Her,25.0,3,23.0,4,33.0,1,32.0,2
+Smith + Columbia,Fall,2021,2,O,L,Inko Bovenzi,Novice,Leo Fleissig,Novice,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Max Wilson,27.0,3,26.0,4,27.0,2,28.0,1
+Smith + Columbia,Fall,2021,3,O,W,Inko Bovenzi,Novice,Leo Fleissig,Novice,Emily Chow,Varsity,Faith Ale,Novice,Stuart Beal He/Him,33.0,1,29.0,3,30.0,2,28.0,4
+Smith + Columbia,Fall,2021,4,O,W,Inko Bovenzi,Novice,Leo Fleissig,Novice,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Sarah Closser She/Her,27.0,2,28.0,1,25.0,4,26.0,3
+Smith + Columbia,Fall,2021,5,O,W,Inko Bovenzi,Novice,Leo Fleissig,Novice,Allison Su,Novice,Jill Ji,Novice,Lori Ann Christian,28.0,1,27.0,2,26.0,3,25.0,4
+Smith + Columbia,Fall,2021,1,G,L,Lucas Canon,Novice,Peter Scully,Novice,Aadhav Raviarasan He/Him,Varsity,Udheesh Gaddipati He/Him,Varsity,Katherine St George,29.0,2,28.0,4,30.0,1,28.0,3
+Smith + Columbia,Fall,2021,2,G,L,Lucas Canon,Novice,Peter Scully,Novice,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Kavika Krishnan,28.0,1,25.0,4,26.0,3,27.0,2
+Smith + Columbia,Fall,2021,3,O,L,Lucas Canon,Novice,Peter Scully,Novice,Ayush Ajmani,Novice,Erik Chen,Novice,Hannah Platter They/Them,23.0,4,25.0,3,27.0,1,25.0,2
+Smith + Columbia,Fall,2021,4,O,W,Lucas Canon,Novice,Peter Scully,Novice,Emily Chow,Varsity,Faith Ale,Novice,Ben Bozza He/Him,27.0,1,25.0,3,26.0,2,23.0,4
+Smith + Columbia,Fall,2021,5,G,L,Lucas Canon,Novice,Peter Scully,Novice,Anisah Colón,Novice,Sophie Rose Fetter,Novice,Ben Boven,23.0,3,25.0,2,23.0,4,26.0,1
+Smith + Columbia,Fall,2021,1,O,W,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Krish Nair He/Him,25.0,3,26.0,1,24.0,4,25.0,2
+Smith + Columbia,Fall,2021,2,G,L,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Aiden Zhang,Novice,John Youssef,Varsity,Andy Tran He/They,31.0,4,32.0,2,32.0,1,31.0,3
+Smith + Columbia,Fall,2021,3,G,W,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Laura Howard She/Her,Novice,Vihini Gunasekera She/Her,Novice,Animesh Joshi He/Him,27.0,2,28.0,1,24.0,3,22.0,4
+Smith + Columbia,Fall,2021,4,G,L,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Ijeoma Obi,22.0,4,25.0,2,25.0,1,24.0,3
+Smith + Columbia,Fall,2021,5,O,W,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Ayush Ajmani,Novice,Erik Chen,Novice,Biguo Xing,30.0,1,29.0,2,27.0,3,25.0,4
+Smith + Columbia,Fall,2021,1,G,W,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Donnell Weldon,Novice,Emily Paulin,Novice,Eva Bruce She/Her,28.0,1,27.0,2,25.0,4,26.0,3
+Smith + Columbia,Fall,2021,2,O,L,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Aadhav Raviarasan He/Him,Varsity,Udheesh Gaddipati He/Him,Varsity,Lori Ann Christian,29.0,4,31.0,2,32.0,1,30.0,3
+Smith + Columbia,Fall,2021,3,G,W,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,Aryana Mohammadi She/Her,29.0,1,26.0,3,24.0,4,26.0,2
+Smith + Columbia,Fall,2021,4,O,W,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Matthew Pierson He/Him,32.0,1,29.0,4,30.0,2,30.0,3
+Smith + Columbia,Fall,2021,5,O,W,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Ann Garth She/Her,27.0,1,24.0,3,24.0,4,26.0,2
+Smith + Columbia,Fall,2021,1,G,W,Aiden Zhang,Novice,John Youssef,Varsity,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Bailey Stephen She/Her,29.0,2,32.0,1,24.0,4,26.0,3
+Smith + Columbia,Fall,2021,2,O,W,Aiden Zhang,Novice,John Youssef,Varsity,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Andy Tran He/They,32.0,1,31.0,3,31.0,4,32.0,2
+Smith + Columbia,Fall,2021,3,O,W,Aiden Zhang,Novice,John Youssef,Varsity,Max O'Hare,Varsity,Mitchell Green,Varsity,Daniel Caplan He/Him,27.0,3,31.0,1,26.0,4,27.0,2
+Smith + Columbia,Fall,2021,4,G,W,Aiden Zhang,Novice,John Youssef,Varsity,Rebecca Ronai,Novice,Sam Bevins,Novice,Hiroyuki Shibuya He/Him,27.0,2,29.0,1,25.0,3,24.0,4
+Smith + Columbia,Fall,2021,5,G,W,Aiden Zhang,Novice,John Youssef,Varsity,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Eden Rowe She/Her,29.0,3,32.0,1,29.0,2,28.0,4
+Smith + Columbia,Fall,2021,1,O,W,Aadhav Raviarasan He/Him,Varsity,Udheesh Gaddipati He/Him,Varsity,Lucas Canon,Novice,Peter Scully,Novice,Katherine St George,30.0,1,28.0,3,29.0,2,28.0,4
+Smith + Columbia,Fall,2021,2,G,W,Aadhav Raviarasan He/Him,Varsity,Udheesh Gaddipati He/Him,Varsity,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Lori Ann Christian,32.0,1,30.0,3,29.0,4,31.0,2
+Smith + Columbia,Fall,2021,3,O,L,Aadhav Raviarasan He/Him,Varsity,Udheesh Gaddipati He/Him,Varsity,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Miranda Li,28.0,4,29.0,3,32.0,2,32.0,1
+Smith + Columbia,Fall,2021,1,O,W,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,Emily Chow,Varsity,Faith Ale,Novice,Kaila Frazer,30.0,2,30.0,1,29.0,3,28.0,4
+Smith + Columbia,Fall,2021,2,O,L,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Claire Schweitzer She/Her,25.0,3,25.0,4,28.0,1,26.0,2
+Smith + Columbia,Fall,2021,3,G,L,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,Ivy Mao,Novice,Rachel Fei,Novice,Ethan Choi He/Him,27.0,2,24.0,4,26.0,3,28.0,1
+Smith + Columbia,Fall,2021,4,O,W,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,Andrew Fahey He/Him,28.0,1,25.0,2,23.0,3,21.0,4
+Smith + Columbia,Fall,2021,5,G,L,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,Isabella Sorial,Varsity,Jonas Poggi,Varsity,James Hu He/Him,29.0,2,28.0,4,28.0,3,30.0,1
+Smith + Columbia,Fall,2021,1,G,W,Rebecca Ronai,Novice,Sam Bevins,Novice,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,James Tsukada He/Him,30.0,1,28.0,2,25.0,4,25.0,3
+Smith + Columbia,Fall,2021,2,O,W,Rebecca Ronai,Novice,Sam Bevins,Novice,Grace Mctigue,Novice,Rachel Bartz,Novice,Dennis Su He/Him,30.0,1,29.0,2,27.0,4,28.0,3
+Smith + Columbia,Fall,2021,3,O,W,Rebecca Ronai,Novice,Sam Bevins,Novice,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Brian Luna,28.0,1,27.0,2,26.0,4,26.0,3
+Smith + Columbia,Fall,2021,4,O,L,Rebecca Ronai,Novice,Sam Bevins,Novice,Aiden Zhang,Novice,John Youssef,Varsity,Hiroyuki Shibuya He/Him,25.0,3,24.0,4,27.0,2,29.0,1
+Smith + Columbia,Fall,2021,5,G,L,Rebecca Ronai,Novice,Sam Bevins,Novice,Devesh Kodnani,Varsity,Nick Devito,Varsity,Roopa Irakam,30.0,3,29.0,4,33.0,2,33.0,1
+Smith + Columbia,Fall,2021,1,O,L,Ayush Ajmani,Novice,Erik Chen,Novice,Isabella Sorial,Varsity,Jonas Poggi,Varsity,Andrew Fahey He/Him,25.0,3,24.0,4,27.0,2,28.0,1
+Smith + Columbia,Fall,2021,2,O,L,Ayush Ajmani,Novice,Erik Chen,Novice,Devesh Kodnani,Varsity,Nick Devito,Varsity,Ben Solomon,25.0,3,24.0,4,30.0,1,29.0,2
+Smith + Columbia,Fall,2021,3,G,W,Ayush Ajmani,Novice,Erik Chen,Novice,Lucas Canon,Novice,Peter Scully,Novice,Hannah Platter They/Them,27.0,1,25.0,2,23.0,4,25.0,3
+Smith + Columbia,Fall,2021,4,O,W,Ayush Ajmani,Novice,Erik Chen,Novice,Donnell Weldon,Novice,Emily Paulin,Novice,Ella Saffran She/Her,26.0,4,29.0,1,27.0,2,27.0,3
+Smith + Columbia,Fall,2021,5,G,L,Ayush Ajmani,Novice,Erik Chen,Novice,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Biguo Xing,27.0,3,25.0,4,30.0,1,29.0,2
+Smith + Columbia,Fall,2021,1,O,L,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Aiden Zhang,Novice,John Youssef,Varsity,Bailey Stephen She/Her,24.0,4,26.0,3,29.0,2,32.0,1
+Smith + Columbia,Fall,2021,2,G,L,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Sarah Miller,Novice,Sriya Prathuri,Novice,Ethan Choi He/Him,25.0,3,24.0,4,28.0,2,30.0,1
+Smith + Columbia,Fall,2021,3,O,L,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Joy Lundberg,26.0,4,27.0,3,30.0,2,31.0,1
+Smith + Columbia,Fall,2021,4,G,L,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Inko Bovenzi,Novice,Leo Fleissig,Novice,Sarah Closser She/Her,25.0,4,26.0,3,27.0,2,28.0,1
+Smith + Columbia,Fall,2021,5,G,W,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Emily Chow,Varsity,Faith Ale,Novice,Ines Khouider She/Her,26.0,3,28.0,1,27.0,2,25.0,4
+Smith + Columbia,Fall,2021,1,O,L,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,Rebecca Ronai,Novice,Sam Bevins,Novice,James Tsukada He/Him,25.0,4,25.0,3,30.0,1,28.0,2
+Smith + Columbia,Fall,2021,2,G,W,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,Emily Chow,Varsity,Faith Ale,Novice,Megan Lunny,23.0,2,24.0,1,22.0,3,22.0,4
+Smith + Columbia,Fall,2021,3,O,L,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Aryana Mohammadi She/Her,24.0,4,26.0,2,29.0,1,26.0,3
+Smith + Columbia,Fall,2021,4,G,L,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,Andrew Fahey He/Him,23.0,3,21.0,4,28.0,1,25.0,2
+Smith + Columbia,Fall,2021,5,G,L,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Ananya Natchukuri,26.0,4,26.0,3,27.0,2,27.0,1
+Smith + Columbia,Fall,2021,1,G,L,Laura Howard She/Her,Novice,Vihini Gunasekera She/Her,Novice,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Cara Liu,25.0,4,25.0,3,28.0,1,27.0,2
+Smith + Columbia,Fall,2021,2,G,W,Laura Howard She/Her,Novice,Vihini Gunasekera She/Her,Novice,Isaac Appelbaum,Novice,Jacoby Sypher,Novice,Jeffrey Xiong,24.0,3,25.0,2,26.0,1,23.0,4
+Smith + Columbia,Fall,2021,3,O,L,Laura Howard She/Her,Novice,Vihini Gunasekera She/Her,Novice,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Animesh Joshi He/Him,24.0,3,22.0,4,27.0,2,28.0,1
+Smith + Columbia,Fall,2021,4,O,L,Laura Howard She/Her,Novice,Vihini Gunasekera She/Her,Novice,Devesh Kodnani,Varsity,Nick Devito,Varsity,Eva Bruce She/Her,25.0,3,25.0,4,29.0,1,28.0,2
+Smith + Columbia,Fall,2021,1,G,L,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Kai Etheridge,Novice,Nat Keim,Novice,Elise Greene She/Her,26.0,3,25.0,4,27.0,1,27.0,2
+Smith + Columbia,Fall,2021,2,O,L,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Allison Su,Novice,Jill Ji,Novice,Daniel Caplan He/Him,25.0,4,26.0,3,26.0,2,27.0,1
+Smith + Columbia,Fall,2021,3,G,W,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Joy Lundberg,30.0,2,31.0,1,26.0,4,27.0,3
+Smith + Columbia,Fall,2021,4,O,W,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Aleeza Syed,Novice,Lindsey Greenberg,Novice,Ananya Natchukuri,26.0,1,25.0,2,24.0,3,23.0,4
+Smith + Columbia,Fall,2021,5,O,W,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Sarah Robertson She/Her,28.0,1,26.0,3,27.0,2,25.0,4
+Smith + Columbia,Fall,2021,1,G,W,Eugenie Park,Varsity,Maya Rubin,Varsity,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Joy Lundberg,31.0,2,32.0,1,31.0,3,31.0,4
+Smith + Columbia,Fall,2021,2,G,W,Eugenie Park,Varsity,Maya Rubin,Varsity,Aleeza Syed,Novice,Lindsey Greenberg,Novice,Aryana Mohammadi She/Her,28.0,1,27.0,2,22.0,4,25.0,3
+Smith + Columbia,Fall,2021,3,O,W,Eugenie Park,Varsity,Maya Rubin,Varsity,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Andy Tran He/They,28.0,3,30.0,1,28.0,4,28.0,2
+Smith + Columbia,Fall,2021,4,O,L,Eugenie Park,Varsity,Maya Rubin,Varsity,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Eden Rowe She/Her,28.0,4,29.0,3,31.0,2,32.0,1
+Smith + Columbia,Fall,2021,5,G,W,Eugenie Park,Varsity,Maya Rubin,Varsity,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Eva Bruce She/Her,26.0,3,28.0,1,25.0,4,27.0,2
+Smith + Columbia,Fall,2021,1,G,L,Ivy Mao,Novice,Rachel Fei,Novice,Dominic Deramo He/Him,Varsity,Patrick Han,Varsity,Albert Hao,25.0,4,26.0,3,29.0,2,30.0,1
+Smith + Columbia,Fall,2021,2,O,W,Ivy Mao,Novice,Rachel Fei,Novice,Donnell Weldon,Novice,Emily Paulin,Novice,Benjamin Scherzer He/Him,26.0,2,27.0,1,24.0,4,25.0,3
+Smith + Columbia,Fall,2021,3,O,W,Ivy Mao,Novice,Rachel Fei,Novice,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,Ethan Choi He/Him,26.0,3,28.0,1,27.0,2,24.0,4
+Smith + Columbia,Fall,2021,5,G,L,Ivy Mao,Novice,Rachel Fei,Novice,Ananya Kalahasti,Varsity,Robin Gloss,Varsity,Eva Savin She/Her,23.0,4,24.0,3,27.0,2,28.0,1
+Smith + Columbia,Fall,2021,1,O,L,Anisah Colón,Novice,Sophie Rose Fetter,Novice,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,Jaiden Hasan,24.0,4,24.0,3,25.0,2,25.0,1
+Smith + Columbia,Fall,2021,3,G,L,Anisah Colón,Novice,Sophie Rose Fetter,Novice,Devesh Kodnani,Varsity,Nick Devito,Varsity,Dennis Su He/Him,25.0,3,25.0,4,32.0,1,32.0,2
+Smith + Columbia,Fall,2021,4,G,L,Anisah Colón,Novice,Sophie Rose Fetter,Novice,Josh Cohen,Varsity,Katrina Hotaling,Varsity,Anna Reis She/Her,23.0,4,24.0,3,26.0,2,27.0,1
+Smith + Columbia,Fall,2021,5,O,W,Anisah Colón,Novice,Sophie Rose Fetter,Novice,Lucas Canon,Novice,Peter Scully,Novice,Ben Boven,23.0,4,26.0,1,23.0,3,25.0,2
+Smith + Columbia,Fall,2021,1,G,W,Max O'Hare,Varsity,Mitchell Green,Varsity,Allison Su,Novice,Jill Ji,Novice,Ethan Choi He/Him,28.0,1,27.0,2,26.0,3,25.0,4
+Smith + Columbia,Fall,2021,2,O,W,Max O'Hare,Varsity,Mitchell Green,Varsity,Isabella Sorial,Varsity,Jonas Poggi,Varsity,Gianna Bruno She/Her,28.0,1,27.0,2,24.0,4,25.0,3
+Smith + Columbia,Fall,2021,3,G,L,Max O'Hare,Varsity,Mitchell Green,Varsity,Aiden Zhang,Novice,John Youssef,Varsity,Daniel Caplan He/Him,26.0,4,27.0,2,27.0,3,31.0,1
+Smith + Columbia,Fall,2021,4,G,L,Max O'Hare,Varsity,Mitchell Green,Varsity,Samahal Waseem,Novice,Sasha Chuprakova She/Her,Varsity,Animesh Joshi He/Him,26.0,3,27.0,2,25.0,4,28.0,1
+Smith + Columbia,Fall,2021,5,O,L,Max O'Hare,Varsity,Mitchell Green,Varsity,Kai Etheridge,Novice,Nat Keim,Novice,Forrest Weintraub She/Her,28.0,4,28.0,3,29.0,2,30.0,1
+Smith + Columbia,Fall,2021,1,G,L,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Krish Nair He/Him,24.0,4,25.0,2,25.0,3,26.0,1
+Smith + Columbia,Fall,2021,2,O,W,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Lucas Canon,Novice,Peter Scully,Novice,Kavika Krishnan,26.0,3,27.0,2,28.0,1,25.0,4
+Smith + Columbia,Fall,2021,3,O,W,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Sarah Miller,Novice,Sriya Prathuri,Novice,Alan Ma He/Him,30.0,1,29.0,2,27.0,3,25.0,4
+Smith + Columbia,Fall,2021,4,G,L,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Emmanuel Murphy He/Him,Varsity,Fariha Rahman,Novice,Matthew Pierson He/Him,30.0,2,30.0,3,32.0,1,29.0,4
+Smith + Columbia,Fall,2021,5,O,W,Lilah Steinberg,Novice,Timothy Goggin,Varsity,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,Ananya Natchukuri,27.0,2,27.0,1,26.0,4,26.0,3
+Smith + Columbia,Fall,2021,1,G,W,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Devesh Kodnani,Varsity,Nick Devito,Varsity,Eden Rowe She/Her,28.0,3,30.0,1,28.0,4,29.0,2
+Smith + Columbia,Fall,2021,2,O,W,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Kai Etheridge,Novice,Nat Keim,Novice,Albert Hao,30.0,1,28.0,2,24.0,3,21.0,4
+Smith + Columbia,Fall,2021,3,G,L,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Rebecca Ronai,Novice,Sam Bevins,Novice,Brian Luna,26.0,4,26.0,3,28.0,1,27.0,2
+Smith + Columbia,Fall,2021,4,O,W,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Frank Rodriguez,Varsity,Kyle Cook,Varsity,Ijeoma Obi,25.0,1,24.0,3,22.0,4,25.0,2
+Smith + Columbia,Fall,2021,5,G,L,Lily Napach She/Her,Novice,Shaye Martin She/Her,Novice,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Elisa Nisly She/Her,25.0,4,27.0,2,26.0,3,28.0,1
+Smith + Columbia,Fall,2021,1,O,W,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Aleeza Syed,Novice,Lindsey Greenberg,Novice,Ben Bozza He/Him,27.0,1,25.0,3,22.0,4,25.0,2
+Smith + Columbia,Fall,2021,2,G,W,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,Claire Schweitzer She/Her,28.0,1,26.0,2,25.0,3,25.0,4
+Smith + Columbia,Fall,2021,3,G,L,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Akshay Manglik He/Him,25.0,4,26.0,3,28.0,2,30.0,1
+Smith + Columbia,Fall,2021,4,O,L,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Aaron Rajput He/Him,Novice,Maxwell Sheremeta He/Him,Varsity,Hannah Platter They/Them,28.0,3,25.0,4,28.0,2,31.0,1
+Smith + Columbia,Fall,2021,5,G,L,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Brandon Burton He/Him,Varsity,Maggie Mooney She/Her,Novice,Sarah Robertson She/Her,27.0,2,25.0,4,28.0,1,26.0,3
+Smith + Columbia,Fall,2021,1,G,L,Emily Chow,Varsity,Faith Ale,Novice,Sean Oddoye,Varsity,Yuri Izumikawa,Novice,Kaila Frazer,29.0,3,28.0,4,30.0,2,30.0,1
+Smith + Columbia,Fall,2021,2,O,L,Emily Chow,Varsity,Faith Ale,Novice,Armaan Sheth He/Him,Novice,Skye Mcmorris She/Her,Novice,Megan Lunny,22.0,3,22.0,4,23.0,2,24.0,1
+Smith + Columbia,Fall,2021,3,G,L,Emily Chow,Varsity,Faith Ale,Novice,Inko Bovenzi,Novice,Leo Fleissig,Novice,Stuart Beal He/Him,30.0,2,28.0,4,33.0,1,29.0,3
+Smith + Columbia,Fall,2021,4,G,L,Emily Chow,Varsity,Faith Ale,Novice,Lucas Canon,Novice,Peter Scully,Novice,Ben Bozza He/Him,26.0,2,23.0,4,27.0,1,25.0,3
+Smith + Columbia,Fall,2021,5,O,L,Emily Chow,Varsity,Faith Ale,Novice,Abigail D'Angelo She/Her,Novice,Bryan Mcdonough He/Him,Novice,Ines Khouider She/Her,27.0,2,25.0,4,26.0,3,28.0,1
+Smith + Columbia,Fall,2021,1,O,W,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Inko Bovenzi,Novice,Leo Fleissig,Novice,Anna Reis She/Her,33.0,1,32.0,2,25.0,3,23.0,4
+Smith + Columbia,Fall,2021,2,G,W,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Amulya Natchukuri She/Her,Novice,Stav Kanza-Levi,Novice,Elisa Nisly She/Her,30.0,1,30.0,2,20.0,4,25.0,3
+Smith + Columbia,Fall,2021,3,O,W,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Daniel Page He/Him,Novice,Robert Nielsen He/Him,Novice,Akshay Manglik He/Him,28.0,2,30.0,1,25.0,4,26.0,3
+Smith + Columbia,Fall,2021,4,G,W,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Allison Su,Novice,Jill Ji,Novice,Ben Boven,30.0,1,30.0,2,27.0,3,27.0,4
+Smith + Columbia,Fall,2021,5,O,L,Gabbi Shilcusky,Varsity,Yannick Davidson,Varsity,Aiden Zhang,Novice,John Youssef,Varsity,Eden Rowe She/Her,29.0,2,28.0,4,29.0,3,32.0,1
