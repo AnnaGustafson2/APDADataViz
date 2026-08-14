@@ -1,0 +1,69 @@
+,Rounds per School,Debaters per School
+0,"Judge School
+American                               424
+Amherst                                281
+Bates                                  207
+Bentley University                      26
+Binghamton University                  102
+Boston College                          14
+Boston University                      888
+Brandeis                               595
+Brown                                 1359
+CUNY                                   158
+Carnegie Mellon                        162
+Columbia                               822
+Dartmouth                              186
+Drexel                                  58
+Fordham                                528
+George Washington                     1718
+Georgetown                            1110
+Hamilton                                20
+Harvard                                656
+Haverford                               84
+Johns Hopkins                          572
+Lehigh                                  33
+MIT                                     16
+Maryland                               785
+NYU                                    525
+Northeastern                          1246
+Northwestern                            10
+Pace                                    16
+Penn                                   444
+Princeton                              777
+Rutgers                                575
+Smith                                  212
+Stanford                                56
+Stony Brook University                   2
+Swarthmore                             780
+TESU                                     6
+Temple                                 156
+The College of New Jersey               40
+Tufts                                  502
+UCLA                                     8
+UConn                                   40
+University of Chicago                 1064
+University of Delaware                 108
+University of Massachusetts            237
+University of North Carolina             8
+University of Pittsburgh               191
+University of Virginia                 864
+Villanova                               39
+Washington University in St. Louis      10
+Wellesley                              742
+Wesleyan                               174
+William and Mary                       560
+Williams                               183
+Yale                                  1353
+Name: Judge, dtype: int64","School
+Adelphi                                            [Marly Medard, Tim Anderson]
+American                      [*removed *, Aaron Rajput, Aarushi Sahejpal, A...
+Amherst                       [Adam Garmezy, Alan Cai, Alan Lawn, Amaya Rana...
+Bard                          [Adelina Colaku, Bronte Baker Blake, Eva-Mare ...
+Bard Graduate Center                              [Brent Schmidt, Buzz Klinger]
+                                                    ...                        
+Wilfred Laurier University                                       [Kate Solecki]
+William and Mary              [Aaraj Vij, Aaron Murphy, Aba Tieku, Ahmadou D...
+Williams                      [Abraham Paik, Alex Creighton, Allegra Simon, ...
+Yale                          [Aaron Hakim, Aaron Mesa, Aaron Zelinksky, Abh...
+York University                               [James Stevenson, Jeremy Larkins]
+Name: Debater, Length: 155, dtype: object"
