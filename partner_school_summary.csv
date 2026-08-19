@@ -1,0 +1,2127 @@
+Debater,Distinct Partner Schools,Num Distinct Partner Schools
+Nick DeVito,"['Boston University', 'Brandeis', 'George Washington', 'Georgetown', 'Harvard', 'Johns Hopkins', 'Northeastern', 'Penn', 'Tufts', 'University of Chicago', 'University of Virginia', 'Wellesley', 'William and Mary', 'Williams', 'Yale']",15
+Andrew Monteith,"['Bates', 'Brown', 'Columbia', 'George Washington', 'Georgetown', 'Johns Hopkins', 'Northeastern', 'Penn', 'University of Chicago', 'William and Mary', 'Williams']",11
+Emmanuel Murphy,"['American', 'Brandeis', 'George Washington', 'Johns Hopkins', 'La Verne', 'Northeastern', 'Penn', 'Tufts', 'University of Chicago', 'William and Mary']",10
+Muzamil Godil,"['Boston University', 'Brown', 'Cornell', 'Georgetown', 'Johns Hopkins', 'Maryland', 'Northeastern', 'University of Chicago', 'William and Mary']",9
+Melanie Zhang,"['Brandeis', 'Brown', 'Harvard', 'NYU', 'Northeastern', 'Princeton', 'Williams', 'Yale']",8
+Pranav Garigipati,"['Boston University', 'Brandeis', 'Columbia', 'Johns Hopkins', 'Northeastern', 'Penn', 'Princeton', 'Rutgers']",8
+Samuel Johnson,"['Dartmouth', 'Harvard', 'Northeastern', 'Tufts', 'University of Chicago', 'University of Virginia', 'William and Mary', 'Williams']",8
+Julia Rubas,"['American', 'Amherst', 'George Washington', 'Georgetown', 'Tufts', 'UT Austin', 'University of Chicago', 'University of Virginia']",8
+Dennis Su,"['Brandeis', 'Brown', 'Johns Hopkins', 'Northeastern', 'Smith', 'Tufts', 'UCLA', 'Williams']",8
+Aiden Zhang,"['Amherst', 'Bates', 'Brandeis', 'Brown', 'NYU', 'Northeastern', 'Tufts', 'Yale']",8
+Joe Cox,"['Amherst', 'Johns Hopkins', 'Northeastern', 'Penn', 'Rutgers', 'Tufts', 'University of Chicago', 'William and Mary']",8
+Rohan Ganesh,"['Brown', 'Johns Hopkins', 'Northeastern', 'Penn', 'Princeton', 'Rutgers', 'University of Chicago', 'Williams']",8
+Eugenie Park,"['American', 'Brown', 'Johns Hopkins', 'Northeastern', 'University of Massachusetts', 'Wellesley', 'William and Mary', 'Williams']",8
+Sidra Hussain,"['George Washington', 'Georgetown', 'Johns Hopkins', 'La Verne', 'Northeastern', 'University of Virginia', 'William and Mary']",7
+Adi Ram,"['Harvard', 'Penn', 'Tufts', 'University of Chicago', 'Vassar', 'William and Mary', 'Yale']",7
+Katrina Hotaling,"['Boston University', 'Brandeis', 'Northeastern', 'Tufts', 'University of Chicago', 'Wellesley', 'Yale']",7
+Mabel Rieger,"['Bates', 'Columbia', 'George Washington', 'Georgetown', 'Johns Hopkins', 'Rutgers', 'University of Virginia']",7
+Hannah Platter,"['Binghamton University', 'Brown', 'Columbia', 'Northeastern', 'Rutgers', 'Smith', 'Wellesley']",7
+Sahil Sud,"['Amherst', 'Bates', 'Brown', 'George Washington', 'Georgetown', 'Johns Hopkins', 'University of Chicago']",7
+Emma Listgarten,"['Amherst', 'Bates', 'Brown', 'Columbia', 'George Washington', 'Tufts', 'University of Chicago']",7
+Abigail Hill,"['George Washington', 'Georgetown', 'Johns Hopkins', 'MIT', 'Penn', 'University of Chicago', 'William and Mary']",7
+Maya Rubin,"['Amherst', 'Boston University', 'Columbia', 'Harvard', 'Smith', 'Tufts', 'Wellesley']",7
+Bart Kaminski,"['George Washington', 'Georgetown', 'Harvard', 'Johns Hopkins', 'University of Virginia', 'Wellesley', 'William and Mary']",7
+John Youssef,"['Bates', 'Brown', 'Northeastern', 'Tufts', 'University of Chicago', 'William and Mary', 'Williams']",7
+Nathaniel Yoon,"['Brown', 'Georgetown', 'Johns Hopkins', 'Northeastern', 'Penn', 'University of Massachusetts', 'Yale']",7
+Jonah Goldman,"['American', 'Amherst', 'Georgetown', 'Harvard', 'Johns Hopkins', 'Rutgers', 'William and Mary']",7
+Tanay Patri,"['Boston University', 'Harvard', 'Johns Hopkins', 'Northeastern', 'Penn', 'Wellesley', 'Yale']",7
+Justin Wu,"['Brown', 'Johns Hopkins', 'Northeastern', 'Penn', 'Rutgers', 'William and Mary', 'Yale']",7
+Jonathan Chen,"['Columbia', 'Johns Hopkins', 'Penn', 'Rutgers', 'Tufts', 'University of Chicago', 'William and Mary']",7
+Tanya Chatterjee,"['Amherst', 'Brown', 'Columbia', 'Johns Hopkins', 'Penn', 'Rutgers', 'Yale']",7
+Matt Mauriello,"['Brown', 'Dartmouth', 'Harvard', 'Johns Hopkins', 'Tufts', 'University of Chicago', 'Yale']",7
+William Logue,"['Brown', 'La Verne', 'NYU', 'Northeastern', 'Penn', 'Tufts', 'Williams']",7
+Rocco Spinozzi-D'Andrea,"['Columbia', 'Drexel', 'Georgetown', 'Haverford', 'Rutgers', 'Temple']",6
+Robin Gloss,"['George Washington', 'Georgetown', 'Johns Hopkins', 'La Verne', 'Tufts', 'University of Pittsburgh']",6
+Dillon Ma,"['Columbia', 'George Washington', 'Georgetown', 'University of Chicago', 'University of Virginia', 'William and Mary']",6
+Dominic DeRamo,"['American', 'George Washington', 'Georgetown', 'Johns Hopkins', 'Maryland', 'William and Mary']",6
+Ryan Lafferty,"['Brown', 'Carnegie Mellon', 'Dartmouth', 'Rutgers', 'University of Chicago', 'Yale']",6
+Gabbi Shilcusky,"['Brown', 'Johns Hopkins', 'Northeastern', 'Tufts', 'William and Mary', 'Williams']",6
+Mimi Wu,"['Boston University', 'Brandeis', 'Brown', 'Tufts', 'Wellesley', 'Williams']",6
+Alexandra Uy-Tioco,"['Columbia', 'Georgetown', 'Johns Hopkins', 'NYU', 'Penn', 'University of Chicago']",6
+Cecilia Granda-Scott,"['Amherst', 'Bates', 'Brown', 'Columbia', 'Tufts', 'University of Chicago']",6
+Weslan Hansen,"['American', 'Bates', 'George Washington', 'Georgetown', 'NYU', 'University of Virginia']",6
+James Afford,"['Amherst', 'Bates', 'Brandeis', 'Brown', 'Columbia', 'Northeastern']",6
+Rishven Pravin,"['Boston University', 'Brandeis', 'Northeastern', 'Tufts', 'Wellesley', 'Williams']",6
+Benji Grimes,"['Boston University', 'Brandeis', 'Brown', 'Columbia', 'Rutgers', 'Tufts']",6
+Srishti Nautiyal,"['Boston University', 'Brandeis', 'George Washington', 'Northeastern', 'William and Mary', 'Yale']",6
+Maiya Little,"['George Washington', 'Georgetown', 'Maryland', 'Rutgers', 'University of Virginia', 'William and Mary']",6
+Sumanth Mahalingam,"['Columbia', 'George Washington', 'Georgetown', 'Johns Hopkins', 'Rutgers', 'University of Chicago']",6
+Ananya Kalahasti,"['George Washington', 'Georgetown', 'Harvard', 'Johns Hopkins', 'Northeastern', 'Tufts']",6
+Manav Mittal,"['Amherst', 'Bates', 'Brown', 'Columbia', 'George Washington', 'Tufts']",6
+Naz Soysal,"['Brown', 'Columbia', 'Northeastern', 'Penn', 'University of Chicago', 'Yale']",6
+Tosca Neumann,"['Amherst', 'Bates', 'Brown', 'Columbia', 'Georgetown', 'Wellesley']",6
+Grace Lyles,"['George Washington', 'Georgetown', 'Maryland', 'Temple', 'University of Chicago', 'University of Virginia']",6
+Nicole Kagan,"['American', 'Boston University', 'Harvard', 'Northeastern', 'University of Chicago', 'Yale']",6
+Parker Alleman,"['Amherst', 'Bates', 'Brown', 'Columbia', 'Harvard', 'University of Virginia']",6
+Aaron Rajput,"['American', 'George Washington', 'Georgetown', 'Johns Hopkins', 'Wellesley', 'William and Mary']",6
+Reed Easterling,"['Brown', 'Fordham', 'George Washington', 'NYU', 'Rutgers', 'Tufts']",6
+Ahmad Howard,"['Georgetown', 'Harvard', 'Johns Hopkins', 'Tufts', 'University of Chicago', 'Yale']",6
+Rayan Sheikh,"['Fordham', 'George Washington', 'NYU', 'Penn', 'Rutgers', 'University of Chicago']",6
+Yuki Nakano,"['Columbia', 'George Washington', 'Georgetown', 'University of Chicago', 'University of Virginia', 'William and Mary']",6
+Leo Fleissig,"['Bates', 'Brown', 'NYU', 'Wellesley', 'Williams']",5
+Alex Gerber,"['Brown', 'George Washington', 'Georgetown', 'University of Chicago', 'William and Mary']",5
+Clemente Nicado Yelmene,"['Boston University', 'Brandeis', 'Johns Hopkins', 'Rutgers', 'Wellesley']",5
+Jacob Boehm,"['American', 'Amherst', 'Brandeis', 'Northeastern', 'Yale']",5
+Taryn Murphy,"['Columbia', 'George Washington', 'Georgetown', 'University of Chicago', 'University of Virginia']",5
+Nolan Greenways,"['Drexel', 'Maryland', 'Temple', 'University of Delaware', 'University of Virginia']",5
+Cayleigh Soderholm,"['American', 'George Washington', 'Georgetown', 'Johns Hopkins', 'University of Virginia']",5
+Eva Bruce,"['Brown', 'Northeastern', 'Smith', 'Wellesley', 'Yale']",5
+Ethan Reiter,"['Brandeis', 'Northeastern', 'Smith', 'Tufts', 'Wellesley']",5
+Ashton Higgins,"['Amherst', 'Brown', 'Johns Hopkins', 'Northeastern', 'Yale']",5
+Audrey Shing,"['Brown', 'Northeastern', 'Smith', 'Tufts', 'Wellesley']",5
+Maddie Watson,"['Boston University', 'Brandeis', 'NYU', 'University of Virginia', 'Wellesley']",5
+Gordon McNeill,"['Drexel', 'George Washington', 'Georgetown', 'University of Virginia', 'William and Mary']",5
+Sophie Rukin,"['Brandeis', 'Brown', 'Dartmouth', 'Tufts', 'Yale']",5
+Roy Tiefer,"['Brown', 'Tufts', 'University of Chicago', 'University of Virginia', 'Yale']",5
+Mac Hays,"['Brown', 'NYU', 'Tufts', 'UT Austin', 'University of Chicago']",5
+Robert Rendine,"['Brown', 'George Washington', 'Georgetown', 'NYU', 'William and Mary']",5
+Kyle Cook,"['Northeastern', 'Tufts', 'University of Chicago', 'Wellesley', 'Yale']",5
+Hasit Nanda,"['Harvard', 'Penn', 'Tufts', 'University of Chicago', 'Williams']",5
+Rohan Sachdev,"['Boston University', 'Johns Hopkins', 'Penn', 'University of Chicago', 'William and Mary']",5
+Robbie Safran,"['Brown', 'George Washington', 'Georgetown', 'Temple', 'William and Mary']",5
+Netra Easwaran,"['Dartmouth', 'Harvard', 'Tufts', 'Yale']",4
+Sergio Valente,"['American', 'George Washington', 'Georgetown', 'University of Virginia']",4
+Zaid Hintzman,"['George Washington', 'Georgetown', 'La Verne', 'University of Virginia']",4
+Rahul Kalavagunta,"['Penn', 'Princeton', 'Rutgers', 'Yale']",4
+CeCe Szkutak,"['Boston University', 'Northeastern', 'Tufts', 'Wellesley']",4
+Jake Solomon,"['Amherst', 'Boston University', 'Brandeis', 'Northeastern']",4
+Allison Li,"['Johns Hopkins', 'Northeastern', 'Princeton', 'Wellesley']",4
+Emily Chow,"['Johns Hopkins', 'Rutgers', 'Swarthmore', 'Williams']",4
+Andrew Rozenblit,"['Brandeis', 'Columbia', 'Northeastern', 'Tufts']",4
+Sydney Cook,"['Amherst', 'Georgetown', 'University of Chicago', 'University of Virginia']",4
+Peter Manou,"['George Washington', 'Johns Hopkins', 'Rutgers', 'Temple']",4
+Donnell Weldon,"['Boston University', 'Northeastern', 'Tufts', 'University of Chicago']",4
+Ale Perri,"['Georgetown', 'Tufts', 'University of Chicago', 'Yale']",4
+Vivienne Monteiro,"['Brandeis', 'Brown', 'George Washington', 'Yale']",4
+Sarah Miller,"['Carnegie Mellon', 'George Washington', 'Georgetown', 'University of Virginia']",4
+Cailyn Min,"['Georgetown', 'Rutgers', 'University of Chicago', 'Yale']",4
+Shruti Narayanabhatla,"['Columbia', 'Georgetown', 'Rutgers', 'University of Chicago']",4
+Tori Reisz,"['Bates', 'Brown', 'Northeastern', 'Wellesley']",4
+Stav Kanza-Levi,"['Haverford', 'Rutgers', 'Smith', 'Swarthmore']",4
+Yixuan Liu,"['American', 'Georgetown', 'Penn', 'University of Virginia']",4
+Maxwell Sheremeta,"['American', 'George Washington', 'Georgetown', 'Penn']",4
+Maggie Mooney,"['George Washington', 'University of Chicago', 'University of Virginia', 'William and Mary']",4
+Vihini Gunasekera,"['George Washington', 'University of Chicago', 'University of Virginia', 'William and Mary']",4
+Violet Whitmire,"['Amherst', 'George Washington', 'University of Chicago', 'University of Virginia']",4
+Jehan Chanmugam,"['Boston University', 'NYU', 'Tufts', 'Williams']",4
+Rachel Disler,"['George Washington', 'Georgetown', 'University of Chicago', 'University of Virginia']",4
+Ally Ross,"['American', 'Georgetown', 'Penn', 'William and Mary']",4
+Jake Hirshberg,"['Boston University', 'Columbia', 'Georgetown', 'University of Chicago']",4
+Chase Goldberg Friedman,"['Boston University', 'Brandeis', 'Northeastern', 'Smith']",4
+Cindy Wang,"['Georgetown', 'Johns Hopkins', 'University of Pittsburgh', 'William and Mary']",4
+Teddy Wyman,"['Boston University', 'Harvard', 'Northeastern', 'Tufts']",4
+Albert Shore,"['Columbia', 'Johns Hopkins', 'Temple', 'University of Chicago']",4
+Ari Hahn,"['Bates', 'Columbia', 'Lehigh', 'Northeastern']",4
+Elena Leeds,"['Brown', 'Northeastern', 'Tufts', 'Wellesley']",4
+Justin Qi,"['Brown', 'Harvard', 'Penn', 'Wellesley']",4
+Andrew Harrington,"['Amherst', 'Penn', 'University of Chicago', 'University of Pittsburgh']",4
+Isabella Tomovski,"['Brown', 'Northeastern', 'Tufts', 'Wellesley']",4
+Muxi Yu,"['Boston University', 'Brandeis', 'Harvard', 'NYU']",4
+Omesh Dhar Dwivedi,"['American', 'Drexel', 'Georgetown', 'Princeton']",4
+Perry Beckett,"['Bates', 'Brown', 'Northeastern', 'Yale']",4
+Jack Chen,"['Brandeis', 'Columbia', 'Stanford', 'Tufts']",4
+Sandy Greenberg,"['Brown', 'Harvard', 'Northeastern', 'Yale']",4
+Hanna Bae,"['Boston University', 'Brandeis', 'Northeastern', 'Wellesley']",4
+Raina Batra,"['Amherst', 'Columbia', 'Georgetown', 'Tufts']",4
+Ben Scherzer,"['Columbia', 'George Washington', 'Johns Hopkins', 'Yale']",4
+Himanshu Padnani,"['Boston University', 'Johns Hopkins', 'University of Massachusetts', 'Wellesley']",4
+Tai Henrichs,"['Johns Hopkins', 'Tufts', 'Wellesley', 'Williams']",4
+Eugenie Zhu,"['Brandeis', 'Tufts', 'Wellesley']",3
+Arik Karim,"['Brown', 'George Washington', 'Georgetown']",3
+Ted Chang,"['Harvard', 'Tufts', 'University of Chicago']",3
+Ben Kessler,"['Johns Hopkins', 'Rutgers', 'Swarthmore']",3
+Ann Garth,"['Brown', 'Harvard', 'Northeastern']",3
+Nile Mahmood,"['Lehigh', 'Temple', 'Tufts']",3
+Arnav Paliwal,"['Carnegie Mellon', 'Dartmouth', 'George Washington']",3
+Fletcher Calcagno,"['George Washington', 'Georgetown', 'University of Virginia']",3
+Arya Royal,"['George Washington', 'University of Pittsburgh', 'University of Virginia']",3
+Thierry Moss,"['Bates', 'Boston University', 'Northeastern']",3
+Thomas Sargent,"['Boston University', 'Carnegie Mellon', 'University of Pittsburgh']",3
+Max Hurowitz,"['Boston University', 'Brandeis', 'Harvard']",3
+Anish Welde,"['Brandeis', 'Georgetown', 'Penn']",3
+Audrey Higley,"['Boston University', 'Brown', 'Wellesley']",3
+Joann Yu,"['Dartmouth', 'George Washington', 'William and Mary']",3
+Atlas Tan,"['Harvard', 'Penn', 'Williams']",3
+Jonah Paterson,"['Haverford', 'Rutgers', 'Swarthmore']",3
+Anna Kim,"['Brown', 'Northeastern', 'Wellesley']",3
+Nish Sinha,"['Harvard', 'University of Chicago', 'University of Virginia']",3
+Tim Do,"['Johns Hopkins', 'William and Mary', 'Williams']",3
+Jonas Poggi,"['George Washington', 'William and Mary', 'Williams']",3
+Patrick Han,"['George Washington', 'Georgetown', 'Johns Hopkins']",3
+Henry Armah,"['Georgetown', 'University of Chicago', 'University of Pittsburgh']",3
+Sonia Fan,"['George Washington', 'Georgetown', 'University of Chicago']",3
+David Williams,"['Boston University', 'Wellesley', 'Williams']",3
+Cindy Zhao,"['Brown', 'Tufts', 'Wellesley']",3
+Monica Ochoa,"['Northeastern', 'Villanova', 'Wellesley']",3
+Mukudzeiishe Madzivire,"['Columbia', 'George Washington', 'University of Chicago']",3
+Isabella Sorial,"['George Washington', 'La Verne', 'Wellesley']",3
+Isabella Jenkins,"['Brandeis', 'Brown', 'NYU']",3
+Elisa Nisly,"['Amherst', 'Smith', 'Villanova']",3
+Inbar Sapir,"['Boston University', 'Northeastern', 'University of Massachusetts']",3
+Ryan Tiedemann,"['George Washington', 'Georgetown', 'University of Virginia']",3
+Ryan Lin,"['Boston University', 'Brandeis', 'Wellesley']",3
+Elijah Nelson,"['Brown', 'George Washington', 'Georgetown']",3
+Ian McVann-Henkelmann,"['George Washington', 'Harvard', 'William and Mary']",3
+Benny Nicholson,"['Johns Hopkins', 'University of Chicago', 'Yale']",3
+Harshit Bhasin,"['American', 'Johns Hopkins', 'Maryland']",3
+Deren Eksinar,"['Drexel', 'George Washington', 'Harvard']",3
+Rohan Kapoor,"['Johns Hopkins', 'University of Chicago', 'Yale']",3
+Rohan Battula,"['Harvard', 'Penn', 'Williams']",3
+Rodda John,"['Johns Hopkins', 'Smith', 'Williams']",3
+Diego Castillo,"['Bradley', 'Brown', 'George Washington']",3
+Hart Rapaport,"['Columbia', 'Rutgers', 'Wellesley']",3
+Robert Nielsen,"['Boston University', 'Smith', 'Williams']",3
+Robert Fu,"['Dartmouth', 'Rutgers', 'Williams']",3
+Dylan Gyauch Lewis,"['Bates', 'Brown', 'Tufts']",3
+Elly Kang,"['Georgetown', 'MIT', 'Tufts']",3
+Jackson Segal,"['Brown', 'Harvard', 'Wellesley']",3
+Sara Zdancewicz,"['Rutgers', 'University of Pittsburgh', 'William and Mary']",3
+Jacob Atkins,"['American', 'Columbia', 'George Washington']",3
+Blake Zou,"['Georgetown', 'Penn', 'University of Virginia']",3
+Sierra Rodriguez,"['George Washington', 'NYU', 'Northeastern']",3
+Bradley Tidwell,"['NYU', 'Tufts', 'Yale']",3
+Emma Chi,"['Bates', 'Boston University', 'Wellesley']",3
+Jay Gibbs,"['Penn', 'University of Chicago', 'Vassar']",3
+Brandon Korn,"['Northeastern', 'Princeton', 'Swarthmore']",3
+Shyla Summers,"['George Washington', 'Georgetown', 'Yale']",3
+Mehreen Mirza,"['Northwestern', 'Smith', 'Williams']",3
+Jason Tu,"['Johns Hopkins', 'Penn', 'Yale']",3
+Rachel Fei,"['Smith', 'University of Chicago', 'Wellesley']",3
+Niki Schrift,"['NYU', 'Northeastern', 'Smith']",3
+Michael Froid,"['Brown', 'Rutgers', 'Smith']",3
+Hayden Shuker,"['Temple', 'University of Chicago', 'University of Virginia']",3
+Emily Paulin,"['Drexel', 'NYU', 'Princeton']",3
+Sebastian Cardena,"['George Washington', 'Georgetown', 'Rutgers']",3
+Cassandra Fitts,"['Boston University', 'Brandeis', 'Wellesley']",3
+Jake Zeng,"['George Washington', 'Georgetown', 'University of Chicago']",3
+Chan Chung,"['Drexel', 'George Washington', 'Temple']",3
+Jaiden Hasan,"['Boston University', 'Northeastern', 'Tufts']",3
+Sasha Chuprakova,"['American', 'Columbia', 'Rutgers']",3
+Sarah Weill-Jones,"['Haverford', 'Swarthmore', 'Temple']",3
+Samuel Watkins,"['American', 'Drexel', 'Fordham']",3
+Aadhavaarasan Raviarasan,"['Boston University', 'NYU', 'Rutgers']",3
+Ye Joo Han,"['Harvard', 'Penn', 'University of Chicago']",3
+Lindsey Gradowski,"['Georgetown', 'University of Chicago', 'Yale']",3
+Alexandra Webster,"['Carnegie Mellon', 'Rutgers', 'University of Pittsburgh']",3
+Zara Memon,"['American', 'Johns Hopkins', 'Penn']",3
+Adam Harrington,"['George Washington', 'Maryland', 'Rutgers']",3
+Zan Rozen,"['Amherst', 'Johns Hopkins', 'Wellesley']",3
+Aditya Jayakrishnan,"['CUNY', 'Penn', 'Swarthmore']",3
+Lucia Bronfman,"['Boston University', 'Brandeis', 'University of Chicago']",3
+Vikram Balasubramanian,"['Harvard', 'Swarthmore', 'William and Mary']",3
+Alex Elstrodt,"['Brandeis', 'Rutgers', 'University of Virginia']",3
+Livia Di Mauro,"['Amherst', 'Northeastern', 'Smith']",3
+Alice Merchant,"['Boston University', 'Brandeis', 'Wellesley']",3
+Aidan Shannon,"['George Washington', 'Georgetown', 'University of Chicago']",3
+Victoria Ajayi,"['Boston University', 'Georgetown', 'Rutgers']",3
+Aidan Thompson,"['Fordham', 'NYU', 'Rutgers']",3
+Lizzie Waters,"['George Washington', 'La Verne', 'University of Virginia']",3
+Akshay Srinivasan,"['Binghamton University', 'Swarthmore', 'Villanova']",3
+Yannick Davidson,"['Northeastern', 'Tufts', 'Williams']",3
+Yashas Mallikarjun,"['Johns Hopkins', 'Penn', 'Rutgers']",3
+Yash Shetty,"['Boston University', 'Tufts', 'University of Chicago']",3
+Maddie Naisbitt,"['Binghamton University', 'George Washington', 'Georgetown']",3
+Maia Decker,"['Brandeis', 'Smith', 'Yale']",3
+Kavya Gopinath,"['Brown', 'Northeastern', 'Wellesley']",3
+Aashray Khanna,"['Georgetown', 'Harvard', 'Penn']",3
+Will Donnelly,"['Brown', 'CUNY', 'University of Pittsburgh']",3
+Aba Tieku,"['Georgetown', 'University of Pittsburgh', 'William and Mary']",3
+Kavin Jha,"['Northeastern', 'UConn', 'University of Massachusetts']",3
+Lena Lofgren,"['Harvard', 'Penn', 'Smith']",3
+Alison Chan,"['George Washington', 'Georgetown', 'Princeton']",3
+James Hu,"['Columbia', 'Johns Hopkins']",2
+Naomi McKenna,"['Amherst', 'University of Virginia']",2
+Xiao-ke Lu,"['McGill', 'Princeton']",2
+Iman Onbargi,"['Harvard', 'NYU']",2
+Ryan Shaffer,"['Amherst', 'Brandeis']",2
+Alex Bavalsky,"['Brandeis', 'Yale']",2
+Natalie Brown,"['George Washington', 'William and Mary']",2
+Naomi Cohen,"['Brown', 'Wellesley']",2
+Daniel Sheremeta,"['Harvard', 'Tufts']",2
+Daniel Page,"['University of Chicago', 'Williams']",2
+Safal Aryal,"['Brown', 'Tufts']",2
+Irina Znamirowski,"['Brandeis', 'Tufts']",2
+Daniel Jung,"['Johns Hopkins', 'Yale']",2
+Sahil Sood,"['Harvard', 'Yale']",2
+Isaac Kriel,"['Temple', 'University of Virginia']",2
+Alex Dischler,"['American', 'University of Virginia']",2
+Nash Riebe,"['Brown', 'Northeastern']",2
+Charlene Canning,"['Johns Hopkins', 'University of Chicago']",2
+Carole Darve,"['Fordham', 'Stanford']",2
+Ron Mucci,"['CUNY', 'Rutgers']",2
+Dheeraj Keshav,"['George Washington', 'Maryland']",2
+Shawn Varghese,"['Johns Hopkins', 'Rutgers']",2
+Shashwat Rai,"['George Washington', 'Harvard']",2
+Michael Fortunato,"['Georgetown', 'University of Pittsburgh']",2
+Michael Galin,"['George Washington', 'Maryland']",2
+Alan Cai,"['Amherst', 'University of Chicago']",2
+Holly Li,"['American', 'Georgetown']",2
+Humphrey Luo,"['American', 'University of Virginia']",2
+Natan Abramson,"['University of Pittsburgh', 'William and Mary']",2
+Roza Kavak,"['Brown', 'Wellesley']",2
+Ian Crowley,"['Georgetown', 'William and Mary']",2
+Rose West,"['Haverford', 'Rutgers']",2
+Caleb Loh,"['University of Chicago', 'Yale']",2
+Rosemary Hungerford,"['Brandeis', 'Wellesley']",2
+Jamie Clark,"['George Washington', 'Wellesley']",2
+Alejandro Franqui,"['Boston University', 'Brandeis']",2
+David Wang,"['Rutgers', 'University of Chicago']",2
+Sehrish Gohar,"['Brandeis', 'Stanford']",2
+Lucas Maciel,"['Maryland', 'Rutgers']",2
+Dakota Champagne,"['Georgetown', 'Northeastern']",2
+Allegra Hoddie,"['Boston University', 'Dartmouth']",2
+James Currie,"['Haverford', 'Temple']",2
+Alex Stewart,"['Tufts', 'Wesleyan']",2
+Sania Shahid,"['Georgetown', 'William and Mary']",2
+Minju Sung,"['Bates', 'Northeastern']",2
+Jackson Schreiber,"['University of Chicago', 'William and Mary']",2
+William Choi,"['American', 'Johns Hopkins']",2
+Jacob Bezner,"['Binghamton University', 'Swarthmore']",2
+William Berry,"['Penn', 'Yale']",2
+Chetanya Singh,"['Brown', 'Princeton']",2
+Will Shachar,"['Temple', 'Tufts']",2
+Sarah Ryan,"['Brown', 'Harvard']",2
+Jaedon Abbott,"['Cornell', 'NYU']",2
+Sarem Haq,"['Georgetown', 'University of Pittsburgh']",2
+Sarem Leghari,"['Penn', 'University of Virginia']",2
+Luke Willis,"['Harvard', 'University of Chicago']",2
+Jaimy Kim,"['University of Chicago', 'Yale']",2
+Charles Ma,"['Boston University', 'Harvard']",2
+Wil Kozlowski,"['Boston University', 'Brandeis']",2
+Samhitha Duggurala,"['Carnegie Mellon', 'University of Virginia']",2
+Cindy Frempong,"['Boston University', 'Rutgers']",2
+Cindy Nie,"['Brandeis', 'Columbia']",2
+Monica Perez Ortiz,"['Boston University', 'Harvard']",2
+Dabin Cho,"['American', 'University of Virginia']",2
+Alex Hanna,"['George Washington', 'University of Virginia']",2
+Musab Chummun,"['Johns Hopkins', 'Penn']",2
+Alex Lee,"['Harvard', 'Washington University in St. Louis']",2
+Morgan Adamson,"['American', 'Lehigh']",2
+Sean Oddoye,"['Johns Hopkins', 'Maryland']",2
+Sam Huang,"['Bates', 'George Washington']",2
+Coco Greene,"['Boston University', 'Brown']",2
+Alex Romero,"['George Washington', 'Georgetown']",2
+Lucia Yang,"['American', 'Georgetown']",2
+Hitishaa Goyal,"['Harvard', 'Yale']",2
+Izayah Thomas,"['Brandeis', 'Columbia']",2
+Clara Page,"['Amherst', 'Smith']",2
+Samantha Mascara,"['Tufts', 'University of Massachusetts']",2
+Mollie Micinilio,"['Bates', 'Boston University']",2
+Jack Feinstein,"['Haverford', 'Temple']",2
+Clement Tsao,"['Georgetown', 'Penn']",2
+Margot Norman,"['Boston University', 'Dartmouth']",2
+Akshaj Ganta,"['Northeastern', 'UConn']",2
+Erick Tian,"['American', 'University of Virginia']",2
+GianLuigi Zaninelli,"['Penn', 'Swarthmore']",2
+Ethan Ross,"['Harvard', 'University of Chicago']",2
+Abha Dahal,"['Lehigh', 'Temple']",2
+Ethan Mort,"['Columbia', 'George Washington']",2
+Ethan Liu,"['Johns Hopkins', 'Maryland']",2
+Prastik Mohanraj,"['Amherst', 'Yale']",2
+Esther Kardos,"['Columbia', 'Penn']",2
+Nitya Matcha,"['Maryland', 'Rutgers']",2
+Nita Hsu,"['Columbia', 'Yale']",2
+Priyanshi Bagga,"['Brown', 'Wellesley']",2
+Zander Jeinthanuttkanont,"['Georgetown', 'Yale']",2
+Prottoya Chowdhury,"['Bates', 'Brown']",2
+Liliana D'Aguiar,"['Amherst', 'Smith']",2
+Eric Trinh,"['Haverford', 'Swarthmore']",2
+Nir Amin,"['Harvard', 'Yale']",2
+Grace Luckett,"['Georgetown', 'Northeastern']",2
+Lauren Cho,"['Williams', 'Yale']",2
+Grace Manson,"['American', 'George Washington']",2
+Rachel Blume,"['CUNY', 'University of Chicago']",2
+Laurel Campbell,"['Johns Hopkins', 'University of Pittsburgh']",2
+Ethan Shurberg,"['Boston University', 'Brandeis']",2
+Pranav Sasikumar,"['Maryland', 'Temple']",2
+Pranav Battu,"['Harvard', 'Washington University in St. Louis']",2
+Lelan Hu,"['Johns Hopkins', 'Yale']",2
+Gabby Bayness,"['Harvard', 'University of Chicago']",2
+Oscar Cloutier Potter,"['Boston University', 'Wellesley']",2
+Pallavi Menon,"['Brandeis', 'Temple']",2
+Fox Chyatte,"['Northeastern', 'Tufts']",2
+Ong Unjitwattana,"['Temple', 'University of Virginia']",2
+Fiona He,"['Rutgers', 'University of Virginia']",2
+Fiona Chou,"['Johns Hopkins', 'Tufts']",2
+Gabriel Au,"['American', 'Johns Hopkins']",2
+Parth Jain,"['Brown', 'Princeton']",2
+Feifei Mei,"['University of Chicago', 'Yale']",2
+Farah Kabir,"['NYU', 'Northeastern']",2
+Paul Mitalipov,"['Stanford', 'Yale']",2
+Oliver Katzman,"['Bates', 'Williams']",2
+Peter Perez,"['University of Chicago', 'University of Virginia']",2
+Peter Tarpley,"['Johns Hopkins', 'Rutgers']",2
+Evan Rosenbaum,"['George Washington', 'Maryland']",2
+Phuong Doan,"['Amherst', 'Columbia']",2
+Evan Becker,"['Harvard', 'Washington University in St. Louis']",2
+Eva Rivera,"['Boston University', 'Northeastern']",2
+Abraham Paik,"['Columbia', 'Williams']",2
+Emily Simon,"['Brown', 'Northeastern']",2
+Dhruv Prakash,"['George Washington', 'Rutgers']",2
+Rita Mayevskaya,"['Boston University', 'Brandeis']",2
+Harry Xie,"['Northwestern', 'Princeton']",2
+Haseeb Waseem,"['Swarthmore', 'Wellesley']",2
+Aidan Gillies,"['George Washington', 'Georgetown']",2
+Yuhan Li,"['Amherst', 'Brandeis']",2
+Ricky Huang,"['Bates', 'Brown']",2
+Hazel Martello,"['Northeastern', 'University of Chicago']",2
+Helen Wu,"['Dartmouth', 'University of Chicago']",2
+Edgar Euceda,"['George Washington', 'Georgetown']",2
+Eddie Sidorenko,"['Bates', 'University of Chicago']",2
+Liz Kim,"['Rutgers', 'Williams']",2
+Emily Plasse,"['University of Delaware', 'University of North Carolina']",2
+Robert Brown,"['Brown', 'University of Chicago']",2
+Robert Chong,"['Georgetown', 'Penn']",2
+Konur Onufer,"['George Washington', 'William and Mary']",2
+Ailin Jia,"['NYU', 'Penn']",2
+Aimee Zhang,"['George Washington', 'University of Pittsburgh']",2
+Vivian Zhu,"['Stanford', 'Yale']",2
+Aizaz Bokhari,"['NYU', 'Rutgers']",2
+Dimitri Nilov,"['Georgetown', 'Maryland']",2
+Ko Lyn Cheang,"['Brown', 'Yale']",2
+Harin Ok,"['Georgetown', 'William and Mary']",2
+Nicholas Hayes,"['Rutgers', 'University of Virginia']",2
+Zach Berg,"['Harvard', 'University of Chicago']",2
+Elijah Adu,"['Wellesley', 'Williams']",2
+Lily Baughman,"['American', 'Fordham']",2
+Emily Grant,"['Harvard', 'University of Chicago']",2
+Griffin Badalamente,"['University of Chicago', 'University of Virginia']",2
+Zachary Lazaroff,"['Brandeis', 'Temple']",2
+Zachary Heidel,"['Rutgers', 'University of Virginia']",2
+Ellis London,"['Brandeis', 'Northeastern']",2
+Ellis Adamson,"['Tufts', 'Wesleyan']",2
+Elliot Tick,"['Northeastern', 'University of Massachusetts']",2
+Admir Radoncic,"['George Washington', 'Temple']",2
+Ellie Singer,"['University of Chicago', 'Yale']",2
+Nick Neustadt,"['American', 'Lehigh']",2
+Lincoln Belfort,"['George Washington', 'Tufts']",2
+Hannah Allen,"['American', 'University of Virginia']",2
+Nick Hildebrand,"['American', 'George Washington']",2
+Adrian Pani,"['George Washington', 'Rutgers']",2
+Elizabeth Buerkle,"['Northeastern', 'Tufts']",2
+Elise Howe,"['Georgetown', 'William and Mary']",2
+Adrian Turkedjiev,"['Brown', 'Yale']",2
+Kyuhee Jo,"['Amherst', 'Johns Hopkins']",2
+Shaye Martin,"['Rutgers', 'Williams']",2
+Brandon Burton,"['George Washington', 'University of Virginia']",2
+Mia Stone-Molloy,"['Brown', 'Smith']",2
+Benjamin Mione,"['Columbia', 'Rutgers']",2
+Sophia Winner,"['George Washington', 'Maryland']",2
+Azima Aidarov,"['Boston University', 'Brown']",2
+Uma Menon,"['Johns Hopkins', 'Princeton']",2
+Amira Bhutani,"['Columbia', 'University of Chicago']",2
+Jerry Lee,"['Georgetown', 'University of Virginia']",2
+Matt Rubenstein,"['University of Chicago', 'William and Mary']",2
+Josh Lyons,"['Boston University', 'Brandeis']",2
+Jenny Pham,"['American', 'Georgetown']",2
+Ben Koch,"['University of Chicago', 'Yale']",2
+Ben Lee,"['Princeton', 'Swarthmore']",2
+Sonia Teodorescu,"['Boston University', 'Wellesley']",2
+Maeve Goldman,"['Dartmouth', 'William and Mary']",2
+Amelia Rybicka-Fijol,"['Temple', 'University of Chicago']",2
+Maya Razmi,"['Harvard', 'Johns Hopkins']",2
+Jenna Sutherland,"['Northeastern', 'Smith']",2
+Judah Levy,"['Johns Hopkins', 'Maryland']",2
+Amelia Peck,"['University of Chicago', 'University of Virginia']",2
+Marc Salameh,"['Boston College', 'Fordham']",2
+Vincent Tocci,"['Boston University', 'Williams']",2
+Amelia Jones,"['Amherst', 'Smith']",2
+Maya Sachs,"['Swarthmore', 'Williams']",2
+Betty Dong,"['Northwestern', 'Smith']",2
+Mason Buonadonna,"['American', 'Columbia']",2
+Annette Kim,"['Rutgers', 'Swarthmore']",2
+Anne Jiang,"['Brown', 'Wellesley']",2
+Sivani Srinivasan,"['NYU', 'Rutgers']",2
+Bill Chung,"['Harvard', 'University of Chicago']",2
+Blake Lyman,"['Tufts', 'University of Massachusetts']",2
+Anna Pinkerton,"['George Washington', 'University of Virginia']",2
+Tiffany Yuan,"['Georgetown', 'Johns Hopkins']",2
+Jesenia Parthasarathy,"['University of Chicago', 'Wellesley']",2
+Jessica Tuchin,"['Boston University', 'Brown']",2
+Avni Chadha,"['Harvard', 'Yale']",2
+Maya Daly,"['Harvard', 'UMBC']",2
+John Yule,"['Boston University', 'Wellesley']",2
+Aryan Sehgal,"['Bard', 'Yale']",2
+John Lowe,"['Brandeis', 'Tufts']",2
+Jolene Ren,"['Georgetown', 'Temple']",2
+Arthur Park,"['Johns Hopkins', 'Penn']",2
+Max Hodes,"['Harvard', 'University of Chicago']",2
+John Becker,"['Temple', 'University of Delaware']",2
+Ashley Kim,"['Bates', 'Lehigh']",2
+Kaitlin Wing,"['George Washington', 'Temple']",2
+Sullivan Ho,"['Columbia', 'Yale']",2
+Arnav Khode,"['University of Pittsburgh', 'University of Virginia']",2
+Vedesh Kodnani,"['Johns Hopkins', 'University of Chicago']",2
+Joe Clancy,"['Georgetown', 'Johns Hopkins']",2
+Steven Huang,"['Northeastern', 'Tufts']",2
+Arman Syed,"['Amherst', 'Bates']",2
+Arman Kassam,"['MIT', 'Tufts']",2
+Karl Mcghie,"['Boston University', 'Brandeis']",2
+Tanay Jagannathan,"['Amherst', 'Columbia']",2
+Justin Zhang,"['Johns Hopkins', 'Northeastern']",2
+Justin Suh,"['Williams', 'Yale']",2
+Amy Kim,"['Johns Hopkins', 'University of Pittsburgh']",2
+Jonathan Carroll,"['Georgetown', 'Tufts']",2
+Justin Lulu,"['Brandeis', 'Wellesley']",2
+Jinjou Wang,"['Amherst', 'Harvard']",2
+Vara Mathiyalakan,"['Georgetown', 'Johns Hopkins']",2
+Justin Koizumi,"['Boston University', 'Brandeis']",2
+Amna Amin,"['Princeton', 'University of Pittsburgh']",2
+Spike King,"['Boston University', 'Brandeis']",2
+Justin Kim,"['Harvard', 'Yale']",2
+Tilly Robinson,"['George Washington', 'Harvard']",2
+Sonam Tenzin Wangchuk,"['Princeton', 'Yale']",2
+Brivic Sato,"['Bates', 'University of Chicago']",2
+Tvisha Malik,"['Northeastern', 'Penn']",2
+Marios Kalpakis,"['Maryland', 'Rutgers']",2
+Jason Lee,"['Stanford', 'Yale']",2
+Mario Aguirre,"['Johns Hopkins', 'Penn']",2
+Tori Borlase,"['Columbia', 'Harvard']",2
+Jason Shan,"['Brown', 'Harvard']",2
+Julia Malnak,"['University of Pittsburgh', 'University of Virginia']",2
+Judicael Tchoudja,"['Maryland', 'University of Virginia']",2
+Madeline Tsao,"['Penn', 'Yale']",2
+Megha Prasad,"['American', 'George Washington']",2
+Amanda Azia,"['George Washington', 'William and Mary']",2
+Anirudh Vats,"['Carnegie Mellon', 'University of Virginia']",2
+Maddy Cheshire,"['CUNY', 'Johns Hopkins']",2
+Shreyoshi Das,"['Penn', 'Swarthmore']",2
+Brooke Blanton,"['Brown', 'Northeastern']",2
+Bowser Liu,"['Penn', 'University of Chicago']",2
+Brianna Townsend,"['Brown', 'Harvard']",2
+Meghana Madhav,"['Rutgers', 'University of Virginia']",2
+Anika Khanna,"['University of Chicago', 'University of Virginia']",2
+Angela Jia,"['Columbia', 'University of Chicago']",2
+Trent Kannegieter,"['Bard', 'Yale']",2
+Julia Wang,"['Columbia', 'Rutgers']",2
+Megan Smith,"['University of Delaware', 'University of North Carolina']",2
+Tim Colledge,"['Hamilton', 'Yale']",2
+Matthew Noriega,['Penn'],1
+Olympia Pratt,['Tufts'],1
+Matthew Koretsky,['MIT'],1
+Nicole Rodriguez,['University of Chicago'],1
+Olivia Wang,['Tufts'],1
+Matthew Thompson,['Wesleyan'],1
+Matthew Simons,['Columbia'],1
+Matthew Lee,['University of Chicago'],1
+Olivia Epley,['Temple'],1
+Nicole Asuamah,['Boston University'],1
+Nicole Dwaah,['Carnegie Mellon'],1
+Nicole Buckley,['Northeastern'],1
+Maria Xu,['Harvard'],1
+Nicolas Millan,['Wesleyan'],1
+Matthew Moreno,['Johns Hopkins'],1
+Olivia Peltier,['Brandeis'],1
+Olivia Saunders,['George Washington'],1
+Nick Parra,['University of Chicago'],1
+Lila Ben-Yehuda,['University of Massachusetts'],1
+Omar Hamarshi,['Harvard'],1
+Maria Pelaez,['Yale'],1
+Owen Fellows,['Hamilton'],1
+Malcolm Davis,['Swarthmore'],1
+Nerary Flores,['American'],1
+Malcolm Ferguson,['Maryland'],1
+Oscar Wang,['Yale'],1
+Margaret Wasco,['Fordham'],1
+Oscar Calipari,['Stony Brook University'],1
+Orion Padden,['George Washington'],1
+Lex Jiganti,['Haverford'],1
+Maneet Mehta,['Yale'],1
+Max Haimes,['Brown'],1
+Linnaea Strassfeld,['University of Massachusetts'],1
+Ling Lu,['Wellesley'],1
+Manos Alevras,['Yale'],1
+Manuel Machorro,['Bates'],1
+Nicholas Hagedorn,['Princeton'],1
+Margaret Nakiganda,['University of Chicago'],1
+Maria Coca,['University of Chicago'],1
+Leyla Hagan,['Georgetown'],1
+Matti Tan,['Harvard'],1
+Lia Lubit,['Brown'],1
+Manuel Mascote,['Columbia'],1
+Linden Li,['Stanford'],1
+Lina Lin,['Temple'],1
+Matthew Wilson,['William and Mary'],1
+Nicholas Haylock,"[""St. Mary's""]",1
+Nicholas Humberto Perez,['Johns Hopkins'],1
+Matthew Bruce,['Boston College'],1
+Oliver McCammon,['Johns Hopkins'],1
+Lily Napach,['Williams'],1
+Matthew Alkire,['Northeastern'],1
+Liz Chen,['Rutgers'],1
+Nushba Tajreen,['Dartmouth'],1
+Mark Lee,['Yale'],1
+Nuria Martin,['American'],1
+Nora Kaul Hoelgaard,['George Washington'],1
+Mason Miller,['Washington University in St. Louis'],1
+Mark So,['NYU'],1
+Nolan Yencho,['Wesleyan'],1
+Mason Courtney,['University of Delaware'],1
+Liam Kieran,['Boston College'],1
+Noku Zuze,['Bates'],1
+Lila Graney,['Lehigh'],1
+Mason Blackburn,['Maryland'],1
+Markus Vaher,['University of Chicago'],1
+Niti Ghosh,['Princeton'],1
+Noam Levinsky,['University of Chicago'],1
+Masanori Adachi,['Brandeis'],1
+Marcel Cato,['NYU'],1
+Noah Fine,['Johns Hopkins'],1
+Noah Kim,['Stony Brook University'],1
+Noah Thurm,['Georgetown'],1
+Mary Tran,['Smith'],1
+Martin Gaszner,['William and Mary'],1
+Martha Jennings,['George Washington'],1
+Liam Zemach,['Swarthmore'],1
+Liberty Prieb,['Carnegie Mellon'],1
+Marcos Werning,['University of Chicago'],1
+Lillie Godinez,['Wellesley'],1
+Nikolaos Efthymiadis,['University of Chicago'],1
+Odin Farkas,['Stanford'],1
+Nikhita Thakuria,['George Washington'],1
+Oliver Qiu,['Tufts'],1
+Mariam Almzainy,['Bates'],1
+Nicole Salinas-Reyes,['Yale'],1
+Mariana Colicchio,['Yale'],1
+Nicole Soares,['UConn'],1
+Noah Venable,['Brown'],1
+Manuela Roncancio Roldan,['Fordham'],1
+Matt Song,['Yale'],1
+Niharika Rao,['Columbia'],1
+Nikhil Ganesh,['Carnegie Mellon'],1
+Nikhil Saxena,['Boston University'],1
+Nikhita Chakraborty,['University of Pittsburgh'],1
+Matt Schoenfeld,['Boston College'],1
+Marcus Ye,['Boston College'],1
+Nikka Denicenko,['CUNY'],1
+Nikki Han,['Princeton'],1
+Oliver Gainer,['William and Mary'],1
+Matt Myers,['University of Delaware'],1
+Manya Gupta,['Penn'],1
+Matt Franco,['NYU'],1
+Matilda Swanson,['MIT'],1
+Matias Calvo,['University of Massachusetts'],1
+Olive Neckers,['Smith'],1
+Margaret Gustafson,['Amherst'],1
+Mathew Goodbred,['Dartmouth'],1
+Matej Cerman,['Harvard'],1
+Neil Rathaur,['Binghamton University'],1
+Lois Moyar,['Princeton'],1
+Neil He,['Penn'],1
+Min Ko Ko,['Harvard'],1
+Luke Han,['Georgetown'],1
+Megan Chan,['George Washington'],1
+Luke Haner,"[""St. Mary's""]",1
+Megan Wu,['Swarthmore'],1
+Megan Zhang,['Wellesley'],1
+Mimi Plawner,['Boston University'],1
+Miles Kodama,['Williams'],1
+Mildred Castillo Bojorquez,['Bates'],1
+Mikka Wolff,['Amherst'],1
+Mike Schermerhorn,['Bentley University'],1
+Luke Holmes,['Johns Hopkins'],1
+Mike Chen,['NYU'],1
+Mikayla Zedek,['Dartmouth'],1
+Mikala Pernell,['Princeton'],1
+Madeline Getchell,['Smith'],1
+Meg Kandarpa,['Johns Hopkins'],1
+Mingyu Chan,['Princeton'],1
+Molly Callaghan,['Harvard'],1
+Minji Kim,['University of Chicago'],1
+Mazin Nadaf,['Maryland'],1
+Lucy Brodkin,['Columbia'],1
+Meadow Brown,['Bentley University'],1
+Lucy Shah,['Northeastern'],1
+Mae Luccino,['Fordham'],1
+Meera Shukla,['Northeastern'],1
+Meeros Khattaie,['Johns Hopkins'],1
+Mollie Hartenstein,['Amherst'],1
+Moises Hernandez,['University of Delaware'],1
+Luka Misic,['University of Pittsburgh'],1
+Mitchell Mullen,['Maryland'],1
+Luke Fernandez Suarez,['Boston College'],1
+Mari Chaparro,['University of Massachusetts'],1
+Mira Lehman,['Yale'],1
+Madhumitha Nair,['Northeastern'],1
+Madeleine Wu,['Dartmouth'],1
+Luke Shepard,['University of Chicago'],1
+Mikaela Tajo,['George Washington'],1
+Mihika Jain,['University of Chicago'],1
+Melanie Guilderson,['University of Massachusetts'],1
+Michael Ryter,['University of Chicago'],1
+Michael Ning,['Yale'],1
+Michael Negussie,['Columbia'],1
+Michael Nazimok,['CUNY'],1
+Mackenzie Wilson,['Dartmouth'],1
+Michael Moran,['University of Chicago'],1
+Michael Kwak,['Yale'],1
+Melina Piatti-Chayan,['Fordham'],1
+Michael Hansen,['University of Chicago'],1
+Melissa Yasui,['Northeastern'],1
+Mackenzie Devita,['University of Pittsburgh'],1
+Mia Benzon,"[""St. Mary's""]",1
+Mia Rojas,['University of Chicago'],1
+Michael Alisky,['Stanford'],1
+Melanie Goldberg,['Harvard'],1
+Michael Sher,['George Washington'],1
+Michael Zhao,['Harvard'],1
+Lydia Vlasto,['William and Mary'],1
+Owen Heaphy,['Yale'],1
+Madeleine Popofsky,['Yale'],1
+Midhun Sadanand,['Yale'],1
+Lydia Kim,['George Washington'],1
+Meghan Murphy,['Brown'],1
+Michelle Tiecher,['Fordham'],1
+Maddie Nagle,['Yale'],1
+Mehul Agarwal,['Johns Hopkins'],1
+Lyra-Anne Ku,['Columbia'],1
+Michelle Mayorga,['CUNY'],1
+Maadhavan Prasanna,['Bowdoin College'],1
+Maddie Edwards,['Wellesley'],1
+Maanya Pande,['UConn'],1
+Michel Nehme,['Harvard'],1
+Molly Bordoff,['Columbia'],1
+Molly Thompson,['George Washington'],1
+Neil Chibber,['Maryland'],1
+Max Selcow,['Tufts'],1
+Max Winzelberg,['Dartmouth'],1
+Max Wu,['University of Chicago'],1
+Nathan Maurer,['Bentley University'],1
+Max Xu,['Brown'],1
+Nathan Master,['American'],1
+Mahpara Faatin,['Harvard'],1
+Lorenz Soukup,['Bates'],1
+Nathan Kovicak,['Maryland'],1
+Nathan Khoury,['Amherst'],1
+Lorenzo Pinasco,['Yale'],1
+Louis Verdié,['Columbia'],1
+Maxum Rhode,['University of Delaware'],1
+Nate Sumimoto,['George Washington'],1
+Mahi Khangura,['Maryland'],1
+Maxwell Ciolek Passeri,['Brandeis'],1
+Max Waldman,['Grinnell'],1
+Nathan Spencer,['Princeton'],1
+Lucy Augustine,['William and Mary'],1
+Mia Stephenson,['Wellesley'],1
+Malaika Burkholder,['Boston College'],1
+Neftali Reynoso,['Boston University'],1
+Max Kornfeld,['NYU'],1
+Max Ma,['University of North Carolina'],1
+Max Miller,['Northeastern'],1
+Navaneeth Rajan,['University of Chicago'],1
+Maisy Coffey,['Yale'],1
+Logan Ragland,['Swarthmore'],1
+Nathan Weibke,['Washington University in St. Louis'],1
+Max Neuman,['Columbia'],1
+Lois Marmolejos,['NYU'],1
+Max O'Hare,['Wesleyan'],1
+Max Salzinger,['Princeton'],1
+Mairan Hall,['UConn'],1
+Nathan Tamkin,['Dartmouth'],1
+Maxwell Gold,['Hamilton'],1
+Magnus Lim,['Harvard'],1
+Natalie Roots-Nowakowski,['Carnegie Mellon'],1
+Louisa Miller-Out,['Smith'],1
+Naarada Samarasinghe,['William and Mary'],1
+Maya Hsu,['George Washington'],1
+Myra Niang,['Boston University'],1
+Myra Kirmani,['Stanford'],1
+Maya Johnson,['Brandeis'],1
+Lucas Holman,['Wesleyan'],1
+Myles Able-Kehoe,['Stony Brook University'],1
+Maya Koerber-Marx,['Yale'],1
+Mya Koffie,['Princeton'],1
+Maya Mufson,['Yale'],1
+Maya Perkash,['Washington University in St. Louis'],1
+Maya Prakash,['Amherst'],1
+Muthukumar Sundar,['University of Chicago'],1
+Mounisha Adams,['Dartmouth'],1
+Morgan Coutu,['University of Massachusetts'],1
+Maya El-Sharif,['Penn'],1
+Nabeel Raza,['University of Virginia'],1
+Nadia Blouin,['Fordham'],1
+Nat Keim,['Dartmouth'],1
+Natalie Martin,['George Washington'],1
+Luana Volkova,['Brandeis'],1
+Maxwell Tabarrok,['University of Virginia'],1
+Natalie Caloca,['George Washington'],1
+Maya Benziger,['Bates'],1
+Natali Sarraf,['Tufts'],1
+Maya Burton,['Georgetown'],1
+Nadia Cho,['Wellesley'],1
+Narein Vignesh,['Maryland'],1
+Luca Ririnui,['Yale'],1
+Maeve Kennedy,['Wellesley'],1
+Naomi Long,['George Washington'],1
+Lucas Castillo-West,['Yale'],1
+Nandini Krishnan,['Princeton'],1
+Mirabel Raphael,['Yale'],1
+Riya Gupta,['William and Mary'],1
+Owen Mullins,['University of Massachusetts'],1
+Teagan Benavidez,['Smith'],1
+Thibaut Stussi,['Boston University'],1
+Theodore Gercken,['Hamilton'],1
+Theo Miranda-Zellink,['Maryland'],1
+Theo Datta,['Harvard'],1
+Theo Baker,['Temple'],1
+Thej Mallu,['Northeastern'],1
+Terrence Wu,['Amherst'],1
+Teresa Chen,['Princeton'],1
+Tejas Subramaniam,['Stanford'],1
+Tejal Patwardhan,['Harvard'],1
+Teddy Tawil,['Yale'],1
+Taylor Heller,['NYU'],1
+Thomas Copher,['Boston College'],1
+Taylor Curro,['University of Virginia'],1
+Taru Chirume,['American'],1
+Tarin Martinez,['Haverford'],1
+Tanvir Thamid,['Bates'],1
+Tanvi Agarwal,['Wellesley'],1
+Tanush Vanarase,['UConn'],1
+Tangya Tan,['Johns Hopkins'],1
+Tanay Tarikere,['American'],1
+Tammy Yamile León Molina,['Princeton'],1
+Talia Hsia,['Yale'],1
+Talia Ehrenberg,['Amherst'],1
+Thomas Coorey,['Columbia'],1
+Thomas Dragovich,['Maryland'],1
+Ty Schnyder,['Lehigh'],1
+Tommy Koh,['Columbia'],1
+Tristan Zlotkowski,['Pace'],1
+Tristan Ward,['Brown'],1
+Tristan Moore,['Amherst'],1
+Tristan Bohn,['Brown'],1
+Trey Rodriguez,['Fordham'],1
+Trevor Quintero,['Northwestern'],1
+Trevor Hatem,['Boston College'],1
+Tori Qiu,['Stanford'],1
+Tori Ling,['Penn'],1
+Tony Liu,['Harvard'],1
+Tong Zhou,['Harvard'],1
+Tomiris Ospan,['Harvard'],1
+Thomas Evans,['University of Chicago'],1
+Toby Winick,['Tufts'],1
+Toby Arment,['Brown'],1
+Tina Gao,['Johns Hopkins'],1
+Timothy Colledge,['Hamilton'],1
+Timmy Miller,['University of Pittsburgh'],1
+Tim Merrill,['University of Delaware'],1
+Tim Carroll,['Amherst'],1
+Tiffany Ju,['Wellesley'],1
+Tierney Egan,['University of Virginia'],1
+Thomas Suchowolec,['Boston University'],1
+Thomas Kim,['Johns Hopkins'],1
+Taillte Cooney-Newton,['Bates'],1
+Tahmid Islam,['Dartmouth'],1
+Tahalia Nira,['Boston University'],1
+Sophia Fend,['Harvard'],1
+Sparsh Jain,['University of Chicago'],1
+Sophie Xu,['Boston University'],1
+Sophie Staii,['Tufts'],1
+Sophie Johnson,['Dartmouth'],1
+Sophia Tyrrell-Knott,['Johns Hopkins'],1
+Sophia Stone,['Yale'],1
+Sophia Seyer,['Fordham'],1
+Sophia Luna,['Fordham'],1
+Sophia Liu,['University of Chicago'],1
+Sophia Lichterfield,['Harvard'],1
+Sophia Li,['Stanford'],1
+Sophia Cody,['Fordham'],1
+Taeho Lee,['Carnegie Mellon'],1
+Somya Sharma,['Boston University'],1
+Solara Bakhit,['Fisher College'],1
+Sol Manis,['Washington University in St. Louis'],1
+Sohum Sheth,['Penn'],1
+Sofia Fleri,['Lehigh'],1
+Sofia Bocchino,['NYU'],1
+Sky Park,['Swarthmore'],1
+Sithara Subramanian,['Rutgers'],1
+Sinan Yucel,['Georgetown'],1
+Simon Picotte,['University of Chicago'],1
+Simba Ali,['Fordham'],1
+Spencer Conrad,['Brown'],1
+Spencer Yost-Wolff,['George Washington'],1
+Sreeta Basu,['Northeastern'],1
+Sruthi Bharath Kumar,['Wellesley'],1
+Sylvie Turk,['Penn'],1
+Swayam Shashikumar,['Rutgers'],1
+Susie Garcia,['Stanford'],1
+Susanna Kritzler,['University of Chicago'],1
+Susanna Kharatyan,['University of Virginia'],1
+Susan McHarris,['Swarthmore'],1
+Sunny Kumar,['Princeton'],1
+Sungjoo Yoon,['Harvard'],1
+Sunay Hegde,['Rutgers'],1
+Suki Chen,['Wesleyan'],1
+Suhail Al Eryani,['Maryland'],1
+Subhash Durbha,['Rutgers'],1
+Stone Yang,['Stanford'],1
+Steven Porter,['University of Chicago'],1
+Sterling Xie,['University of Chicago'],1
+Sterling Peterson,['University of Virginia'],1
+Stephanie Purwanto,['George Washington'],1
+Stephanie Chen,['Harvard'],1
+Stella Shen,['William and Mary'],1
+Stella Ren,['Princeton'],1
+Stefano Raffo,['Maryland'],1
+Stefan Alexander Whitwell,['Northeastern'],1
+Stanley Kuo,['Boston University'],1
+Tucker Wilke,['Brown'],1
+Tyler Hunt,['American'],1
+Siilen Sergelen,['Penn'],1
+Wylie Bassill,['William and Mary'],1
+Yiwen Lu,['University of Chicago'],1
+Yichia Lee,['Wellesley'],1
+Yehezkiel Kotambunan,['Boston University'],1
+Yavuz Kaklikkaya,['NYU'],1
+Yasmine Bolden,['Johns Hopkins'],1
+Yara Alkhalifa,['Northeastern'],1
+Yana Sharifullina,['Swarthmore'],1
+Yana Danzig,['Carnegie Mellon'],1
+Xiomara Bradden,['Maryland'],1
+Xinyi Chi,['Williams'],1
+Xiaoyao Lu,['Stanford'],1
+Wyatt Fortner,['NYU'],1
+Yuanyi Ma,['Tufts'],1
+Winson Cheung,['UMBC'],1
+Winnie Qin,['Brandeis'],1
+Wingel Xue,['Johns Hopkins'],1
+Willow Tapp,['Temple'],1
+William Zeng,['University of Virginia'],1
+William Wu,['Bates'],1
+William Rudolph,['Williams'],1
+William Hallward-Driemeier,['Williams'],1
+William Golub,['Stanford'],1
+William Cote,['William and Mary'],1
+William Chen,['University of Massachusetts'],1
+Ynes Traore,['Yale'],1
+Yue Huang,['Amherst'],1
+Ubaldo Rodriguez,['University of Chicago'],1
+Zayd Benjelloun,['University of Virginia'],1
+Zohaib Saleem,['UConn'],1
+Zoe Zhu,['University of Chicago'],1
+Zoe Savala,['University of Chicago'],1
+Zoe Ewing,['Columbia'],1
+Zimu Zhang,['Johns Hopkins'],1
+Zimo-Tracy Ge,['Boston University'],1
+Zhengying Tian,['University of Chicago'],1
+Zhengdong Wang,['Yale'],1
+Zerek Laghari,['Wesleyan'],1
+Zelda Abramovich,['Brandeis'],1
+Zayn Bhimani,['Georgetown'],1
+Zayan Islam,['UConn'],1
+Yujin Zhou,['Johns Hopkins'],1
+Zariah Stewart,['Wesleyan'],1
+Zara Hamid,['Johns Hopkins'],1
+Zainab Zarnish,['Harvard'],1
+Zahi Wali Aadit,['Boston University'],1
+Zack Cassidy,['Boston University'],1
+Zachary Glaser,['Carleton'],1
+Zach Pinto,['Binghamton University'],1
+Zach Brown,['American'],1
+Yva Totchum,['American'],1
+Yuwen Wang,['Johns Hopkins'],1
+Yuto Kida,['Yale'],1
+William Arnesen,['Yale'],1
+Will Jin,['Swarthmore'],1
+Will Huang,['Swarthmore'],1
+Vera Chaudhry,['University of Chicago'],1
+Viet Phan,['Rutgers'],1
+Vidhi Bhartiya,['Yale'],1
+Victoria Yang,['Stanford'],1
+Victoria Pachnik,['Harvard'],1
+Victoria Kurakata,['University of Chicago'],1
+Victoria Kartashev,['Dartmouth'],1
+Victoria Fekete,['William and Mary'],1
+Victor Tong,['Columbia'],1
+Vickie Song,['University of Chicago'],1
+Vibhav Singh,['University of Chicago'],1
+Veronica Leahy,['NYU'],1
+Ventura Garcia-Perez,['Amherst'],1
+Will Flintoft,['Harvard'],1
+Veeank Maniar,['NYU'],1
+Vasiley Syomin,['Maryland'],1
+Vasa Syomin,['Maryland'],1
+Varun Vijay,['George Washington'],1
+Varun Piram,['Columbia'],1
+Varsha Sripadham,['NYU'],1
+Varnum Bayless,['University of Virginia'],1
+Vahan Tadevosyan,['Swarthmore'],1
+UsZee Mckoy,['Wesleyan'],1
+Umang Vinayaka,['Harvard'],1
+Udheesh Gaddipati,['NYU'],1
+Vignesh Valliyur,['Penn'],1
+Viha Kedia,['Penn'],1
+Vihaan Thakkar,['University of Virginia'],1
+Vikki Perijainen,['Harvard'],1
+Will Brown,['American'],1
+Wesley Liu,['NYU'],1
+Wesley Chiu,['Brown'],1
+Wes McGovern,['Fordham'],1
+Wendy Zhang,['Yale'],1
+Wendy Gao,['University of Virginia'],1
+Warrick Kwon,['University of Chicago'],1
+Vyomini Gurung,['Hamilton'],1
+Von An,['Temple'],1
+Vivian Zhang,['Harvard'],1
+Vivian Li,['University of Chicago'],1
+Vivian Chiu,['Johns Hopkins'],1
+Vivek Kirpilani,['Princeton'],1
+Vivaan Sood,['Williams'],1
+Vivaan Pagariya,['Boston University'],1
+Vitor Cezario,['Harvard'],1
+Vita Raskeviciute,['Penn'],1
+Vishwa Rakasi,['Yale'],1
+Vishaal Arunprasad,['Boston University'],1
+Viraj Nautiyal,['Brown'],1
+Vinny Kazz,['Fordham'],1
+Vincent Ying,['Penn'],1
+Vikram Prasad,['Maryland'],1
+Sim Low,['Johns Hopkins'],1
+Sierra Valdez,['Harvard'],1
+Owen Tritt,['Swarthmore'],1
+Red Kitchen,['Temple'],1
+Ricky Kiamilev,['University of Delaware'],1
+Ria Thakur,['Johns Hopkins'],1
+Rhea Singh,['Johns Hopkins'],1
+Rhea Nayyar,['NYU'],1
+Rhea Jain,['Stanford'],1
+Reyya Kalolwala,['Lehigh'],1
+Reyna Diamond,['Yale'],1
+Rennie Lee,['American'],1
+Renee Li,['William and Mary'],1
+Rena Liu,['Yale'],1
+Rehan Merchant,['Fordham'],1
+Rebecca Ronai,['Dartmouth'],1
+Rikhil Ranjit,['Stanford'],1
+Rebecca Han,['Princeton'],1
+Raynathan Christopher,['Penn'],1
+Raymond Ha,['University of Chicago'],1
+Ray Eggerts,['Brown'],1
+Ray Cocoran,['Maryland'],1
+Ravi Simon,['Penn'],1
+Ravi Naidu,['Swarthmore'],1
+Rasmee Ky,['Harvard'],1
+Rasandi Fernando,['CUNY'],1
+Ranen Miao,['Harvard'],1
+Rakshan Chadha,['UConn'],1
+Rico Chandra,['Yale'],1
+Riley Lavrovsky,['Binghamton University'],1
+Ruth Tony-Alabi,['University of Massachusetts'],1
+Rohan Gandhi,['Maryland'],1
+Roy Mazumder,['Fisher College'],1
+Roxanne Daniel,['Harvard'],1
+Rosie Aronson,['George Washington'],1
+Rory Mahon,['Georgetown'],1
+Roopeksha Agrawal,['Wellesley'],1
+Ronoy Sarkar,['Maryland'],1
+Romina Lilollari,['Harvard'],1
+Rome Ben-David,['Wellesley'],1
+Rolando Smith,['Temple'],1
+Rohan Sundaram,['Columbia'],1
+Rohan Jinturkar,['Princeton'],1
+Rodrigo Trujillo,['Brown'],1
+Riley Sisk,['University of Chicago'],1
+Rocket Drew,['Brown'],1
+Robiah Arefin Ibn Mahmud,['Amherst'],1
+Robert Vogel,['CUNY'],1
+Robert Kirkwood,['Yale'],1
+Robert Cropp,['Bates'],1
+Robby Gray,['Williams'],1
+Lesedi Chirikuutsi,['Williams'],1
+Rita Dai,['Tufts'],1
+Rishi Vunnam,['Maryland'],1
+Risha Krishnan,['Columbia'],1
+Rish Deshide,['Princeton'],1
+Rajul Bothra,['Rutgers'],1
+Rahul Yehiya,['Boston University'],1
+Raghav Ranawat,['American'],1
+Patryk Stelmaszek,['University of Chicago'],1
+Pooja Nagareddygari,['Princeton'],1
+Philip Annabi,['Fordham'],1
+Peyton Klem,['University of Virginia'],1
+Peyton Jackson,['Dartmouth'],1
+Petra de Beer,['Penn'],1
+Peter Kladias,['Smith'],1
+Pei-Jun Huang,['Tufts'],1
+Pedro Tezna,['Drexel'],1
+Pedro Barata,['Hamilton'],1
+Paul Jeong,['Johns Hopkins'],1
+Patton Hahn,['Yale'],1
+Patrick Kimmins,['Bentley University'],1
+Raffay Tabassum,['Amherst'],1
+Patrick Dugan,['Columbia'],1
+Patricia Ong,['University of Chicago'],1
+Parth Tailor,['Maryland'],1
+Parker Snipes,['Swarthmore'],1
+Parker Kelly,['George Washington'],1
+Parjanya Tiwari,['University of Chicago'],1
+Paola Apolinario,['Rutgers'],1
+Paloma O'Connor,['Harvard'],1
+Pakhi Chamaria,['Northeastern'],1
+Ozodbek Eshboboev,['Amherst'],1
+Oyuka Lyndon,['Bates'],1
+Poorvi Kumar,['University of Chicago'],1
+Pragna Yalamanchili,['Maryland'],1
+Pramod Gururajan,['Columbia'],1
+Pranaya Balaji,['Yale'],1
+Rafael Rodriguez Alvarez,['University of Massachusetts'],1
+Raelin Engrav,['University of Chicago'],1
+Radvilas Pelanis,['Harvard'],1
+Rachel Robin,['Maryland'],1
+Rachel Pineda,['Pace'],1
+Rachel Pepper,['Maryland'],1
+Rachel Li,['University of Chicago'],1
+Rachel Leone,['Boston University'],1
+Rachel Bartz,['William and Mary'],1
+Quynh Anh Truc,['Lehigh'],1
+Quinn Himmelberg,['American'],1
+Quinn Drennan,['William and Mary'],1
+Qing Hu,['Smith'],1
+Qifei Min,['University of Virginia'],1
+Qi Wang,['Williams'],1
+Preston Lieu,['Princeton'],1
+Preston Johnson,['Princeton'],1
+Presley Jarrell,['Carnegie Mellon'],1
+Presley Chomba,['Harvard'],1
+Prerana Srinivasan,['University of Virginia'],1
+Prem Dave,['UConn'],1
+Pratyush Sharma,['University of Chicago'],1
+Pranika Singh,['Maryland'],1
+Rustam Biswas,['Maryland'],1
+Ryan Geary,['Binghamton University'],1
+Siddhaarth Chakravarthy,['Boston University'],1
+Savannah Stackhouse,['Yale'],1
+Selena Bahl,['Washington University in St. Louis'],1
+Sebastian Lemberger,['University of Chicago'],1
+Sebastian Juarez,['Harvard'],1
+Sebastian Bryant,['University of Chicago'],1
+Sebastian Attlan,['Harvard'],1
+Sean Grey,['George Washington'],1
+Sean Callaghan,['Harvard'],1
+Seamus Allen,['Stanford'],1
+Scott Wang,['Amherst'],1
+Scott Santaella,['Temple'],1
+Sayer Theiss,['Williams'],1
+Satvik Srinivas,['Rutgers'],1
+Seoho Park,['Wellesley'],1
+Satoshi Yanaizu,['Harvard'],1
+Sasha Turner,['Columbia'],1
+Sarah Willrich,['University of Chicago'],1
+Sarah Wheaton,['Swarthmore'],1
+Sarah Smith,['Northeastern'],1
+Sarah Rooney,['Boston University'],1
+Sarah Murphy,['Northeastern'],1
+Sarah Moore,['Wellesley'],1
+Sarah Levit,"[""St. Mary's""]",1
+Sarah Lehman,['Yale'],1
+Sarah Hu,['Wellesley'],1
+Sena Kim,['Penn'],1
+Seonbin Song,['University of Virginia'],1
+Ryan Gumlia,['Yale'],1
+Shiv Chawla,['Brandeis'],1
+Sid Ramanathan,['Georgetown'],1
+Shruti Baxi,['Yale'],1
+Shreyas Kumar,['Princeton'],1
+Shreyas Iyer,['Harvard'],1
+Shreyas Gullapalli,['University of Virginia'],1
+Shreya Parjan,['Wellesley'],1
+Shreya Karthik,['Brown'],1
+Shreeya Adhikari,['Northeastern'],1
+Shotaro Oshikawa,['Johns Hopkins'],1
+Shobi Kim,['Williams'],1
+Shiwen Yeo,['Yale'],1
+Shi Wen Yeo,['Yale'],1
+Seven Deng,['Lehigh'],1
+Sheryar Ahmad Fazal,['Princeton'],1
+Shenandoah Worrel,['University of Virginia'],1
+Shenan Worrel,['University of Virginia'],1
+Shelby Amato,['George Washington'],1
+Shawn Leach,['University of Delaware'],1
+Shannon White,['Northeastern'],1
+Shannon Stapleton,"[""St. Mary's""]",1
+Shaima Osman,['Wesleyan'],1
+Shaheen Fazal-Merchant,['Wellesley'],1
+Shadan Khalid,['NYU'],1
+Seán Durkis-Dervonge,['Georgetown'],1
+Sarah Grace Shurden,['Georgetown'],1
+Sarah Geist,['Wellesley'],1
+Sarah Cobau,['Maryland'],1
+Sagar Rao,['Swarthmore'],1
+Sam Bevins,['Dartmouth'],1
+Sam Arnesen,['Princeton'],1
+Salma Alhsni,['Princeton'],1
+Sakshyam Pokharel,['Princeton'],1
+Sajan Mehrotra,['Stanford'],1
+Saif Virani,['Fordham'],1
+Saif El Khodor,['NYU'],1
+Sai Karnati,['Brown'],1
+Sahithya Venkatesh,['Maryland'],1
+Sage Mehta,['Penn'],1
+Sage Bates,['Georgetown'],1
+Safiatou Balde,['Brandeis'],1
+Sarah Chatfield,['William and Mary'],1
+Sadie Moore,['Columbia'],1
+Sadie Anderson,['Hamilton'],1
+Sadie Adams,['University of Virginia'],1
+Sachin Patel,['Boston College'],1
+Sabrina Chen,['University of Chicago'],1
+Saanvi Goel,['Maryland'],1
+Saahas Ajmera,['University of Chicago'],1
+Ryan Schoenstedt,['Northeastern'],1
+Ryan Kim,['Princeton'],1
+Ryan Katz,['Brown'],1
+Ryan Jiang,['Princeton'],1
+Sam Borne,['Bowdoin College'],1
+Sam Bowen,['Northwestern'],1
+Sam Chen,['Harvard'],1
+Sam Doyle,['Boston College'],1
+Sarah Burke,['Brown'],1
+Sara Landry,['William and Mary'],1
+Sara Jayakumar,['University of Chicago'],1
+Sara Chokshi,['Carnegie Mellon'],1
+Santiago Paul,['Williams'],1
+Santi Cantu,['MIT'],1
+Sannidhi Korisepati,['Maryland'],1
+Sannan Dhillon,['Swarthmore'],1
+Sankalp Borah,['UConn'],1
+Sangwon Park,['Johns Hopkins'],1
+Sandro D'Aveta,['Boston University'],1
+Samuel Ruiz-Macias,['Harvard'],1
+Samuel Melcher,['Bates'],1
+Samara Cuaresma,['Harvard'],1
+Samantha Zaino,['University of Chicago'],1
+Samantha Sun,['Wesleyan'],1
+Samantha Przybisiki,['Brandeis'],1
+Saman Zeb,['Swarthmore'],1
+Sam Widwell,['George Washington'],1
+Sam Slezak,['University of Pittsburgh'],1
+Sam Liu,['Tufts'],1
+Sam Jones,['Harvard'],1
+Sam Haj,['Brown'],1
+Lesley Machimbidza,['Dartmouth'],1
+Joshua King,['Boston College'],1
+Leo Taylor-Hougham,['American'],1
+Calvin Liu,['Swarthmore'],1
+Caleb Chung,['Harvard'],1
+Caleb Betts,['George Washington'],1
+Cale Teevan,['NYU'],1
+Caitlyn Kim,['Penn'],1
+Caitlin Hodge,['Princeton'],1
+Caitlin Bourke,['Maryland'],1
+Caitlin Barlow,['University of Chicago'],1
+Burke Croft,['University of Chicago'],1
+Burke Cochran,['Georgetown'],1
+Bukhosi Dube,['Yale'],1
+Bryson Handy,['George Washington'],1
+Bryan Machado,['Boston University'],1
+Bruno Sinka,['Georgetown'],1
+Brody Taylor,['Northeastern'],1
+Brock Walker,['Columbia'],1
+Brielle Ballard,['American'],1
+Briana Bao,['Amherst'],1
+Brian Li,['University of Chicago'],1
+Brian Chan,['Princeton'],1
+Brett Poggi,['Fordham'],1
+Brendon Lee,['Harvard'],1
+Brendon Chen,['University of Chicago'],1
+Brendan Poon,['Stanford'],1
+Brendan McDermott,['Binghamton University'],1
+Brendan Finnegan,['George Washington'],1
+Caleb Crayton,['Yale'],1
+Cam Chavarry,['Grinnell'],1
+Brandon Wang,['University of Chicago'],1
+Cam Kettles,['Harvard'],1
+Charlotte Colder,['Tufts'],1
+Charlie Yang,['Yale'],1
+Charlie Thompson-Wood,['Drexel'],1
+Charlie Miller,['William and Mary'],1
+Charlie Lechowicz,['Bates'],1
+Charles Mayville,['University of Chicago'],1
+Charles Anderson,['Bowdoin College'],1
+Cecilia Xia,['Stanford'],1
+Catherine Wang,['Swarthmore'],1
+Catherine Liu,['Harvard'],1
+Catherine Jeon,['Harvard'],1
+Catherine Gooding,['Bates'],1
+Cassandra Hansen,['William and Mary'],1
+Carson Landry,['Pace'],1
+Caroline Lesser,['Dartmouth'],1
+Caroline Koclanes,['University of Chicago'],1
+Caroline Gihlstorf,['Haverford'],1
+Carolina Aronhime,['University of Virginia'],1
+Carl Scandelius,['Harvard'],1
+Carina Li,['Penn'],1
+Campbell Haire,['Boston University'],1
+Camillo Padulli,['Yale'],1
+Cami Brix,['Swarthmore'],1
+Cameron Stevenson,"[""St. Mary's""]",1
+Cameron Chacon,['Yale'],1
+Brendan Case,['Bentley University'],1
+Brandon Cheng,['Harvard'],1
+Ashvin Baker,['Boston University'],1
+Baylee Baker,['Lehigh'],1
+Ayush Ajmani,['Dartmouth'],1
+Ayomade Adeolu-Akande,['Dartmouth'],1
+Ayanna Uppal,['Princeton'],1
+Avirul Islam,['NYU'],1
+Avian Caldwell,['University of Massachusetts'],1
+Ava Stryker-Robbins,['Brown'],1
+Ava Schneiberg,['Georgetown'],1
+Ava Graff,['Columbia'],1
+Ava Bridges,['Bowdoin College'],1
+Ava Blakley,['Williams'],1
+Ava Blakeley,['Williams'],1
+Austin Stapleton,['Hamilton'],1
+Austin Goldsmith-Lachut,['Harvard'],1
+Audrey Zhou,['Amherst'],1
+Audrey Tao,['Wellesley'],1
+Audrey Hardymon,['William and Mary'],1
+Audrey An,['Johns Hopkins'],1
+Audra Plackner,['Pace'],1
+Aubrey Shen,['Columbia'],1
+Atticus Hempel,['Northeastern'],1
+Athena Zhou,['Harvard'],1
+Athena Wooters,['American'],1
+Athena Siow,['Harvard'],1
+Atharv Dimri,['Wesleyan'],1
+Asim Omi,['Stony Brook University'],1
+Ayush Gupta,['Georgetown'],1
+Bekah Agwunobi,['Columbia'],1
+Brady Keith,['Penn'],1
+Bela Bhushan,['Wesleyan'],1
+Braden Farley,['Grove City College'],1
+Boubacar Coulibaly,['Lehigh'],1
+Bomin Koo,['Yale'],1
+Bohou Zhang,['Swarthmore'],1
+Boah Kim,['Georgetown'],1
+Bo Xin Zhao,['Yale'],1
+Blaise Trodden,['Bentley University'],1
+Bishwo Jeet Bista,['Harvard'],1
+Bijan Taheri,['Swarthmore'],1
+Bianca Ly,['Harvard'],1
+Bhavani Nair,['University of Delaware'],1
+Betty Nguyen,['Harvard'],1
+Berk Oto,['University of Virginia'],1
+Benjamin Thomas,['Stanford'],1
+Benjamin Risman,['Brandeis'],1
+Benedict Morrow,['University of Massachusetts'],1
+Ben Who,['Brown'],1
+Ben Schwartz,['Stanford'],1
+Ben Park,['Yale'],1
+Ben Levy,['Brown'],1
+Ben Horning,['Georgetown'],1
+Ben Daniels,['Yale'],1
+Ben Cortez,['University of Chicago'],1
+Ben Anderson,['Stanford'],1
+Bellagio Ti,['Pace'],1
+Charlotte Comstock,['Penn'],1
+Charlotte Hall,['Swarthmore'],1
+Charlotte Packer,['William and Mary'],1
+David Shepard,['University of Pittsburgh'],1
+David Morales,['University of Chicago'],1
+David Cui,['Brown'],1
+David Chen,['Columbia'],1
+David Bloom,['Yale'],1
+David Abrams,['Carnegie Mellon'],1
+Darshanik Aryal,['Harvard'],1
+Darren Yang,['Northwestern'],1
+Darren Fang,['Brown'],1
+Dario Soatto,['Stanford'],1
+Daria Haynie,['Grinnell'],1
+Darby Redman,['Amherst'],1
+Daphne Wegner,['Grinnell'],1
+Danielle Schmitt,['Smith'],1
+Danielle Mitalipov,['Stanford'],1
+Daniela Lacalle,['William and Mary'],1
+Daniela Cabrera,['Maryland'],1
+Daniel Zhao,['Harvard'],1
+Daniel Perez,['Harvard'],1
+Daniel Kind,['University of Chicago'],1
+Daniel Katari,['University of Chicago'],1
+Daniel Kang,['Columbia'],1
+Daniel Kam,['Williams'],1
+Daniel Ju,['Princeton'],1
+Daniel Jiang,['University of Chicago'],1
+Daniel Handoyo,['University of Massachusetts'],1
+David Ruvaga,['University of Virginia'],1
+David Stolyarov,['Yale'],1
+Charlotte Precourt,['Wellesley'],1
+Davin Wang,['Harvard'],1
+Diya Aneesh,['Boston University'],1
+Disha Kumar,['Northeastern'],1
+Dilay Namli,['Williams'],1
+Dilay Kolinoglu,['Williams'],1
+Dhurv Prakash,['George Washington'],1
+Dhruva Someshwar,['Maryland'],1
+Dhruv Javangula,['Yale'],1
+Dhruv Goyal,['Columbia'],1
+Dhafer Muhammad,['Stanford'],1
+Devyani Goel,['Columbia'],1
+Devin Lai,['Stanford'],1
+Devin Bae,['American'],1
+Devesh Kodnani,['University of Chicago'],1
+Devarsh Borah,['Dartmouth'],1
+Dessie Yang,['Princeton'],1
+Derwen Fay,['George Washington'],1
+Derin Kalay,['Rutgers'],1
+Demetrius Daniel,['University of Chicago'],1
+Demetri Tymchynyuk,['William and Mary'],1
+Demetri Passalaris,['Hamilton'],1
+Delia Liesenfeld,['George Washington'],1
+Dedra Annakie,['NYU'],1
+Dean Deckinger,['Columbia'],1
+Dea Karameti,['CUNY'],1
+Dawson Lynch,['Harvard'],1
+Daniel Fleury,['Johns Hopkins'],1
+Daniel Falkovic,['American'],1
+Daniel Di Palma,['Washington University in St. Louis'],1
+Daniel Bocchino,['University of Delaware'],1
+Christoffer Gernow,['Harvard'],1
+Christine Seo,['Princeton'],1
+Christian Watson,['Brandeis'],1
+Christian Chantayan,['Dartmouth'],1
+Christian Bohmer,['Dartmouth'],1
+Chris Sylvester,['Yale'],1
+Chris Morillo,['Brown'],1
+Chris Gooding,['Bates'],1
+Chris Conrad,['Haverford'],1
+Chris Ahrens,['William and Mary'],1
+Chloe Yim,['Amherst'],1
+Chloe Tse,['Columbia'],1
+Chloe Noh,['Harvard'],1
+Chloe Kivumbi,['University of Massachusetts'],1
+Chloe Hutchinson,['Fisher College'],1
+Chloe Attlan,['University of Chicago'],1
+Chi Nguyen,['Yale'],1
+Chelsea Zhang,['Wesleyan'],1
+Chastin Crump,['Fisher College'],1
+Chase Wilson,['Northeastern'],1
+Chase Fong,['University of Pittsburgh'],1
+Charming Dube,['Tufts'],1
+Charmaine Tan,['NYU'],1
+Charly Chen,['Swarthmore'],1
+Charlotte Schonwald,['Lehigh'],1
+Christopher Bao,['Princeton'],1
+Christopher Choi,['Brandeis'],1
+Christopher O'Keeffe,['Maryland'],1
+Cohen De La Hoz,['Lehigh'],1
+Dane Lester,['Princeton'],1
+Dana Ko,['Yale'],1
+Dana Kim,['Stanford'],1
+Daksha Pillai,['Columbia'],1
+Craig Diskin,['Brandeis'],1
+Coston Autry,['Dartmouth'],1
+Cornelia Hsieh,['NYU'],1
+Cordelia Thompson,['William and Mary'],1
+Constantine Filippatos,['Georgetown'],1
+Connor Engstrom,['Stanford'],1
+Collin Freet,['Lehigh'],1
+Cody McManus,['Williams'],1
+Christopher Tu,['Georgetown'],1
+Coco Chen,['Brandeis'],1
+Claudia Meng,['Yale'],1
+Clarence Guo,['Penn'],1
+Clara Barsoum,['George Washington'],1
+Claire Sheeler,['Swarthmore'],1
+Claire Raulston,['George Washington'],1
+Claire Liu,['Amherst'],1
+Claire Cordonnier,['NYU'],1
+Claire Beamer,['Stanford'],1
+Cindy Chen,['Penn'],1
+Chuka Okwumabua,['Harvard'],1
+Ashwin Laksumanage,['University of Chicago'],1
+Ashvika Singhal,['Princeton'],1
+Dom Digioia,['University of North Carolina'],1
+Allie Wu,['Binghamton University'],1
+Allan Lee,['Penn'],1
+Alitza Soiffer,['University of Chicago'],1
+Alison Ren,['Washington University in St. Louis'],1
+Alina Su,['Harvard'],1
+Alicja Wolinska,['University of Chicago'],1
+Alicia Chen,['Penn'],1
+Alice Yeo,['Fordham'],1
+Alice Meroli,['Rutgers'],1
+Ali Medina,['Harvard'],1
+Ali Ahmad,['Penn'],1
+Alexis Pickering,['Pace'],1
+Alexis Nieves,['Yale'],1
+Alexis Martos,['University of Massachusetts'],1
+Alexandria Westray,['Harvard'],1
+Alexandra Bates,['Boston College'],1
+Alexander Wong,['Brown'],1
+Alexander Chang,['Johns Hopkins'],1
+Alexa Murphy,['Northwestern'],1
+Alex Weissman,['University of Chicago'],1
+Alex Schramm,['Brown'],1
+Alex Rodgers,['University of Chicago'],1
+Alex Purn,['Rutgers'],1
+Alex Nielsen,['Stanford'],1
+Alex Margulis,['Princeton'],1
+Alex Gordon,['Yale'],1
+Allie Ruiz,['Yale'],1
+Allison Barrie,['Harvard'],1
+Alex Chang,['Johns Hopkins'],1
+Allison Cooper,['Washington University in St. Louis'],1
+Amy Lawton,['Fordham'],1
+Amy Chang,['Stanford'],1
+Amulya Natchukuri,['Rutgers'],1
+Ammar Aziz,['Penn'],1
+Amit Banerjee,['University of Pittsburgh'],1
+Amishai Goodman-Goldstein,['American'],1
+Amina Taslim,['Rutgers'],1
+Amethyst Stencik,['Fordham'],1
+Amelia Matin,['Maryland'],1
+Amelia Bandy,['George Washington'],1
+Ambika Rao,['NYU'],1
+Ambika Grover,['Harvard'],1
+Amber Pascovici,['Dartmouth'],1
+Amaya Ranatunge,['Amherst'],1
+Amaris Hester,['Yale'],1
+Amara Nwuneli,['University of Chicago'],1
+Amanda Wickstrom,['George Washington'],1
+Aman Sharma,['University of Chicago'],1
+Amala Karri,['George Washington'],1
+Amal Sayed,['Harvard'],1
+Alyssa Zhang,['Wellesley'],1
+Alvaro Marin Garcia,['Williams'],1
+Alpha Zhang,['Princeton'],1
+Allyson Lee,['NYU'],1
+Allison Su,['Johns Hopkins'],1
+Alex Ellerstein,['University of Chicago'],1
+Alex Bradu,['University of Chicago'],1
+Ashley Mui,['NYU'],1
+Advik Sharma,['Northwestern'],1
+Adrian Duran,['Haverford'],1
+Aditya Pandey,['NYU'],1
+Aditya Dhar,['Harvard'],1
+Adithi Attada,['Swarthmore'],1
+Adina Almenova,['Wellesley'],1
+Adiba Ejaz,['Columbia'],1
+Addie Gill,['Tufts'],1
+Adam Pochobut,['University of Massachusetts'],1
+Adam Jensen,['University of Chicago'],1
+Abra Mazzeo,['Swarthmore'],1
+Abigail Sterner,['Swarthmore'],1
+Abigail Rudnitsky,['Bates'],1
+Abigail Mammo,['Brown'],1
+Abigail Fechisso,['University of Massachusetts'],1
+Abhay Sankar,['Princeton'],1
+Abdullah Mejjallid,['University of Massachusetts'],1
+Abdul Wahab,['CUNY'],1
+Abdul Rafay,['Bates'],1
+Abdalla Hassan,['George Washington'],1
+Abby Poprocki,['Princeton'],1
+Aayush Bhargava,['Maryland'],1
+Aashna Parikh,['Princeton'],1
+Aaron Yang,['University of Chicago'],1
+Aaron Mesa,['Yale'],1
+Aaron Kahn,['Swarthmore'],1
+Adrian Ramirez,['Harvard'],1
+Advika Sadasivan,['Stanford'],1
+Alex Aharon,['Temple'],1
+Aemen Iqbal,['NYU'],1
+Alex Abarca,['Yale'],1
+Alejandro Herrera,['Bentley University'],1
+Alejandra Avila,['Columbia'],1
+Aleisha Martínez,['Bates'],1
+Albi Manfredi,['University of Virginia'],1
+Alana Sung,['Wellesley'],1
+Akshara Desai,['Columbia'],1
+Akilan Sankaran,['Harvard'],1
+Akhila Gainedi,['University of Massachusetts'],1
+Akash Shivakumaar,['American'],1
+Akaash Kolluri,['Stanford'],1
+Aiza Nygman,['Temple'],1
+Aislinn O'Brien,['Boston University'],1
+Aina Nadeem,['Dartmouth'],1
+Aidric Potkovic,['University of Virginia'],1
+Aiden Alanmanou,['Harvard'],1
+Aidan Wang,['Fordham'],1
+Aidan Vissers,['Harvard'],1
+Aidan Hollinger-Miles,['University of Chicago'],1
+Aidan Healy,['Yale'],1
+Aidan Haya,['Columbia'],1
+Aidan Gahr,['Georgetown'],1
+Aidan Cao,['Pace'],1
+Ahmadou Diawara,['William and Mary'],1
+Agustin Duarte Baracat,['University of Chicago'],1
+Amy Ma,['University of Chicago'],1
+Amy Rose,['Wellesley'],1
+Amy Sun,['Bates'],1
+Ari Gabriel,['Stanford'],1
+Arav Juneja,['Maryland'],1
+Aoi Nakata,['Harvard'],1
+Anza Rizvi,['Boston University'],1
+Anya Draves,['Penn'],1
+Anvitha Reddy,['Georgetown'],1
+Anuska Achayra,['Wellesley'],1
+Anushri Dwivedi,['Rutgers'],1
+Anuj Lohtia,['Brown'],1
+Anuhya Mandava,['Northeastern'],1
+Anubhav Agarwal,['Princeton'],1
+Anthony Vitale,['Tufts'],1
+Anthony Sweatt,['Bentley University'],1
+Anthony Lee,['NYU'],1
+Anthony Chandler,['University of Virginia'],1
+Antara Martins,['Harvard'],1
+Anshul Khakar,['Tufts'],1
+Anqi Qu,['University of Chicago'],1
+Annmaria Antony,['Stanford'],1
+Annie Li,['Wellesley'],1
+Annie Abruzzo,['Swarthmore'],1
+Anne Motoviloff,['Wellesley'],1
+Anne Fox,['American'],1
+Annamaria Antony,['Stanford'],1
+Annabeth Golden,['American'],1
+Annabelle Xing,['Yale'],1
+Araya Miller,['Yale'],1
+Aria Jolly,['University of Chicago'],1
+Amy Zhang,['Harvard'],1
+Aria-Vue Daugherty,['Harvard'],1
+Ashley Ganesh,['Smith'],1
+Ashley Fan,['Princeton'],1
+Asher Spector,['Harvard'],1
+Asher Nyhoff,['Dartmouth'],1
+Ash Bu,['Harvard'],1
+Aryanna Ram,['Dartmouth'],1
+Aryan Singh,['Johns Hopkins'],1
+Aryan Agarwal,['Yale'],1
+Arushi Agarwal,['Penn'],1
+Arun Sharma,['Yale'],1
+Arth Gupta,['Carnegie Mellon'],1
+Aroush Amir Ali,['Wellesley'],1
+Arnold Miao,['Amherst'],1
+Arnav Nigam,['University of Chicago'],1
+Armin Sumansky,['Bates'],1
+Arman Tendulkar,['Tufts'],1
+Arman Entezar,['Brandeis'],1
+Armaan Kalsi,['Yale'],1
+Arjun Chopra,['Brown'],1
+Arjan Singh,['University of Virginia'],1
+Ariela Stoylar,['CUNY'],1
+Ariela Gjergji,['Bentley University'],1
+Ariel Qi,['Penn'],1
+Ariel Bernal,['University of Virginia'],1
+Arianna Hellman,['Tufts'],1
+Anna Smith,['Wellesley'],1
+Anna Newell,['Maryland'],1
+Anna Miller,['Brown'],1
+Anna Ketrenos,['Tufts'],1
+Andrew Yu,['Harvard'],1
+Andrew Sun,['University of Chicago'],1
+Andrew Steptoe,['Brown'],1
+Andrew Shi,['University of Chicago'],1
+Andrew Robinson,['Harvard'],1
+Andrew Pribe,['University of Chicago'],1
+Andrew Li,['Columbia'],1
+Andrew Lee,['Georgetown'],1
+Andrew Laing,['University of Chicago'],1
+Andrew Kamen,['University of Chicago'],1
+Andrew Kaman,['University of Chicago'],1
+Andrew Harding,['George Washington'],1
+Andrew Cui,['University of Chicago'],1
+Andrew Choi,['NYU'],1
+Andrew Chizewer,['Stanford'],1
+Andrew Avalos,['Northeastern'],1
+Andres Mendozas Casas,['Rutgers'],1
+Andrea Ulloa,['University of Chicago'],1
+Anat Karapanagiotidou,['University of Chicago'],1
+Ananya Ganesh,['Harvard'],1
+Anandya Sampath,['William and Mary'],1
+Anahi Otavalo,['Harvard'],1
+Anagha Khisti,['UConn'],1
+Ana Marques Perez,['George Washington'],1
+An-Lanh Le,['Princeton'],1
+Andrew Zhang,['Johns Hopkins'],1
+Andrew Zhao,['Yale'],1
+Andy Lin,['University of Virginia'],1
+Angier Lei,['George Washington'],1
+Anna Kate Lembke,['Brown'],1
+Anna Gustafson,['Maryland'],1
+Anna Eliasson,['Tufts'],1
+Anna Brutocao,['University of Chicago'],1
+Ann Wang,['Harvard'],1
+Ann Tran,['Dartmouth'],1
+Anishka Varma,['University of Massachusetts'],1
+Anish Beeram,['Yale'],1
+Anirudh Rangesh,['Boston College'],1
+Animesh Joshi,['Columbia'],1
+Anh Cao,['Harvard'],1
+Angelo Pacheco,['Binghamton University'],1
+Andy Shufer,['Georgetown'],1
+Angelo Leng,['Carnegie Mellon'],1
+Angelique Dinnall,['Rutgers'],1
+Angeline Agnel,['Rutgers'],1
+Angelina Villalobos,['Amherst'],1
+Angela Zhang,['Dartmouth'],1
+Angela Morales,['Fordham'],1
+Angela Colegio,['Harvard'],1
+Angel Asare,['Princeton'],1
+Ang Sonam Sherpa,['Harvard'],1
+Anelise Peterson,['Smith'],1
+Andy Wang,['Harvard'],1
+Dodo Li,['Swarthmore'],1
+Dom Passafiume,['Temple'],1
+Leo Nitczynski,['Swarthmore'],1
+Joanna Li,['Georgetown'],1
+Jo Huddle,['Temple'],1
+Jiya Mahapatra,['Boston University'],1
+Jing Ge,['Harvard'],1
+Jimmy Chen,['Brown'],1
+Jillian Sutton,['Wellesley'],1
+Jill Ji,['Johns Hopkins'],1
+Jiayuan Zhen,['Harvard'],1
+Jiahuai Kang,['Amherst'],1
+Jhankaar Purohit,['University of Chicago'],1
+Jessica Wang,['MIT'],1
+Jeremy You,['Amherst'],1
+Jeremy Tsung,['Bowdoin College'],1
+Jeremy Ng,['Northeastern'],1
+Jeremy Lee,['Harvard'],1
+Jenny Wu,['Harvard'],1
+Jenny Wang,['William and Mary'],1
+Jenny Li,['Rutgers'],1
+Jennifer He,['Swarthmore'],1
+Jenna Lee,['George Washington'],1
+Jenna Kaplan,['Columbia'],1
+Jenna Hong,['Harvard'],1
+Jen Kim,['NYU'],1
+Jeffrey Yin,['Maryland'],1
+Jeffrey Xiong,['Columbia'],1
+Jeffrey Gao,['Brown'],1
+Joanna Ding,['Yale'],1
+Joanne Park,['Columbia'],1
+Jayden Clarke,['Columbia'],1
+Joel Shankar,['Dartmouth'],1
+Josh Uy,['Northeastern'],1
+Josh Neudorf,['University of Chicago'],1
+Josh Leffler,['Yale'],1
+Josh Kretchmer,['American'],1
+Josh Kohm,['Harvard'],1
+Josephine Kim,['Princeton'],1
+Josephine Dodge,['University of Chicago'],1
+Joseph Sherma,['Boston University'],1
+Joseph Connell,"[""St. Mary's""]",1
+Jose Luis Ortega Castro,['Harvard'],1
+Jorge Ramirez,['Georgetown'],1
+Jordan Farenhem,['Yale'],1
+Jordan Day,['University of Massachusetts'],1
+Jonathan Perry,['Columbia'],1
+Jonathan Lim,['Yale'],1
+Jonathan Barkat,['Columbia'],1
+Jonah Sah,['Williams'],1
+Jonah Layton,['William and Mary'],1
+Jonah Gatoff,['Boston University'],1
+John Wu,['Penn'],1
+John Powers,['William and Mary'],1
+John Goulandris,['Tufts'],1
+John Fernandez Suarez,['Boston College'],1
+Joey Abragao,['Rutgers'],1
+Joeseph Brennan,['Johns Hopkins'],1
+Jazmin Petty,['Northeastern'],1
+Jay Leeds,['Swarthmore'],1
+Ivan Toh,['Stanford'],1
+James Cunningham,['Boston College'],1
+Jake Love,['University of Pittsburgh'],1
+Jaice Williamson,['American'],1
+Jahangir Suvanbekov,['Bentley University'],1
+Jaewan Park,['University of Chicago'],1
+Jaden Wang,['University of Virginia'],1
+Jaden Stewart,['Princeton'],1
+Jacob Wasinger,['William and Mary'],1
+Jacob Silcoff,['Princeton'],1
+Jacob Kolhof-Sadler,['Columbia'],1
+Jacob Gelman,['Brown'],1
+Jacob Fenster,['Washington University in St. Louis'],1
+Jacob Cao,['Penn'],1
+Jackson Utley,['Rutgers'],1
+Jackson Neme,['Georgetown'],1
+Jackson Cutrone,['Fordham'],1
+Jackie Mier Y Concha,['Boston College'],1
+Jack Wilan,['Tufts'],1
+Jack Vail,['Brown'],1
+Jack Rubin,['Harvard'],1
+Jack Moreland,['Stanford'],1
+Jack Maniscalco,['George Washington'],1
+Jack Kelly,['Yale'],1
+Jack Beery,['Maryland'],1
+J.C. Rhee,['Fordham'],1
+Izzy Coleman,['Yale'],1
+Jake Lowe,['George Washington'],1
+James Eigerman,['CUNY'],1
+Jay Kang,['Princeton'],1
+James Foleno,['Bates'],1
+Jay Garg,['Harvard'],1
+Jay Dorfeuil,['Pace'],1
+Javaria Abbasi,['University of Virginia'],1
+Jason Zhu,['Dartmouth'],1
+Jason Lopez,['Swarthmore'],1
+Jason Fu,['Brown'],1
+Jason Chae,['Penn'],1
+Jasmine Zhang,['Princeton'],1
+Jasmine Lakhdar,['Boston College'],1
+Jarrett Lobb,['Northeastern'],1
+Jared Stone,['American'],1
+Jared Sloan,['Haverford'],1
+Jared Lenn,['University of Chicago'],1
+Janya Kaur,['Brown'],1
+Janul de Silva,['Swarthmore'],1
+Jano Cadiz,['Northwestern'],1
+Janice Lee,['Boston University'],1
+Jane Mentzinger,['Princeton'],1
+Jane Haubrich,['William and Mary'],1
+Jamiyah Bonds,['Maryland'],1
+Jamie Kim,['Columbia'],1
+James Ruzich,['University of Chicago'],1
+James Miller,['Harvard'],1
+James Masson,['Yale'],1
+James Lewis,['Swarthmore'],1
+Josh White,['Dartmouth'],1
+Josh Zakharov,['University of Chicago'],1
+Joshua Hill,['Northeastern'],1
+Kieran Mangla,['William and Mary'],1
+Kibalo Signan,['University of Virginia'],1
+Khylan Stubblefield,['Haverford'],1
+Khuryeon Kim,['Princeton'],1
+Khumoetsile Molefakgotla,['Harvard'],1
+Khoi Dinh,['Fordham'],1
+Khanh Vu,['Wellesley'],1
+Kevin Keys,['Princeton'],1
+Kevin Hao,['Stanford'],1
+Kevin Gu,['Harvard'],1
+Keshav Kapoor,['University of Chicago'],1
+Kensington Spear,['Smith'],1
+Kenn Jiang,['Swarthmore'],1
+Kendra Gladu,['Brandeis'],1
+Kelvin Ortiz,['Columbia'],1
+Kelly Mu,['University of Chicago'],1
+Kellen Hoard,['George Washington'],1
+Keira Chatwin,['Stanford'],1
+Keir Adamson,['Hamilton'],1
+Kaylee Chen,['Yale'],1
+Kayla Chan,['Stanford'],1
+Kaya Panchalingam,['Penn'],1
+Kaveri Krishnamoorthy,['Dartmouth'],1
+Kaushik Kandala,['Northeastern'],1
+Katrina Pickett,['University of Chicago'],1
+Katie Cheng,['Stanford'],1
+Kiera Kohl,['Tufts'],1
+Kiran Savkar,['William and Mary'],1
+Joshua Karouw,['Penn'],1
+Kishka Bol,['Brown'],1
+Leo Morrison,['NYU'],1
+Leo Ferris,['NYU'],1
+Lelu Mayron,['Brown'],1
+Leif Waage-Pickle,['Williams'],1
+Lehv Neustadt,['Lehigh'],1
+Leandro Guevara-Neyra,['Georgetown'],1
+Layne Donovan,['Columbia'],1
+Lawrence Wu,['Northeastern'],1
+Laurenn Vives,['Boston University'],1
+Laura Giugno,['University of Chicago'],1
+Lara Philip,['Washington University in St. Louis'],1
+Landon Pryor,"[""St. Mary's""]",1
+Lana Weiser,['Columbia'],1
+Lacey Jones,['Boston College'],1
+Kyllian Vong,['University of Virginia'],1
+Kylie Berg,['Yale'],1
+Kyler Parker,['Yale'],1
+Kurtis Lee,['Brandeis'],1
+Kristofers Krumins,['Columbia'],1
+Kristen Buckholt,['George Washington'],1
+Korey Candor,['Drexel'],1
+Kondi Phiri,['Johns Hopkins'],1
+Kobi Johnsson,['University of Chicago'],1
+Kivanc Peltek,['Temple'],1
+Kit Roesch,['University of Virginia'],1
+Katie Benson,['Bentley University'],1
+Katie Baughman,['Fordham'],1
+Kathleen McIntyre,['William and Mary'],1
+Katheryne Dwyer,['University of Chicago'],1
+Julien Benchek,['University of Chicago'],1
+Julianna Wottawa,['Fordham'],1
+Julian Melendi,['Yale'],1
+Julian Galaz,['NYU'],1
+Julia Wu,['Yale'],1
+Julia Wayland,['Northeastern'],1
+Julia Shephard,['Harvard'],1
+Julia Schroers,['Wesleyan'],1
+Julia Oles,['Northeastern'],1
+Julia Jean Louis,['Binghamton University'],1
+Julia Cunningham,['George Washington'],1
+Julia Botkin,['Swarthmore'],1
+Julia Bloch,['Northeastern'],1
+Julia Barnett,['Swarthmore'],1
+Julia Advento,['Wesleyan'],1
+Jules Noyd,['American'],1
+Judah Purwanto,['University of Chicago'],1
+Judah Millen,['Yale'],1
+Jubilee Kim,['Hamilton'],1
+Juan Diego Cisneros,['Lehigh'],1
+Joshua Sionov,['CUNY'],1
+Joshua Sampson,['Maryland'],1
+Joshua Park,['Harvard'],1
+Joshua Melamed,['University of Chicago'],1
+Aaraj Vij,['William and Mary'],1
+Justin Black,['Harvard'],1
+Justin Jang,['NYU'],1
+Justin Kahn,['Tufts'],1
+Karthik Tadepalli,['Penn'],1
+Katherine St. George,['Columbia'],1
+Katherine Ottenbreit,['University of Chicago'],1
+Katherine Alford,['Fordham'],1
+Katelyn Keller,['Maryland'],1
+Kate Zhang,['Brown'],1
+Kate Vandehey,['Brandeis'],1
+Kate Keller,['Maryland'],1
+Kate Jones,['Georgetown'],1
+Kate Alexander,['Northeastern'],1
+Kashvi Gera,['Wesleyan'],1
+Kasfia Tasnim,['Bates'],1
+Karthik Palakodeti,['Penn'],1
+Justin Ziering,['Fordham'],1
+Karan Kaushal,['Boston University'],1
+Kanchan Pothireddy,['Boston University'],1
+Kamil Mahmood,['Amherst'],1
+Kaley Alexandre-Burke,['Yale'],1
+Kait Podlich,['Hamilton'],1
+Kaila Frazer,['Smith'],1
+Kai Williams,['Swarthmore'],1
+Kai Teigen,['Stanford'],1
+Kaela Weber,['University of Massachusetts'],1
+Kacey Young,['Swarthmore'],1
+KJ Kniering,['NYU'],1
+Ivy Hu,['Rutgers'],1
+Issa Allison,['Dartmouth'],1
+Donna Zhong,['Swarthmore'],1
+Eva-Marie Quinones,['Yale'],1
+Eva Wang,['Harvard'],1
+Eunsol Do,['Hamilton'],1
+Eunjae Kang,['Swarthmore'],1
+Etta Humes,['Carleton'],1
+Ethan Wilkes,['University of Virginia'],1
+Ethan Tabachneck,['Stony Brook University'],1
+Ethan Roytman,['Penn'],1
+Ethan Jiang,['University of Chicago'],1
+Ethan Henshaw,['Georgetown'],1
+Ethan Fitzgerald,['George Washington'],1
+Ethan Borress,['University of Massachusetts'],1
+Eshaal Ubaid,['Penn'],1
+Ernest Zhang,['Maryland'],1
+Erin Cho,['Wellesley'],1
+Erica Morellli,['University of Massachusetts'],1
+Erica Adler,['Tufts'],1
+Eric Wang,['Northwestern'],1
+Eric Tu,['Yale'],1
+Eric Li,['Columbia'],1
+Eojin Park,['Princeton'],1
+Enshia Li,['Stanford'],1
+Enrique Abud Evereteze,['Boston University'],1
+Enmanuel Castillo,['Columbia'],1
+Emmanuel Caracheo,['Harvard'],1
+Emma Pollock,['William and Mary'],1
+Eva-Mare Quinones,['Yale'],1
+Evan Burkeen,['Yale'],1
+Emma Chang,['Penn'],1
+Evan Epstein,['Harvard'],1
+Flavia Dafku,['CUNY'],1
+Fiona Fu,['Yale'],1
+Fiona Bray,['Princeton'],1
+Finlay Adamson,['Hamilton'],1
+Feyi Adeyemi,['Princeton'],1
+Felix Premrou,['Penn'],1
+Felix Myers,['Yale'],1
+Felix Leonhardt,['Yale'],1
+Felipe Mendonca,['Dartmouth'],1
+Felicity Wong,['Harvard'],1
+Fefe Montalvo,['Yale'],1
+Fayozbek Ochilov,['Bentley University'],1
+Fatima Masood,['Maryland'],1
+Farah Battaineh,['Northeastern'],1
+Faith Duncan,['Yale'],1
+Fahmida Afreen,['Harvard'],1
+Fahim Aseer,['Harvard'],1
+Fabijan Schauer,['George Washington'],1
+Ezzah Tariq,['Boston University'],1
+Evy Gedlinske,['Smith'],1
+Eve Seabourn,['NYU'],1
+Evan Yi,['Stanford'],1
+Evan Wilken,['Northeastern'],1
+Evan Steinberg,['Wesleyan'],1
+Evan Li,['Brown'],1
+Emma Johnston,['Bates'],1
+Emma Blemaster,['Stanford'],1
+Ishan Reese,['Bates'],1
+Eli Zerof,['University of Chicago'],1
+Eli Brinkerhoff,['Washington University in St. Louis'],1
+Eli Boone,['University of Virginia'],1
+Eleni Economakos,['Pace'],1
+Elena Lill,['University of Chicago'],1
+Elena Geroulis,['William and Mary'],1
+Eleanor Harty,['Tufts'],1
+Eleanor Cohen,['Fordham'],1
+Elaine He,['Brown'],1
+Elaine Gao,['Princeton'],1
+Eira Prakash,['Columbia'],1
+Eftychia Christodoulou,['Brown'],1
+Efrain Ortiz,['Northeastern'],1
+Eesha Gupta,['Dartmouth'],1
+Eeman Ahmad,['University of Virginia'],1
+Edward Khatchatrian,['Boston University'],1
+Edward Grinnan,['Lehigh'],1
+Eduardo Fernandez,['Princeton'],1
+Edgar Cheng,['Columbia'],1
+EJ Kang,['Swarthmore'],1
+EJ Hermacinski,['Princeton'],1
+Dylan Tipton,['Columbia'],1
+Dylan Sheehan,['Bates'],1
+Drew Michaeli,['Washington University in St. Louis'],1
+Doris Hado,['University of Chicago'],1
+Donovan Jones,['University of Virginia'],1
+Eli Shirk,['Pace'],1
+Elijah Nepomuceno,['Swarthmore'],1
+Emma Beelner,['William and Mary'],1
+Elise Ko-Davis,['Rutgers'],1
+Emily Xu,['Johns Hopkins'],1
+Emily Tufts,['Tufts'],1
+Emily Tacey,['Penn'],1
+Emily Steirman,['Johns Hopkins'],1
+Emily Shield,['Bates'],1
+Emily Ringel,['Columbia'],1
+Emily Huang,['George Washington'],1
+Emily Han,['Stanford'],1
+Emily Gedlinski,['Smith'],1
+Emily Chen,['Yale'],1
+Emily Caissie,['Brandeis'],1
+Emilio Stuart-Alban,['Columbia'],1
+Emilin Mathew,['Stanford'],1
+Emely Ortiz Ramirez,['Tufts'],1
+Ely Altman,['Yale'],1
+Elva Chen,['Hamilton'],1
+Elliott Mokski,['Harvard'],1
+Elliot Rice,['Carnegie Mellon'],1
+Elliot Akst,['Bowdoin College'],1
+Ellie Rudnick,['Dartmouth'],1
+Ella Gagne,['Northeastern'],1
+Ella Feiner,['Princeton'],1
+Elizabeth Greer,['George Washington'],1
+Elizabeth Esterbrook,['Fordham'],1
+Eliza Morgan,['Swarthmore'],1
+Flo Arnado,['Boston University'],1
+Fowzia Islam,['CUNY'],1
+Francesca Primoli,['Wellesley'],1
+Ian Crowell,['Boston University'],1
+Humaid Saleem,['Harvard'],1
+Hugo Wang,['Hamilton'],1
+Holden Buckley,['Fordham'],1
+Hiya Ray,['Yale'],1
+Hisham Shami,['Maryland'],1
+Hiroko Kawase,['Yale'],1
+Hillary Lee,['Columbia'],1
+Henry Pahlow,['Harvard'],1
+Henry Levinson,['Yale'],1
+Henry Huschke,['University of Chicago'],1
+Henry Gerstein,['George Washington'],1
+Henry Chuang,['Boston University'],1
+Henry Bansbach,['Columbia'],1
+Hemanth Bharatha Chakravarthy,['Harvard'],1
+Helen Chau,['University of Chicago'],1
+Hasini Gunda,['George Washington'],1
+Harrison Carr,['Fordham'],1
+Haotian Pan,['Harvard'],1
+Hannah Owens-Pierre,['Yale'],1
+Hannah Healy,['Columbia'],1
+Hannah Donis,['William and Mary'],1
+Hannah Ditmars,['University of Massachusetts'],1
+Hannah Abubakari,['Northeastern'],1
+Hamilton Henderson,['Yale'],1
+Haley Son,['Penn'],1
+Hunter Haynes,['Harvard'],1
+Ian Jones,['Pace'],1
+Frank Lin,['Yale'],1
+Ian Paz,['Swarthmore'],1
+Ishan Maunder,['University of Chicago'],1
+Ishan Bhatt,['Harvard'],1
+Ishaan Goel,['University of Chicago'],1
+Isha Chilukuri,['Penn'],1
+Isabelle Qi,['Wellesley'],1
+Isabelle Agarwal,['Harvard'],1
+Isabella Avina,['Georgetown'],1
+Isabel Irvine,['NYU'],1
+Isaac Halpern,['Harvard'],1
+Isaac Appelbaum,['George Washington'],1
+Iris Lee,['Brown'],1
+Iris Hwang,['University of Virginia'],1
+Ioannis Kyriakou,['University of Delaware'],1
+Inseo Choi,['Yale'],1
+Inko Bovenzi,['Harvard'],1
+India Myers,['University of Delaware'],1
+Ina Rahalkar,['University of Massachusetts'],1
+Imran Gilani,['Georgetown'],1
+Iman Najib,['Williams'],1
+Imaan Ali,['Washington University in St. Louis'],1
+Ilse Ramon Lopez,['Georgetown'],1
+Ike Smalley,['Carleton'],1
+Ibithal Gassem,['Lehigh'],1
+Ian Taylor,['University of Delaware'],1
+Ian Scholes,['Washington University in St. Louis'],1
+Hailey Stone,['Brown'],1
+Hailey Sherrell,['University of Virginia'],1
+Gui Bejar,['MIT'],1
+Grishma Baruah,['William and Mary'],1
+Gaurav Gawankar,['George Washington'],1
+Garrett Brand,['Brown'],1
+Ganesh Nair,['Stanford'],1
+Gaeun Kim,['Stanford'],1
+Gaby Goldberg,['William and Mary'],1
+Gabrielle Kraft,['Smith'],1
+Gabriella Miller,['Amherst'],1
+Gabriella Athanasiou,['Northeastern'],1
+Gabriela Ogando,['Columbia'],1
+Gabriel Sims,['University of Virginia'],1
+Gabriel Lomonaco,['Fordham'],1
+Gabriel Clisham,['University of Chicago'],1
+Gabriel Burr,['Boston University'],1
+Gabi Cunningham,['Georgetown'],1
+Gabe Seidman,['Carleton'],1
+Gabe Ritter,['Brown'],1
+Gabe Gucanac,['Boston University'],1
+Gabby Trevino,['Swarthmore'],1
+Gabby Pavlakis,['Temple'],1
+Gabby Miller,['Amherst'],1
+Fuqin Lian,['Williams'],1
+Fruzsina Roka,['Harvard'],1
+Franklyn Yang,['Brown'],1
+Frank Shau,['Stony Brook University'],1
+Frank Percaccio,['Lehigh'],1
+Gaven Green,['Swarthmore'],1
+Gavin An,['University of Chicago'],1
+Geneva Wearren,['University of Virginia'],1
+Grace Lee,['Wesleyan'],1
+Griffin Hoeschele,['University of Massachusetts'],1
+Greta Batchelor,['Dartmouth'],1
+Greg Weaving,['Princeton'],1
+Greg Schwartz,['Yale'],1
+Greg Gentile,['Bates'],1
+Grant Goco,['Washington University in St. Louis'],1
+Graham Hansen,['University of Chicago'],1
+Grady Martin,['University of Virginia'],1
+Grace Ye,['Georgetown'],1
+Grace Wen,['Wellesley'],1
+Grace Protasiewicz,['Columbia'],1
+Grace Flynn,['Columbia'],1
+Genevieve Cox,['Princeton'],1
+Grace Cowell,['Northeastern'],1
+Golan Altman-Shafer,['Brandeis'],1
+Glen Marques,['Johns Hopkins'],1
+Giuseppe DiMassa,['Yale'],1
+Giselle Paulson,['Harvard'],1
+Ginger Schiffmayer,['Grove City College'],1
+Gillian Zipursky,['Swarthmore'],1
+Gilbert Yang,['Columbia'],1
+Gia Iyer,['George Washington'],1
+Gerson Personnat,['Yale'],1
+Georgie Javier,['Fordham'],1
+Zubair Mahedavi,['University of Virginia'],1
