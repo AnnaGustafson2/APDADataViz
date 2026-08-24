@@ -36,14 +36,14 @@ Brown,Spring,2026,92.0,Spring 2026
 Brown + Wesleyan,Fall,2023,122.0,Fall 2023
 CUNY,Fall,2019,73.0,Fall 2019
 CUNY,Spring,2020,83.0,Spring 2020
-CUNY + Maryland,Fall,2020,48.0,Fall 2020
+CUNY + Maryland,Fall,2020,48.0,
 Carnegie Mellon,Fall,2024,29.0,Fall 2024
 Carnegie Mellon,Fall,2025,34.0,Fall 2025
 Carnegie Mellon,Spring,2020,58.0,Spring 2020
 Carnegie Mellon,Spring,2021,54.0,Spring 2021
 Carnegie Mellon,Spring,2023,38.0,Spring 2023
 Carnegie Mellon,Spring,2026,44.0,Spring 2026
-Columbia,Fall,2020,29.0,Fall 2020
+Columbia,Fall,2020,29.0,
 Columbia,Fall,2022,205.0,Fall 2022
 Columbia,Fall,2023,131.0,Fall 2023
 Columbia,Fall,2024,113.0,Fall 2024
@@ -80,7 +80,7 @@ Harvard,Fall,2025,272.0,Fall 2025
 Johns Hopkins,Fall,2019,121.0,Fall 2019
 Johns Hopkins,Fall,2022,81.0,Fall 2022
 Johns Hopkins,Fall,2024,65.0,Fall 2024
-Johns Hopkins,Fall,2025,105.0,Fall 2025
+Johns Hopkins,Fall,2025,87.0,Fall 2025
 Johns Hopkins,Spring,2024,70.0,Spring 2024
 Johns Hopkins,Spring,2025,29.0,Spring 2025
 Johns Hopkins + American,Fall,2021,40.0,Fall 2021
@@ -115,7 +115,7 @@ Princeton,Spring,2025,261.0,Spring 2025
 Princeton,Spring,2026,204.0,Spring 2026
 Princeton + Northeastern + Bates,Spring,2021,128.0,Spring 2021
 Rutgers,Spring,2020,204.0,Spring 2020
-Rutgers,Spring,2024,6.0,Spring 2024
+Rutgers,Spring,2024,130.0,Spring 2024
 Rutgers,Spring,2026,108.0,Spring 2026
 Smith,Fall,2019,95.0,Fall 2019
 Smith,Fall,2022,26.0,Fall 2022
@@ -137,7 +137,7 @@ The College of New Jersey,Fall,2019,50.0,Fall 2019
 The College of New Jersey,Spring,2023,39.0,Spring 2023
 Tufts,Fall,2025,76.0,Fall 2025
 Tufts,Spring,2020,175.0,Spring 2020
-Tufts,Spring,2025,1.0,Spring 2025
+Tufts,Spring,2025,115.0,Spring 2025
 University of Chicago,Spring,2023,45.0,Spring 2023
 University of Chicago,Spring,2025,89.0,Spring 2025
 University of Chicago + Northeastern,Spring,2021,62.0,Spring 2021
@@ -158,7 +158,7 @@ University of Virginia,Spring,2022,55.0,Spring 2022
 University of Virginia,Spring,2023,37.0,Spring 2023
 University of Virginia,Spring,2024,37.0,Spring 2024
 University of Virginia,Spring,2026,50.0,Spring 2026
-University of Virginia + Wellesley,Fall,2020,54.0,Fall 2020
+University of Virginia + Wellesley,Fall,2020,54.0,
 Villanova,Fall,2019,76.0,Fall 2019
 Washington University,Spring,2022,17.0,Spring 2022
 Wellesley,Fall,2019,65.0,Fall 2019
@@ -186,59 +186,57 @@ Yale,Spring,2024,143.0,Spring 2024
 Yale,Spring,2025,114.0,Spring 2025
 Yale,Spring,2026,106.0,Spring 2026
 Fordham,Fall,2019,,Fall 2019
-UVA,Fall,2019,,Fall 2019
-Columbia,Fall,2019,,Fall 2019
-Georgetown,Spring,2020,,Spring 2020
-Williams,Spring,2020,,Spring 2020
-Harvard,Fall,2020,,Fall 2020
-Swarthmore,Fall,2020,,Fall 2020
-Swarthmore,Spring,2021,,Spring 2021
-Brandeis,Spring,2021,,Spring 2021
-William and Mary,Spring,2021,,Spring 2021
-Georgetown,Spring,2021,,Spring 2021
-Yale,Spring,2021,,Spring 2021
-Brown,Fall,2021,,Fall 2021
-Brown,Spring,2022,,Spring 2022
-Princeton,Spring,2022,,Spring 2022
-Yale,Spring,2022,,Spring 2022
-Rutgers,Spring,2022,,Spring 2022
-Williams,Spring,2022,,Spring 2022
-Dartmouth,Spring,2022,,Spring 2022
-Brown,Fall,2022,,Fall 2022
+University of Virginia,Fall,2019,54.0,Fall 2019
+Columbia,Fall,2019,240.0,Fall 2019
+Georgetown,Spring,2020,162.0,Spring 2020
+Williams,Spring,2020,54.0,Spring 2020
+Harvard/Pitt,Fall,2020,,
+Swarthmore,Spring,2021,103.0,Spring 2021
+Brandeis,Spring,2021,59.0,Spring 2021
+William and Mary/CUNY/Stanford,Spring,2021,,Spring 2021
+Georgetown/Williams,Spring,2021,74.0,Spring 2021
+Yale,Spring,2021,118.0,Spring 2021
+Brown,Fall,2021,54.0,Fall 2021
+Brown,Spring,2022,64.0,Spring 2022
+Princeton,Spring,2022,103.0,Spring 2022
+Yale,Spring,2022,89.0,Spring 2022
+Rutgers,Spring,2022,59.0,Spring 2022
+Williams,Spring,2022,59.0,Spring 2022
+Brown,Fall,2022,137.0,Fall 2022
+Tufts,Fall,2022,113.0,Fall 2022
+Harvard,Fall,2022,206.0,Fall 2022
+Hopkins,Spring,2023,30.0,Spring 2023
+Brandeis,Spring,2023,40.0,Spring 2023
+Rutgers,Spring,2023,167.0,Spring 2023
+Penn,Spring,2023,79.0,Spring 2023
+Williams,Spring,2023,45.0,Spring 2023
+University of Chicago,Spring,2023,45.0,Spring 2023
+Brandeis,Fall,2023,45.0,Fall 2023
+Harvard,Fall,2023,274.0,Fall 2023
+Brandeis,Spring,2024,59.0,Spring 2024
+Tufts,Spring,2024,113.0,Spring 2024
+Harvard,Fall,2024,299.0,Fall 2024
+Tufts,Fall,2024,123.0,Fall 2024
+Rutgers,Spring,2025,108.0,Spring 2025
+Brandeis,Fall,2025,40.0,Fall 2025
+Penn,Spring,2025,157.0,Spring 2025
+Drexel,Fall,2025,54.0,Fall 2025
+Bates,Fall,2025,59.0,Fall 2025
+Binghamton,Fall,2024,30.0,Fall 2024
+Amherst,Spring,2024,64.0,Spring 2024
+Amherst,Spring,2025,98.0,Spring 2025
+American,Fall,2025,,Fall 2025
+Temple,Spring,2026,128.0,Spring 2026
+UT Austin,Spring,2025,,Spring 2025
+Swarthmore,Fall,2023,59.0,Fall 2023
+University of Virginia,Spring,2025,89.0,Spring 2025
+Dartmouth,Spring,2025,,Spring 2025
+Brown,Fall,2024,250.0,Fall 2024
+University of Massachusetts,Spring,2024,40.0,Spring 2024
+NYU,Spring,2024,74.0,Spring 2024
+Windsor,Spring,2024,64.0,Spring 2024
+University of Massachusetts,Spring,2023,59.0,Spring 2023
+Rutgers,Fall,2022,,Fall 2022
+Dartmouth,Spring,2022,59.0,Spring 2022
 Yale,Fall,2022,,Fall 2022
 Williams,Fall,2022,,Fall 2022
-Tufts,Fall,2022,,Fall 2022
-Harvard,Fall,2022,,Fall 2022
-Rutgers,Fall,2022,,Fall 2022
-Hopkins,Spring,2023,,Spring 2023
-Brandeis,Spring,2023,,Spring 2023
-Rutgers,Spring,2023,,Spring 2023
-Penn,Spring,2023,,Spring 2023
-Williams,Spring,2023,,Spring 2023
-University of Chicago,Spring,2023,,Spring 2023
-University of Massachusetts,Spring,2023,,Spring 2023
-Hopkins,Fall,2023,,Fall 2023
-Swarthmore,Fall,2023,,Fall 2023
-Brandeis,Fall,2023,,Fall 2023
-Harvard,Fall,2023,,Fall 2023
-Amherst,Spring,2024,,Spring 2024
-University of Massachusetts,Spring,2024,,Spring 2024
-Brandeis,Spring,2024,,Spring 2024
-NYU,Spring,2024,,Spring 2024
-Windsor,Spring,2024,,Spring 2024
-Tufts,Spring,2024,,Spring 2024
-Harvard,Fall,2024,,Fall 2024
-Binghamton,Fall,2024,,Fall 2024
-Tufts,Fall,2024,,Fall 2024
-Brown,Fall,2024,,Fall 2024
-Rutgers,Spring,2025,,Spring 2025
-Amherst,Spring,2025,,Spring 2025
-Penn,Spring,2025,,Spring 2025
-UVA,Spring,2025,,Spring 2025
-Dartmouth,Spring,2025,,Spring 2025
-UT Austin,Spring,2025,,Spring 2025
-Drexel,Fall,2025,,Fall 2025
-Brandeis,Fall,2025,,Fall 2025
-Bates,Fall,2025,,Fall 2025
-American,Fall,2025,,Fall 2025
-Temple,Spring,2026,,Spring 2026
