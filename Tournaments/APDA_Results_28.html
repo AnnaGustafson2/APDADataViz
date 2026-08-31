@@ -1,0 +1,1432 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+    <head>
+        
+        <script src="/static/webpack_bundles/main-705a26e5c1f1040c6ce6.js" ></script>
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+        
+        
+        <link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon">
+        <link rel="manifest" href="/.well-known/ai-plugin.json">
+        <meta name="llm:manifest" content="/.well-known/ai-plugin.json">
+        <meta name="llm:openapi" content="/.well-known/openapi.json">
+        
+        <title>
+            
+                APDA Results
+            
+        </title>
+    </head>
+    <body>
+        
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
+    <a class="navbar-brand font-weight-bold" href="/">APDA Standings</a>
+    <button class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            
+            
+                
+                    <li class="nav-item dropdown active mx-1">
+                        <a class="nav-link dropdown-toggle"
+                           href="#"
+                           role="button"
+                           data-toggle="dropdown"
+                           aria-haspopup="true"
+                           aria-expanded="false">
+                           Results
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right shadow-lg border-0 rounded-lg mt-2">
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/core/schools/">Schools</a>
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/core/debaters/">Debaters</a>
+                            
+                                <a class="dropdown-item active py-2"
+                                   href="/core/tournaments/">Tournaments</a>
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/core/teams/">Teams</a>
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/stats/">Stats</a>
+                            
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="nav-item dropdown  mx-1">
+                        <a class="nav-link dropdown-toggle"
+                           href="#"
+                           role="button"
+                           data-toggle="dropdown"
+                           aria-haspopup="true"
+                           aria-expanded="false">
+                           Resources
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right shadow-lg border-0 rounded-lg mt-2">
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/core/videos/">Videos</a>
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/core/motions/">Motions</a>
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/core/schedules/">Schedule</a>
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/core/resources/">Resource Database</a>
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/core/dino-judges/">Judge Database</a>
+                            
+                                <a class="dropdown-item  py-2"
+                                   href="/core/dino-tos/">TO Database</a>
+                            
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="nav-item   mx-1">
+                        <a class="nav-link" href="http://apda.online">apda.online</a>
+                    </li>
+                
+            
+                
+                    <li class="nav-item   mx-1">
+                        <a class="nav-link" href="/auth/login/">Login</a>
+                    </li>
+                
+            
+        </ul>
+
+        <form class="form-inline my-2 my-lg-0" method="GET" action="/search">
+            <div class="input-group">
+                <input class="form-control rounded border-0 px-3 mr-sm-2"
+                       type="search"
+                       placeholder="Debater Search"
+                       aria-label="Search"
+                       name="q"
+                       value=""
+                       id="debater-search-input">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-light rounded px-3" type="submit">Search</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</nav>
+
+        <div class="container-fluid">
+            
+    <div class="row mt-lg-5 ml-lg-2 mr-lg-2 mb-lg-5 m-1">
+        <div class="col-lg-3">
+            
+            
+            <div class="rounded-l5 shadow-lg card m-2 ">
+                <div class="card-body">
+                    <h5 class="card-title">Search</h5>
+                    <form action="" method="GET">
+                        
+                        
+
+<div id="div_id_id" class="form-group"> <label for="id_id" class="">
+                ID
+            </label> <div> <input type="number" name="id" step="any" class="numberinput form-control" id="id_id"> </div> </div> <div id="div_id_name__icontains" class="form-group"> <label for="id_name__icontains" class="">
+                Name contains
+            </label> <div> <input type="text" name="name__icontains" class="textinput textInput form-control" id="id_name__icontains"> </div> </div> <div id="div_id_qual_type" class="form-group"> <label for="id_qual_type" class="">
+                Tournament Type
+            </label> <div> <select name="qual_type" class="select form-control" id="id_qual_type"> <option value="" selected>---------</option> <option value="0">Regular (Points)</option> <option value="1">Brandeis IV</option> <option value="2">Yale IV</option> <option value="3">NorthAms</option> <option value="4">Expansion</option> <option value="5">Worlds</option> <option value="6">NAUDC</option> <option value="7">ProAms</option> <option value="8">Nationals</option> <option value="9">Novice</option> <option value="10">Gender Minority</option> <option value="15">BIPOC</option> <option value="11">Online No Points</option> <option value="12">Online Points</option> <option value="13">Online Proams Points</option> <option value="14">Online Gender Minority Points</option>
+
+</select> </div> </div> <div id="div_id_season" class="form-group"> <label for="id_season" class="">
+                Season
+            </label> <div> <select name="season" class="select form-control" id="id_season"> <option value="" selected>Any Season</option> <option value="2025">2025-26</option> <option value="2024">2024-25</option> <option value="2023">2023-24</option> <option value="2022">2022-23</option> <option value="2021">2021-22</option> <option value="2020">2020-21</option> <option value="2019">2019-20</option> <option value="2018">2018-19</option> <option value="2017">2017-18</option> <option value="2016">2016-17</option> <option value="2015">2015-16</option> <option value="2014">2014-15</option> <option value="2013">2013-14</option> <option value="2012">2012-13</option> <option value="2011">2011-12</option> <option value="2010">2010-11</option> <option value="2009">2009-10</option> <option value="2008">2008-09</option> <option value="2007">2007-08</option> <option value="2006">2006-07</option> <option value="2005">2005-06</option> <option value="2004">2004-05</option>
+
+</select> </div> </div>
+
+                        <div class="d-flex align-items-center">
+                            <input type="submit" class="btn btn-info" value="Search">
+                            
+                            
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-9">
+            <div class="shadow-lg card m-2 rounded-l5">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        
+    Tournaments
+
+                        
+    
+        
+    
+
+    
+        
+    
+
+
+                    </h5>
+                    
+
+    <div class="table-container">
+        
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    
+                        
+                            <thead >
+                                <tr>
+                                    
+                                        <th class="orderable">
+                                            
+                                                <a href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=28&amp;sort=id">
+                                                    ID
+                                                    
+                                                </a>
+                                            
+                                        </th>
+                                    
+                                        <th class="orderable">
+                                            
+                                                <a href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=28&amp;sort=name">
+                                                    Name
+                                                    
+                                                </a>
+                                            
+                                        </th>
+                                    
+                                        <th class="orderable">
+                                            
+                                                <a href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=28&amp;sort=date">
+                                                    Date
+                                                    
+                                                </a>
+                                            
+                                        </th>
+                                    
+                                        <th class="orderable">
+                                            
+                                                <a href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=28&amp;sort=season_display">
+                                                    Season
+                                                    
+                                                </a>
+                                            
+                                        </th>
+                                    
+                                        <th class="orderable">
+                                            
+                                                <a href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=28&amp;sort=num_teams">
+                                                    Teams
+                                                    
+                                                </a>
+                                            
+                                        </th>
+                                    
+                                        <th class="orderable">
+                                            
+                                                <a href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=28&amp;sort=num_novice_debaters">
+                                                    Novice Debaters
+                                                    
+                                                </a>
+                                            
+                                        </th>
+                                    
+                                </tr>
+                            </thead>
+                        
+                    
+                    
+                        <tbody >
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/384">384</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/384">Cornell</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    04/06/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    25
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    29
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/383">383</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/383">Catholic University</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/30/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    31
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    38
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/382">382</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/382">University of Chicago</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/30/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    40
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    62
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/381">381</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/381">Swarthmore</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/30/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    48
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    53
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/380">380</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/380">Boston University</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/23/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    82
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    84
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/379">379</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/379">William and Mary II</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/16/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    28
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    21
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/378">378</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/378">MIT</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/16/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    56
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    56
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/377">377</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/377">Franklin and Marshall</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/09/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    28
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    35
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/376">376</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/376">Bates</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/09/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    24
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    19
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/375">375</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/375">West Point</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/02/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    54
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    74
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/374">374</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/374">Providence College</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    03/02/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    46
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    42
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/373">373</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/373">UConn</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    02/24/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    39
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    36
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/372">372</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/372">Princeton</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    02/24/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    79
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    90
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/371">371</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/371">Rutgers</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    02/17/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    81
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    78
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/370">370</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/370">The College of New Jersey</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    02/10/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    33
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    39
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/369">369</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/369">Brandeis</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    02/10/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    79
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    81
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/368">368</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/368">Bryn Mawr</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    02/03/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    28
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    32
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/367">367</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/367">NYU</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    02/03/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    117
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    116
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/366">366</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/366">Hart House NorthAms</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    01/27/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    64
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    0
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/365">365</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/365">Stanford</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    01/20/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    40
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    31
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/364">364</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/364">Dartmouth</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    01/13/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    57
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    51
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/363">363</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/363">Middlebury</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    04/06/2012
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    27
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    31
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/362">362</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/362">Tufts</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    12/02/2011
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    71
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    56
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="odd">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/361">361</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/361">UMBC</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    12/02/2011
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    29
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    34
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                                
+                                    <tr class="even">
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/360">360</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    <a href="/core/tournaments/360">Wesleyan</a>
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    11/18/2011
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    2011-12
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    23
+                                                
+                                            </td>
+                                        
+                                            <td >
+                                                
+                                                    27
+                                                
+                                            </td>
+                                        
+                                    </tr>
+                                
+                            
+                        </tbody>
+                    
+                    
+                        
+                    
+                </table>
+            </div>
+        
+        
+            
+                <nav aria-label="Table navigation">
+                    <ul class="pagination justify-content-left">
+                        
+                            
+                                <li class="previous page-item">
+                                    <a href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=27"
+                                       class="page-link">
+                                        <span aria-hidden="true">&laquo;</span>
+                                    </a>
+                                </li>
+                            
+                        
+                        
+                            
+                                
+                                    <li class="page-item">
+                                        <a class="page-link"
+                                           href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=1">
+                                            1
+                                        </a>
+                                    </li>
+                                
+                                    <li class="page-item">
+                                        <a class="page-link"
+                                           >
+                                            ...
+                                        </a>
+                                    </li>
+                                
+                                    <li class="page-item">
+                                        <a class="page-link"
+                                           href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=25">
+                                            25
+                                        </a>
+                                    </li>
+                                
+                                    <li class="page-item">
+                                        <a class="page-link"
+                                           href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=26">
+                                            26
+                                        </a>
+                                    </li>
+                                
+                                    <li class="page-item">
+                                        <a class="page-link"
+                                           href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=27">
+                                            27
+                                        </a>
+                                    </li>
+                                
+                                    <li class="page-item active">
+                                        <a class="page-link"
+                                           href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=28">
+                                            28
+                                        </a>
+                                    </li>
+                                
+                                    <li class="page-item">
+                                        <a class="page-link"
+                                           href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=29">
+                                            29
+                                        </a>
+                                    </li>
+                                
+                                    <li class="page-item">
+                                        <a class="page-link"
+                                           href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=30">
+                                            30
+                                        </a>
+                                    </li>
+                                
+                                    <li class="page-item">
+                                        <a class="page-link"
+                                           >
+                                            ...
+                                        </a>
+                                    </li>
+                                
+                                    <li class="page-item">
+                                        <a class="page-link"
+                                           href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=41">
+                                            41
+                                        </a>
+                                    </li>
+                                
+                            
+                        
+                        
+                            
+                                <li class="next page-item">
+                                    <a href="?id=&amp;name__icontains=&amp;qual_type=&amp;season=&amp;page=29"
+                                       class="page-link">
+                                        <span aria-hidden="true">&raquo;</span>
+                                    </a>
+                                </li>
+                            
+                        
+                    </ul>
+                </nav>
+            
+        
+    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+        </div>
+    <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon='{"version":"2024.11.0","token":"e378a09b22ba466482d9ff9ee091ef76","r":1}' crossorigin="anonymous"></script>
+</body>
+</html>
