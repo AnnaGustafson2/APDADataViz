@@ -1,4 +1,4 @@
-Name,Candidate Match,School,Candidate School,Initial Year Seen,Candidate Initial Year,Final Year Seen,Candidate Final Year,Rank,Distance
+name,candidate_match,school,candidate_school,initial_year_seen,candidate_initial_year,final_year_seen,candidate_final_year,rank,distance
 *removed *,Drew Mesek,American,American,2018,2017,2018,2017,1,7
 *removed *,Drew Meseck,American,American,2018,2017,2018,2017,9,8
 Aarushi Sahejpal,Aaron Rajput,American,American,2018,2021,2018,2022,3,9

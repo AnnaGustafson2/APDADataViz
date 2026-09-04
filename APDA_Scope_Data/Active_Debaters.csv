@@ -1,4 +1,4 @@
-Debater,School,Initial_Year_Seen,Final_Year_Seen
+debater,school,initial_year_seen,final_year_seen
 Aaron Rajput,American,2021,2024
 Aarushi Sahejpal,American,2019,2019
 Akash Shivakumaar,American,2024,2026
@@ -704,7 +704,7 @@ Sophia Seyer,Fordham,2025,2025
 Trey Rodriguez,Fordham,2024,2026
 Vinny Kazz,Fordham,2022,2026
 Wes McGovern,Fordham,2024,2025
-Matthew Rohn,FranklinandMarshall,2020,2020
+Matthew Rohn,Franklin and Marshall,2020,2020
 Abigail Hill,Georgetown,2023,2026
 Aidan Gahr,Georgetown,2025,2025
 Aidan Gillies,Georgetown,2022,2024
@@ -1138,8 +1138,6 @@ Jullian Chanda,Haverford,2023,2024
 Lex Jiganti,Haverford,2019,2020
 Sarah Weill-Jones,Haverford,2023,2024
 Tarin Martinez,Haverford,2019,2019
-Lamia Nur Rahman,HWS,2023,2023
-Sandeep Tissaaratchy,HWS,2023,2023
 Sarim Karim,Hobart and William Smith,2021,2021
 Sreyan Kanungo,Hobart and William Smith,2021,2021
 Alexander Chang,Johns Hopkins,2019,2022
@@ -2768,8 +2766,8 @@ Germalysa Ferrer,Princeton,2019,2019
 Gabriel Mock,University of Massachusetts,2023,2023
 Ellie Park,Boston University,2025,2025
 Eleni Antoniades,Haverford,2024,2024
-Dylan Greenspan,Binghamton,2019,2019
-Daniel Coughlin,Binghamton,2019,2019
+Dylan Greenspan,Binghamton University,2019,2019
+Daniel Coughlin,Binghamton University,2019,2019
 Avina Sharma,Rutgers,2022,2023
 Jonathan Morse,University of Massachusetts,2020,2020
 Kevin Hammill,Fordham,2022,2023
@@ -2790,7 +2788,7 @@ Michael Hoffman,George Washington,2024,2024
 Michael Okpoti,Boston University,2023,2023
 Pranav Sundar,Haverford,2024,2024
 Reece Danzis,Rutgers,2022,2023
-Ronnie Hokett,Binghamton,2020,2020
+Ronnie Hokett,Binghamton University,2020,2020
 Sam Brown,Rutgers,2022,2022
 Sefat Uddin Samee,Tufts,2023,2023
 Jay Mathur,Maryland,2023,2023
@@ -2856,10 +2854,10 @@ Hamza Kalim,Bates,2019,2020
 Billy Donoso,Tufts,2020,2020
 Blake Lukens,Bentley University,2024,2024
 Caitlin Han,Tufts,2021,2021
-Chelsea Lugat,Binghamton,2020,2020
+Chelsea Lugat,Binghamton University,2020,2020
 Christopher Chiu,Villanova,2023,2023
 David Choi,Penn,2019,2019
-David Timmerman,Binghamton,2019,2019
+David Timmerman,Binghamton University,2019,2019
 Destiny Eversole,Wellesley,2023,2023
 Diyor Kamolov,Columbia,2023,2023
 Drew Bennison,University of Virginia,2019,2019
@@ -2908,7 +2906,7 @@ Shayan Reza,University of Massachusetts,2019,2019
 Serkute Abebe,Columbia,2022,2022
 Seha Karabacak,Tufts,2021,2021
 Santosh Gontla,Davidson,2026,2026
-Sam Wing,Binghamton,2020,2020
+Sam Wing,Binghamton University,2020,2020
 Sam Hano,University of Massachusetts,2022,2022
 Sal Conte,Bentley University,2024,2024
 Ruhaan Chopra,Fordham,2023,2023
@@ -3728,6 +3726,6 @@ Lindsey Greenberg,Northeastern,2021,2023
 Lindsay Khalluf,Georgetown,2022,2022
 Lily Siru,Haverford,2023,2023
 Lily Li,Haverford,2020,2020
-Liam Rosario,Binghamton,2019,2019
+Liam Rosario,Binghamton University,2019,2019
 Liam Bloom,Wesleyan,2023,2023
 Lemuel Yu,Boston University,2022,2023

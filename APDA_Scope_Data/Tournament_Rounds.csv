@@ -1,4 +1,4 @@
-Tournament,Season,Year,Total_Rounds,Semester
+tournament,season,year,total_rounds,semester
 Maryland,Fall,2019,120.0,Fall 2019
 Tufts,Spring,2020,175.0,Spring 2020
 Amherst,Spring,2021,45.0,Spring 2021
@@ -12,21 +12,39 @@ Maryland,Spring,2024,37.0,Spring 2024
 Brown,Fall,2025,178.0,Fall 2025
 American,Spring,2026,96.0,Spring 2026
 Carnegie Mellon,Spring,2026,44.0,Spring 2026
-Yale,Spring,2020,214.0,Spring 2020
-Wesleyan + The College of New Jersey,Spring,2021,27.0,Spring 2021
-Maryland,Fall,2022,40.0,Fall 2022
-Brandeis,Spring,2022,82.0,Spring 2022
-Wesleyan,Spring,2022,49.0,Spring 2022
-Georgetown,Fall,2022,55.0,Fall 2022
-Columbia,Fall,2023,131.0,Fall 2023
-Carnegie Mellon,Spring,2023,38.0,Spring 2023
-Wellesley,Spring,2023,75.0,Spring 2023
-Princeton,Spring,2024,216.0,Spring 2024
-Carnegie Mellon,Fall,2025,34.0,Fall 2025
-Johns Hopkins,Spring,2025,29.0,Spring 2025
-Wellesley,Spring,2025,37.0,Spring 2025
-American,Spring,2025,83.0,Spring 2025
-Northeastern,Spring,2026,128.0,Spring 2026
+Smith,Fall,2019,95.0,Fall 2019
+George Washington,Fall,2019,112.0,Fall 2019
+Brown,Fall,2019,159.0,Fall 2019
+Columbia,Fall,2022,205.0,Fall 2022
+Wellesley,Spring,2022,49.0,Spring 2022
+Georgetown,Fall,2023,60.0,Fall 2023
+Maryland,Fall,2023,67.0,Fall 2023
+Wesleyan,Spring,2023,60.0,Spring 2023
+University of Virginia,Spring,2024,37.0,Spring 2024
+Georgetown,Spring,2024,93.0,Spring 2024
+Brown,Spring,2026,92.0,Spring 2026
+Amherst,Fall,2019,131.0,Fall 2019
+George Washington,Fall,2022,137.0,Fall 2022
+Northeastern,Spring,2022,136.0,Spring 2022
+Smith,Fall,2022,26.0,Fall 2022
+Boston,Fall,2023,238.0,Fall 2023
+Northeastern,Fall,2023,195.0,Fall 2023
+Brown,Spring,2023,76.0,Spring 2023
+William and Mary,Spring,2024,36.0,Spring 2024
+Temple,Spring,2024,82.0,Spring 2024
+Boston,Fall,2025,250.0,Fall 2025
+Brown,Spring,2025,98.0,Spring 2025
+Brandeis,Spring,2026,132.0,Spring 2026
+William and Mary,Fall,2021,35.0,Fall 2021
+Wellesley,Fall,2022,44.0,Fall 2022
+William and Mary,Spring,2022,35.0,Spring 2022
+Maryland,Spring,2023,30.0,Spring 2023
+Brown,Fall,2024,116.0,Fall 2024
+George Washington,Fall,2024,142.0,Fall 2024
+Northeastern,Spring,2024,45.0,Spring 2024
+Maryland,Spring,2025,58.0,Spring 2025
+Drexel,Spring,2026,59.0,Spring 2026
+Princeton,Spring,2026,204.0,Spring 2026
 American,Fall,2019,227.0,Fall 2019
 The College of New Jersey,Fall,2019,50.0,Fall 2019
 CUNY,Fall,2019,73.0,Fall 2019
@@ -42,6 +60,29 @@ Maryland,Fall,2024,41.0,Fall 2024
 Georgetown,Spring,2025,49.0,Spring 2025
 Amherst,Spring,2026,146.0,Spring 2026
 University of Massachusetts + Amherst,Spring,2026,55.0,Spring 2026
+University of Pittsburgh,Fall,2024,38.0,Fall 2024
+Penn,Spring,2024,99.0,Spring 2024
+Harvard,Fall,2025,272.0,Fall 2025
+Swarthmore,Fall,2025,42.0,Fall 2025
+Swarthmore,Spring,2026,72.0,Spring 2026
+George Washington,Spring,2026,98.0,Spring 2026
+University of Delaware,Spring,2026,34.0,Spring 2026
+Rutgers,Spring,2026,108.0,Spring 2026
+Yale,Spring,2020,214.0,Spring 2020
+Wesleyan + The College of New Jersey,Spring,2021,27.0,Spring 2021
+Maryland,Fall,2022,40.0,Fall 2022
+Brandeis,Spring,2022,82.0,Spring 2022
+Wesleyan,Spring,2022,49.0,Spring 2022
+Georgetown,Fall,2022,55.0,Fall 2022
+Columbia,Fall,2023,131.0,Fall 2023
+Carnegie Mellon,Spring,2023,38.0,Spring 2023
+Wellesley,Spring,2023,75.0,Spring 2023
+Princeton,Spring,2024,216.0,Spring 2024
+Carnegie Mellon,Fall,2025,34.0,Fall 2025
+Johns Hopkins,Spring,2025,29.0,Spring 2025
+Wellesley,Spring,2025,37.0,Spring 2025
+American,Spring,2025,83.0,Spring 2025
+Northeastern,Spring,2026,128.0,Spring 2026
 University of Virginia + Wellesley,Fall,2020,54.0,Fall 2020
 Brandeis,Fall,2022,54.0,Fall 2022
 University of Pittsburgh + Carnegie Mellon,Spring,2022,35.0,Spring 2022
@@ -55,6 +96,20 @@ William and Mary,Spring,2025,43.0,Spring 2025
 University of Massachusetts + Amherst,Spring,2025,94.0,Spring 2025
 Georgetown,Spring,2026,114.0,Spring 2026
 University of Virginia,Spring,2026,50.0,Spring 2026
+Swarthmore,Fall,2019,178.0,Fall 2019
+Swarthmore,Spring,2022,96.0,Spring 2022
+NYU,Spring,2022,52.0,Spring 2022
+George Washington,Spring,2022,50.0,Spring 2022
+University of Virginia,Fall,2023,52.0,Fall 2023
+Fordham,Fall,2024,175.0,Fall 2024
+Wesleyan,Fall,2024,54.0,Fall 2024
+Yale,Spring,2024,143.0,Spring 2024
+Boston,Spring,2024,95.0,Spring 2024
+University of Virginia,Fall,2025,76.0,Fall 2025
+Columbia,Spring,2026,56.0,Spring 2026
+Johns Hopkins + American,Fall,2021,40.0,Fall 2021
+Dartmouth,Spring,2021,111.0,Spring 2021
+Swarthmore,Fall,2022,77.0,Fall 2022
 Wellesley,Fall,2019,65.0,Fall 2019
 Columbia + Swarthmore,Spring,2020,20.0,Spring 2020
 Georgetown,Spring,2022,42.0,Spring 2022
@@ -68,37 +123,20 @@ Wellesley,Spring,2024,30.0,Spring 2024
 Princeton,Spring,2025,261.0,Spring 2025
 Drexel,Spring,2025,40.0,Spring 2025
 Maryland,Spring,2026,28.0,Spring 2026
-Amherst,Fall,2019,131.0,Fall 2019
-George Washington,Fall,2022,137.0,Fall 2022
-Northeastern,Spring,2022,136.0,Spring 2022
-Smith,Fall,2022,26.0,Fall 2022
-Boston,Fall,2023,238.0,Fall 2023
-Northeastern,Fall,2023,195.0,Fall 2023
-Brown,Spring,2023,76.0,Spring 2023
-William and Mary,Spring,2024,36.0,Spring 2024
-Temple,Spring,2024,82.0,Spring 2024
-Boston,Fall,2025,250.0,Fall 2025
-Brown,Spring,2025,98.0,Spring 2025
-Brandeis,Spring,2026,132.0,Spring 2026
-University of Pittsburgh,Fall,2024,38.0,Fall 2024
-Penn,Spring,2024,99.0,Spring 2024
-Harvard,Fall,2025,272.0,Fall 2025
-Swarthmore,Fall,2025,42.0,Fall 2025
-Swarthmore,Spring,2026,72.0,Spring 2026
-George Washington,Spring,2026,98.0,Spring 2026
-University of Delaware,Spring,2026,34.0,Spring 2026
-Rutgers,Spring,2026,108.0,Spring 2026
-Smith,Fall,2019,95.0,Fall 2019
-George Washington,Fall,2019,112.0,Fall 2019
-Brown,Fall,2019,159.0,Fall 2019
-Columbia,Fall,2022,205.0,Fall 2022
-Wellesley,Spring,2022,49.0,Spring 2022
-Georgetown,Fall,2023,60.0,Fall 2023
-Maryland,Fall,2023,67.0,Fall 2023
-Wesleyan,Spring,2023,60.0,Spring 2023
-University of Virginia,Spring,2024,37.0,Spring 2024
-Georgetown,Spring,2024,93.0,Spring 2024
-Brown,Spring,2026,92.0,Spring 2026
+CUNY,Spring,2020,83.0,Spring 2020
+Princeton + Northeastern + Bates,Spring,2021,128.0,Spring 2021
+University of Chicago + Northeastern,Spring,2021,62.0,Spring 2021
+Binghamton University,Fall,2022,25.0,Fall 2022
+Fordham,Fall,2022,140.0,Fall 2022
+Boston,Spring,2022,59.0,Spring 2022
+Drexel,Fall,2023,45.0,Fall 2023
+Bentley,Fall,2024,23.0,Fall 2024
+Swarthmore,Spring,2024,40.0,Spring 2024
+Williams,Spring,2024,48.0,Spring 2024
+NYU,Spring,2024,74.0,Spring 2024
+Rutgers,Spring,2024,128.0,Spring 2024
+Johns Hopkins,Fall,2025,87.0,Fall 2025
+Penn,Spring,2026,144.0,Spring 2026
 University of Pittsburgh,Fall,2019,50.0,Fall 2019
 CUNY + Maryland,Fall,2020,48.0,Fall 2020
 Columbia,Fall,2020,29.0,Fall 2020
@@ -119,35 +157,6 @@ Williams,Fall,2025,45.0,Fall 2025
 Wesleyan,Fall,2025,60.0,Fall 2025
 Yale,Spring,2025,114.0,Spring 2025
 Boston,Spring,2025,106.0,Spring 2025
-Penn,Fall,2019,126.0,Fall 2019
-Binghamton University,Fall,2019,65.0,Fall 2019
-Maryland + Boston University,Spring,2021,212.0,Spring 2021
-Swarthmore,Fall,2024,93.0,Fall 2024
-University of Pittsburgh,Fall,2025,40.0,Fall 2025
-CUNY,Spring,2020,83.0,Spring 2020
-Princeton + Northeastern + Bates,Spring,2021,128.0,Spring 2021
-University of Chicago + Northeastern,Spring,2021,62.0,Spring 2021
-Binghamton University,Fall,2022,25.0,Fall 2022
-Fordham,Fall,2022,140.0,Fall 2022
-Boston,Spring,2022,59.0,Spring 2022
-Drexel,Fall,2023,45.0,Fall 2023
-Bentley,Fall,2024,23.0,Fall 2024
-Swarthmore,Spring,2024,40.0,Spring 2024
-Williams,Spring,2024,48.0,Spring 2024
-NYU,Spring,2024,74.0,Spring 2024
-Rutgers,Spring,2024,128.0,Spring 2024
-Johns Hopkins,Fall,2025,87.0,Fall 2025
-Penn,Spring,2026,144.0,Spring 2026
-Johns Hopkins + American,Fall,2021,40.0,Fall 2021
-Dartmouth,Spring,2021,111.0,Spring 2021
-Swarthmore,Fall,2022,77.0,Fall 2022
-Johns Hopkins,Fall,2019,121.0,Fall 2019
-Smith + Columbia,Fall,2021,88.0,Fall 2021
-University of Pittsburgh,Fall,2022,48.0,Fall 2022
-Tufts,Fall,2025,76.0,Fall 2025
-Tufts,Spring,2025,113.0,Spring 2025
-Yale,Spring,2026,106.0,Spring 2026
-Boston,Spring,2026,128.0,Spring 2026
 Villanova,Fall,2019,76.0,Fall 2019
 University of Virginia,Spring,2020,80.0,Spring 2020
 Northeastern + Boston College,Fall,2021,48.0,Fall 2021
@@ -164,27 +173,18 @@ Johns Hopkins,Fall,2024,65.0,Fall 2024
 University of Chicago,Spring,2025,89.0,Spring 2025
 Swarthmore,Spring,2025,60.0,Spring 2025
 George Washington,Spring,2025,89.0,Spring 2025
-William and Mary,Fall,2021,35.0,Fall 2021
-Wellesley,Fall,2022,44.0,Fall 2022
-William and Mary,Spring,2022,35.0,Spring 2022
-Maryland,Spring,2023,30.0,Spring 2023
-Brown,Fall,2024,116.0,Fall 2024
-George Washington,Fall,2024,142.0,Fall 2024
-Northeastern,Spring,2024,45.0,Spring 2024
-Maryland,Spring,2025,58.0,Spring 2025
-Drexel,Spring,2026,59.0,Spring 2026
-Princeton,Spring,2026,204.0,Spring 2026
-Swarthmore,Fall,2019,178.0,Fall 2019
-Swarthmore,Spring,2022,96.0,Spring 2022
-NYU,Spring,2022,52.0,Spring 2022
-George Washington,Spring,2022,50.0,Spring 2022
-University of Virginia,Fall,2023,52.0,Fall 2023
-Fordham,Fall,2024,175.0,Fall 2024
-Wesleyan,Fall,2024,54.0,Fall 2024
-Yale,Spring,2024,143.0,Spring 2024
-Boston,Spring,2024,95.0,Spring 2024
-University of Virginia,Fall,2025,76.0,Fall 2025
-Columbia,Spring,2026,56.0,Spring 2026
+Johns Hopkins,Fall,2019,121.0,Fall 2019
+Smith + Columbia,Fall,2021,88.0,Fall 2021
+University of Pittsburgh,Fall,2022,48.0,Fall 2022
+Tufts,Fall,2025,76.0,Fall 2025
+Tufts,Spring,2025,113.0,Spring 2025
+Yale,Spring,2026,106.0,Spring 2026
+Boston,Spring,2026,128.0,Spring 2026
+Penn,Fall,2019,126.0,Fall 2019
+Binghamton University,Fall,2019,65.0,Fall 2019
+Maryland + Boston University,Spring,2021,212.0,Spring 2021
+Swarthmore,Fall,2024,93.0,Fall 2024
+University of Pittsburgh,Fall,2025,40.0,Fall 2025
 Fordham,Fall,2019,175.0,Fall 2019
 University of Virginia,Fall,2019,54.0,Fall 2019
 Columbia,Fall,2019,240.0,Fall 2019
